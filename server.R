@@ -140,15 +140,15 @@ shinyServer(function(input, output, session) {
     #########################################################################
     #########################################################################
 
-    # current_gbif <- reactive({
-    #     withProgress(message="Getting GBIF records",
-    #                  detail="Please be patient...",
-    #                  value=0.25, {
-    #         res <- get_gbif(get_sci_name())
-    #         setProgress(1)
-    #     })
-    #     return(res)
-    # })
+    current_gbif <- reactive({
+        withProgress(message="Getting GBIF records",
+                     detail="Please wait...",
+                     value=0.25, {
+            res <- get_gbif(get_sci_name())
+            setProgress(1)
+        })
+        return(res)
+    })
 
     cur_zoom <- reactive({
         if (!is.null(input$map_zoom)) {
@@ -158,14 +158,6 @@ shinyServer(function(input, output, session) {
         }
     })
 
-    observe({
-        input$map_rezoom
-        leafletProxy("sp_map") %>%
-            setView(lng=-95, 
-                    lat=38, 
-                    zoom = 4)
-    })
-        
     #######################################################################
     # Now to make the map
     output$sp_map <- renderLeaflet({ 
@@ -184,72 +176,80 @@ shinyServer(function(input, output, session) {
             addProviderTiles("Stamen.TonerLite") 
     })
 
+    observe({
+        input$map_rezoom
+        leafletProxy("sp_map") %>%
+            setView(lng=-95, 
+                    lat=38, 
+                    zoom = 4)
+    })
+        
     point_vis <- reactive({
         if(input$show_points == TRUE) { TRUE } else { FALSE }
     })
 
-    # # proxy to add occurrences, if available
-    # observe({
-    #     if(point_vis()) {
-    #         GBdat <- current_gbif()
-    #         if(!is.null(GBdat)) {
-    #             ref <- rep("", length(GBdat$references))
-    #             if(!is.null(GBdat$references)) {
-    #                 ref <- ifelse(!is.na(GBdat$references),
-    #                               paste0("<a href='", 
-    #                                      GBdat$references, 
-    #                                      "' target='_blank'>Specimen record</a>"),
-    #                               paste0("<a href=http://www.gbif.org/occurrence/",
-    #                                      GBdat$key,
-    #                                      " target='_blank'>GBIF record</a>"))
-    #             } else {
-    #                 ref <- paste0("<a href=http://www.gbif.org/occurrence/",
-    #                               GBdat$key,
-    #                               " target='_blank'>GBIF record</a>", ref)
-    #             }
-    #             coord_dat <- data.frame(long=GBdat$decimalLongitude,
-    #                                     lat=GBdat$decimalLatitude,
-    #                                     popup=ref)
+    # proxy to add occurrences, if available
+    observe({
+        if(point_vis()) {
+            GBdat <- current_gbif()
+            if(!is.null(GBdat)) {
+                ref <- rep("", length(GBdat$references))
+                if(!is.null(GBdat$references)) {
+                    ref <- ifelse(!is.na(GBdat$references),
+                                  paste0("<a href='", 
+                                         GBdat$references, 
+                                         "' target='_blank'>Specimen record</a>"),
+                                  paste0("<a href=http://www.gbif.org/occurrence/",
+                                         GBdat$key,
+                                         " target='_blank'>GBIF record</a>"))
+                } else {
+                    ref <- paste0("<a href=http://www.gbif.org/occurrence/",
+                                  GBdat$key,
+                                  " target='_blank'>GBIF record</a>", ref)
+                }
+                coord_dat <- data.frame(long=GBdat$decimalLongitude,
+                                        lat=GBdat$decimalLatitude,
+                                        popup=ref)
 
-    #             if(input$cluster_mark) {
-    #                 leafletProxy("sp_map", data=coord_dat) %>%
-    #                     clearMarkerClusters() %>%
-    #                     addMarkers(lng=~long, lat=~lat, popup=~popup,
-    #                                clusterOptions=markerClusterOptions())
-    #             } else {
-    #                 leafletProxy("sp_map", data=coord_dat) %>%
-    #                     clearMarkers() %>%
-    #                     addMarkers(lng=~long, lat=~lat, popup=~popup)
-    #             }
-    #         } else {
-    #             if(input$cluster_mark) {
-    #                 leafletProxy("sp_map") %>%
-    #                     clearMarkerClusters()
-    #             } else {
-    #                 leafletProxy("sp_map") %>%
-    #                     clearMarkers()
-    #             }
-    #         }
-    #     } else {
-    #         if(input$cluster_mark) {
-    #             leafletProxy("sp_map") %>%
-    #                 clearMarkerClusters()
-    #         } else {
-    #             leafletProxy("sp_map") %>%
-    #                 clearMarkers()
-    #         }
-    #     }
-    # })
+                if(input$cluster_mark) {
+                    leafletProxy("sp_map", data=coord_dat) %>%
+                        clearMarkerClusters() %>%
+                        addMarkers(lng=~long, lat=~lat, popup=~popup,
+                                   clusterOptions=markerClusterOptions())
+                } else {
+                    leafletProxy("sp_map", data=coord_dat) %>%
+                        clearMarkers() %>%
+                        addMarkers(lng=~long, lat=~lat, popup=~popup)
+                }
+            } else {
+                if(input$cluster_mark) {
+                    leafletProxy("sp_map") %>%
+                        clearMarkerClusters()
+                } else {
+                    leafletProxy("sp_map") %>%
+                        clearMarkers()
+                }
+            }
+        } else {
+            if(input$cluster_mark) {
+                leafletProxy("sp_map") %>%
+                    clearMarkerClusters()
+            } else {
+                leafletProxy("sp_map") %>%
+                    clearMarkers()
+            }
+        }
+    })
 
-    # observe({
-    #     if(input$cluster_mark) {
-    #         leafletProxy("sp_map") %>%
-    #             clearMarkers()
-    #     } else {
-    #         leafletProxy("sp_map") %>%
-    #             clearMarkerClusters()
-    #     }
-    # })
+    observe({
+        if(input$cluster_mark) {
+            leafletProxy("sp_map") %>%
+                clearMarkers()
+        } else {
+            leafletProxy("sp_map") %>%
+                clearMarkerClusters()
+        }
+    })
 
     #######################################################################
     #######################################################################

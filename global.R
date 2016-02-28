@@ -19,14 +19,14 @@
 #############################################################################
 # library(DBI)
 library(DT)
-# library(dplyr)
+library(dplyr)
 # library(httr)
 # library(lattice)
 # library(lubridate)
 # library(RCurl)
 # library(jsonlite)
 # library(reldist)
-# library(rgbif)
+library(rgbif)
 library(readxl)
 library(shiny)
 library(shinydashboard)
@@ -40,7 +40,7 @@ library(sp)
 
 
 # library(googleVis)
-# library(plyr)
+library(plyr)
 
 # source("data_mgmt/make_dataframes.R")
 # source("data_mgmt/subset_fx.R")

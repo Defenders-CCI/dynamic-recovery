@@ -45,8 +45,20 @@ biology_page <- {
             tabPanel(
                 title="Distribution",
                 fluidRow(
-                    h3("GBIF-leaflet map will show up here."),
-                    # leafletOutput("sp_map", height=425),
+                    # h3("GBIF-leaflet map will show up here."),
+                    div(style="position:static",
+                        leafletOutput("sp_map", height=425),
+                        absolutePanel(id = "rezoom", class = "panel panel-default", 
+                            draggable = FALSE, top = "25%", left = "auto", 
+                            right = 20, bottom = "auto", width = "auto", 
+                            height = "auto",
+                            bsButton(inputId="map_rezoom",
+                                label=icon("home", lib="font-awesome"),
+                                size="small")
+                        )
+                    )
+                ),
+                fluidRow(
                     column(4,
                         checkboxInput("show_points",
                             label="Show point occurrences?",
