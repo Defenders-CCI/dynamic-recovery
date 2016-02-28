@@ -1,4 +1,4 @@
-<figure style="float:right; padding-left:10px">
+<figure style="float:right; padding-left:10px" >
     <img src="http://static.inaturalist.org/photos/2843338/medium.jpg?1451870584" width="250px"></td></tr>
     <figcaption>CC BY-NC-ND David R <a href="http://www.inaturalist.org/observations/2550426">iNaturalist</a></figcaption>
 </figure>

@@ -25,11 +25,22 @@ biology_page <- {
         tabsetPanel(
             tabPanel(
                 title="Description",
-                uiOutput("cur_description")
+                uiOutput("cur_description"),
+                span(actionButton("edit-2", 
+                                  label = "Edit", 
+                                  icon = icon("pencil-square-o")),
+                     style = "float: right"
+                )
+
             ),
             tabPanel(
                 title="Taxonomy",
-                uiOutput("cur_taxonomy")
+                uiOutput("cur_taxonomy"),
+                span(actionButton("edit-3", 
+                                  label = "Edit", 
+                                  icon = icon("pencil-square-o")),
+                     style = "float: right"
+                )
             ),
             tabPanel(
                 title="Distribution",

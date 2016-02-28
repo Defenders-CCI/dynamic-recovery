@@ -1,5 +1,7 @@
 __Table 1. Threat checklist for East Pacific green sea turtles in the U.S. Pacific Ocean__ 1 = major problem; 2 = moderate problem; 3 = minor problem; P = known problem, but unknown extent; ? = unknown; - = not a problem
 
+------------------------
+
 This section presents a brief overview of threats to East Pacific green turtles, followed by summaries of major threats in each U.S.-affiliated area. A third section then presents more detailed information specific to each area where this species occurs. "Threats" to sea turtles are broadly defined as any factor that jeopardizes the survival of turtles or impedes population recovery. These threat categories are presented, but it is readily apparent that not all are equally important and that threats in one area may not be relevant in another. Consequently, each political jurisdiction was evaluated separately based on information received from the Pacific Sea
 Turtle Recovery Team and Technical Advisors. (see Table 1).
 

@@ -1,10 +1,7 @@
-<figure style="float:right; padding-left:10px">
+<figure style="float:right; padding-left:10px" >
     <img src="http://static.inaturalist.org/photos/2843338/medium.jpg?1451870584" width="250px"></td></tr>
     <figcaption>CC BY-NC-ND David R <a href="http://www.inaturalist.org/observations/2550426">iNaturalist</a></figcaption>
 </figure>
-
-The East Pacific green turtle is [listed as Endangered](http://www.nmfs.noaa.gov/pr/pdfs/fr/fr43-32800.pdf) throughout its range. This regionally important population of the green turtle (Chelonia mydas, although see Taxonomy), has exhibited an extreme decline over the last 30 years. This decline was undoubtably caused by the massive overharvest of wintering turtles in the [Sea of Cortez](https://en.wikipedia.org/wiki/Gulf_of_California) between 1950 and 1970, and the intense collection of eggs between 1960 and early 1980 on mainland beaches of Mexico. Primary threats to the species in U.S. waters are from entanglement in debris and boat collisions. Primary threats in Mexico are the (illegal) harvest of turtles and eggs.
-
 
 ### Goal
 The recovery goal is to delist this regionally important population.

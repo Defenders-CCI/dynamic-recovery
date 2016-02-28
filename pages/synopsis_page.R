@@ -25,17 +25,14 @@ synopsis_page <- {
         br(),
         # includeMarkdown("txt/Chelonia_mydas/synopsis.md"),
         uiOutput("cur_synopsis"),
+        span(actionButton("edit", 
+                          label = "Edit", 
+                          icon = icon("pencil-square-o")),
+             style = "float: right"
+        ),
         br(),
 
-        # footer area
-        fluidRow(
-            column(2),
-            column(8,
-                HTML("<p style='text-align:center'>These dynamic recovery plans based on recovery plans compiled and maintained by the National Marine Fisheries Service and the U.S. Fish and Wildlife Service.")
-            ),
-            column(2)
-        ),
-        hr(),
+        hr(), br(),
         fluidRow(
             column(3),
             column(6,
@@ -43,6 +40,6 @@ synopsis_page <- {
             ),
             column(3)
         ),
-        br()
+        br(), hr()
     )
 }

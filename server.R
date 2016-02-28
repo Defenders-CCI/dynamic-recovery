@@ -24,6 +24,37 @@ source("data_mgmt/get_gbif.R")
 #############################################################################
 shinyServer(function(input, output, session) {
 
+    edit_text <- function(x) {
+        observe({
+            y <- input$edit_text
+            updateTextInput(session,
+                "mod_text_edit",
+                value = readLines("txt/synopsis.md")
+            )
+        })
+    }
+
+    output$get_synopsis_ed <- renderText({
+        t <- paste(readLines("txt/Chelonia_mydas/synopsis.md"), collapse="\n")
+        paste0("<textarea rows='25' cols='90' style='font-family:monospace'>",
+               value = t,
+               "</textarea>")
+    })
+
+    output$get_description_ed <- renderText({
+        paste0("<textarea rows='25' cols='90' style='font-family:monospace'>",
+               value = paste(readLines("txt/Chelonia_mydas/description.md"), 
+                             collapse="\n"),
+               "</textarea>")
+    })
+
+    output$get_taxonomy_ed <- renderText({
+        paste0("<textarea rows='25' cols='90' style='font-family:monospace'>",
+               value = paste(readLines("txt/Chelonia_mydas/taxonomy.md"), 
+                             collapse="\n"),
+               "</textarea>")
+    })
+
     output$cur_species <- renderText({
         strsplit(input$sel_species, split=" (", fixed=TRUE)[[1]][1]
     })
@@ -82,10 +113,32 @@ shinyServer(function(input, output, session) {
         return(includeMarkdown(res))
     })
 
-    output$cur_recovery_actions <- renderText({
-        res <- paste0("txt/", sci_fold(), "/recovery_actions.md")
+    output$cur_recovery_stepdown <- renderText({
+        res <- paste0("txt/", sci_fold(), "/recovery_stepdown.md")
         return(includeMarkdown(res))
     })
+
+    output$recovery_actions_table <- DT::renderDataTable({
+        datf <- paste0("data/", sci_fold(), "/recovery_ad_hoc_report.xls")
+        dat <- read_excel(datf)
+        dat
+    })
+
+    output$cur_literature <- renderText({
+        res <- paste0("txt/", sci_fold(), "/literature.md")
+        return(includeMarkdown(res))
+    })
+
+    output$cur_discussion <- renderText({
+        res <- paste0("txt/", sci_fold(), "/recovery_stepdown.md")
+        return(includeMarkdown(res))
+    })
+
+    #########################################################################
+    #########################################################################
+    # Now all of the code for the map!                                      #
+    #########################################################################
+    #########################################################################
 
     # current_gbif <- reactive({
     #     withProgress(message="Getting GBIF records",
@@ -97,9 +150,6 @@ shinyServer(function(input, output, session) {
     #     return(res)
     # })
 
-    #######################################################################
-    #######################################################################
-    # Now all of the code for the map!
     cur_zoom <- reactive({
         if (!is.null(input$map_zoom)) {
             input$map_zoom
