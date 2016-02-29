@@ -14,16 +14,11 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-openSans <- "<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400' 
-            rel='stylesheet' type='text/css'>"
-fontAwesome <- "<link rel='stylesheet' 
-               href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'/>"
 
 synopsis_page <- {
     tabPanel(
         title="Synopsis",
         br(),
-        # includeMarkdown("txt/Chelonia_mydas/synopsis.md"),
         uiOutput("cur_synopsis"),
         span(actionButton("edit", 
                           label = "Edit", 

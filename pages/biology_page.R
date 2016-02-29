@@ -45,12 +45,12 @@ biology_page <- {
             tabPanel(
                 title="Distribution",
                 fluidRow(
-                    # h3("GBIF-leaflet map will show up here."),
-                    div(style="position:static",
+                    br(),
+                    div(style="position:static; padding-left:25px; padding-right:25px",
                         leafletOutput("sp_map", height=425),
                         absolutePanel(id = "rezoom", class = "panel panel-default", 
-                            draggable = FALSE, top = "25%", left = "auto", 
-                            right = 20, bottom = "auto", width = "auto", 
+                            draggable = FALSE, top = "15%", left = "auto", 
+                            right = 30, bottom = "auto", width = "auto", 
                             height = "auto",
                             bsButton(inputId="map_rezoom",
                                 label=icon("home", lib="font-awesome"),
@@ -58,23 +58,7 @@ biology_page <- {
                         )
                     )
                 ),
-                fluidRow(
-                    column(4,
-                        checkboxInput("show_points",
-                            label="Show point occurrences?",
-                            value=TRUE
-                        )
-                    ),
-                    column(4,
-                        checkboxInput("cluster_mark",
-                            label="Cluster markers?",
-                            value=TRUE
-                        )
-                    )
-                ),
-                fluidRow(
-                    uiOutput("cur_distribution")
-                )
+                uiOutput("cur_distribution")
             ),
             tabPanel(
                 title="Natural history",

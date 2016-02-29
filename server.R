@@ -24,6 +24,17 @@ source("data_mgmt/get_gbif.R")
 #############################################################################
 shinyServer(function(input, output, session) {
 
+    output$defenders <- renderImage({
+        width <- session$clientData$output_defenders_width
+        if (width > 100) {
+            width <- 100
+        }
+        list(src = "www/01_DOW_LOGO_COLOR_300.png",
+             contentType = "image/png",
+             alt = "Defenders of Wildlife",
+             width=width)
+    }, deleteFile=FALSE)
+
     edit_text <- function(x) {
         observe({
             y <- input$edit_text
@@ -161,101 +172,79 @@ shinyServer(function(input, output, session) {
     #######################################################################
     # Now to make the map
     output$sp_map <- renderLeaflet({ 
-		cur_map <- leaflet() %>%
-                   setView(lng=-105, 
+        GBdat <- current_gbif()
+        if(!is.null(GBdat)) {
+            ref <- rep("", length(GBdat$references))
+            if(!is.null(GBdat$references)) {
+                ref <- ifelse(!is.na(GBdat$references),
+                              paste0("<a href='", 
+                                     GBdat$references, 
+                                     "' target='_blank'>Specimen record</a>"),
+                              paste0("<a href=http://www.gbif.org/occurrence/",
+                                     GBdat$key,
+                                     " target='_blank'>GBIF record</a>"))
+            } else {
+                ref <- paste0("<a href=http://www.gbif.org/occurrence/",
+                              GBdat$key,
+                              " target='_blank'>GBIF record</a>", ref)
+            }
+            coord_dat <- data.frame(long=GBdat$decimalLongitude,
+                                    lat=GBdat$decimalLatitude,
+                                    popup=ref)
+        }
+
+		cur_map <- leaflet(data = coord_dat) %>%
+                   addProviderTiles("Stamen.TonerLite") %>%
+                   setView(lng=-110, 
                            lat=32, 
                            zoom = 4) %>%
+                   addMarkers(lng=~long, lat=~lat, popup=~popup,
+                              clusterOptions=markerClusterOptions()) %>%
                    mapOptions(zoomToLimits = "first")
+
         return(cur_map)
     })
+    outputOptions(output, "sp_map", suspendWhenHidden = FALSE)
 
-    # proxy to add/change the basemap
-    observe({ 
-        leafletProxy("sp_map") %>% 
-            clearTiles() %>% 
-            addProviderTiles("Stamen.TonerLite") 
-    })
-
-    observe({
-        input$map_rezoom
-        leafletProxy("sp_map") %>%
-            setView(lng=-95, 
-                    lat=38, 
-                    zoom = 4)
-    })
-        
     point_vis <- reactive({
         if(input$show_points == TRUE) { TRUE } else { FALSE }
     })
 
     # proxy to add occurrences, if available
     observe({
-        if(point_vis()) {
-            GBdat <- current_gbif()
-            if(!is.null(GBdat)) {
-                ref <- rep("", length(GBdat$references))
-                if(!is.null(GBdat$references)) {
-                    ref <- ifelse(!is.na(GBdat$references),
-                                  paste0("<a href='", 
-                                         GBdat$references, 
-                                         "' target='_blank'>Specimen record</a>"),
-                                  paste0("<a href=http://www.gbif.org/occurrence/",
-                                         GBdat$key,
-                                         " target='_blank'>GBIF record</a>"))
-                } else {
-                    ref <- paste0("<a href=http://www.gbif.org/occurrence/",
-                                  GBdat$key,
-                                  " target='_blank'>GBIF record</a>", ref)
-                }
-                coord_dat <- data.frame(long=GBdat$decimalLongitude,
-                                        lat=GBdat$decimalLatitude,
-                                        popup=ref)
+        GBdat <- current_gbif()
+        if(!is.null(GBdat)) {
+            ref <- rep("", length(GBdat$references))
+            if(!is.null(GBdat$references)) {
+                ref <- ifelse(!is.na(GBdat$references),
+                              paste0("<a href='", 
+                                     GBdat$references, 
+                                     "' target='_blank'>Specimen record</a>"),
+                              paste0("<a href=http://www.gbif.org/occurrence/",
+                                     GBdat$key,
+                                     " target='_blank'>GBIF record</a>"))
+            } else {
+                ref <- paste0("<a href=http://www.gbif.org/occurrence/",
+                              GBdat$key,
+                              " target='_blank'>GBIF record</a>", ref)
+            }
+            coord_dat <- data.frame(long=GBdat$decimalLongitude,
+                                    lat=GBdat$decimalLatitude,
+                                    popup=ref)
 
-                if(input$cluster_mark) {
-                    leafletProxy("sp_map", data=coord_dat) %>%
-                        clearMarkerClusters() %>%
-                        addMarkers(lng=~long, lat=~lat, popup=~popup,
-                                   clusterOptions=markerClusterOptions())
-                } else {
-                    leafletProxy("sp_map", data=coord_dat) %>%
-                        clearMarkers() %>%
-                        addMarkers(lng=~long, lat=~lat, popup=~popup)
-                }
-            } else {
-                if(input$cluster_mark) {
-                    leafletProxy("sp_map") %>%
-                        clearMarkerClusters()
-                } else {
-                    leafletProxy("sp_map") %>%
-                        clearMarkers()
-                }
-            }
-        } else {
-            if(input$cluster_mark) {
-                leafletProxy("sp_map") %>%
-                    clearMarkerClusters()
-            } else {
-                leafletProxy("sp_map") %>%
-                    clearMarkers()
-            }
+            leafletProxy("sp_map", data=coord_dat) %>%
+                clearMarkerClusters() %>%
+                addMarkers(lng=~long, lat=~lat, popup=~popup,
+                           clusterOptions=markerClusterOptions())
         }
     })
 
     observe({
-        if(input$cluster_mark) {
-            leafletProxy("sp_map") %>%
-                clearMarkers()
-        } else {
-            leafletProxy("sp_map") %>%
-                clearMarkerClusters()
-        }
+        input$map_rezoom
+        leafletProxy("sp_map") %>%
+            setView(lng=-110, 
+                    lat=32, 
+                    zoom = 4)
     })
-
-    #######################################################################
-    #######################################################################
-
-
-    # Call the files with server functions broken out by page
-    # server_species_page(input, output, sel_sp_dat, GBIF_data, session)
 
 })

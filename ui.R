@@ -106,17 +106,22 @@ body <- dashboardBody(
                         inputId = "sel_species",
                         label = h4("Select a species", style = "font-weight:bold"),
                         choices = avail_spp,
-                        width = "98%"
+                        width = "100%"
                     ),
-                    HTML("<hr><p style = 'text-align:center'>These dynamic recovery plans based on recovery plans compiled and maintained by the National Marine Fisheries Service and the U.S. Fish and Wildlife Service.</p>"
+                    wellPanel(
+                        p("PROTOTYPE", style="color: red; font-weight: bold")
+                        , helpText("The dynamic recovery plans in this app are based on recovery plans compiled and maintained by the National Marine Fisheries Service and the U.S. Fish and Wildlife Service. The app is only a prototype, and lacks significant functionality that a full demonstration app would have.")
+                        , hr()
+                        , a(href="http://www.defenders.org",
+                            imageOutput("defenders", height=NULL))
+                        , hr()
                     )
                 ),
                 column(10,
-                    wellPanel(
-                        h2(textOutput("cur_species"),
-                            style = "font-weight:bold"),
-                        span(textOutput("sci_name"), style = "font-style:italic")
-                    ),
+                    h2(textOutput("cur_species"),
+                        style = "font-weight:bold"),
+                    span(textOutput("sci_name"), style = "font-style:italic"),
+                    hr(),
                     tabsetPanel(
                         synopsis_page,
                         biology_page,
