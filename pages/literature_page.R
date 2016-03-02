@@ -14,26 +14,28 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-openSans <- "<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400' 
-            rel='stylesheet' type='text/css'>"
-fontAwesome <- "<link rel='stylesheet' 
-               href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'/>"
-
 literature_page <- {
     tabPanel(
         title="Literature",
         br(),
-        uiOutput("cur_literature"),
+        column(12,
+            uiOutput("cur_literature")
+        ),
         br(),
 
-        hr(),
-        br(),
+        fluidRow(
+            br(),
+            hr()
+        ),
         fluidRow(
             column(3),
             column(6,
                 div(HTML(defenders_cc()), style=center_text)
             ),
-            column(3),
+            column(3)
+        ),
+        fluidRow(
+            hr(),
             br()
         )
     )

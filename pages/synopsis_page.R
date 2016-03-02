@@ -19,15 +19,20 @@ synopsis_page <- {
     tabPanel(
         title="Synopsis",
         br(),
-        uiOutput("cur_synopsis"),
-        span(actionButton("edit", 
-                          label = "Edit", 
-                          icon = icon("pencil-square-o")),
-             style = "float: right"
+        fluidRow(
+            column(12,
+                uiOutput("cur_synopsis"),
+                span(actionButton("edit", 
+                                  label = "Edit", 
+                                  icon = icon("pencil-square-o")),
+                     style = "float: right"
+                )
+            )
         ),
-        br(),
-
-        hr(), br(),
+        fluidRow(
+            br(),
+            hr()
+        ),
         fluidRow(
             column(3),
             column(6,
@@ -35,6 +40,9 @@ synopsis_page <- {
             ),
             column(3)
         ),
-        br(), hr()
+        fluidRow(
+            hr(),
+            br()
+        )
     )
 }

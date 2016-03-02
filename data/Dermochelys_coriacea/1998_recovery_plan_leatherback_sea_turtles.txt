@@ -1,0 +1,4095 @@
+Recovery Plan for U.S. Pacific Populations
+of the
+
+Leatherback Turtle
+(Dermochelys coriacea)
+
+U.S. Department of Commerce
+
+U.S. Department of the Interior
+
+National Oceanic and Atmospheric Administration
+
+U.S. Fish and Wildlife Service
+
+National Marine Fisheries Service
+
+Cover Photograph Courtesy of Scott A. Eckert, Ph.D.
+
+RECOVERY PLAN FOR U.S. PACIFIC POPULATIONS OF THE
+LEATHERBACK TURTLE
+
+(Dermochelys coriacea)
+Prepared by the
+Pacific Sea Turtle Recovery Team
+
+for
+National Marine Fisheries Service
+Silver Spring, Maryland
+and
+Pacific Region
+U.S. Fish and Wildlife Service
+
+Portland, Oregon
+
+Approved:
+
+Date:
+
+/ ! - R 3 -9 7
+
+Approved:
+Assistant Administrator for Fisheries, National Marine Fisheries Service
+Date:
+
+l[v[f.f
+
+Recovery plans delineate reasonable actions which are believed to be required to recover
+and/or protect the species. Plans are prepared by the National Marine Fisheries Service
+(NMFS) and the U.S. Fish and Wildlife Service (FWS), and sometimes with the assistance of
+recovery teams, contractors, State agencies and others. Objectives will only be attained and
+funds expended contingently upon appropriations, priorities and other budgetary constraints.
+Recovery plans do not necessarily represent the views nor the official positions or approvals of
+any individuals or agencies, other than those of NMFS and the FWS which were involved in
+the plan formulation. They represent the official positions of NMFS and the FWS only after
+they have been approved by the Assistant Administrator for Fisheries or the Regional Director.
+Approved recovery plans are subject to modification as dictated by new findings, changes in
+species status and the completion of recovery tasks.
+
+Literature citations should read as follows:
+National Marine Fisheries Service and U.S. Fish and Wildlife Service. 1998. Recovery Plan
+for U.S. Pacific Populations of the Leatherback Turtle (Dermochelys coriacea).
+National Marine Fisheries Service, Silver Spring, MD.
+Additional copies of this plan may be purchased from:
+Fish and Wildlife Reference Service
+5430 Grosvenor Lane
+Suite 110
+Bethesda, Maryland 20814
+(301)492-6403 or
+1-800-582-3421
+The fee for the plan varies depending on the number of pages of the plan.
+
+TABLE OF CONTENTS
+(Leatherback)
+
+PREFACE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii
+ACKNOWLEDGMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iv
+LIST OF ABBREVIATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . v
+EXECUTIVE SUMMARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vi
+I. INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+A. Geographic Scope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+B. Historical and Cultural Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+C. Taxonomy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+D. Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+E. Population Distribution and Size . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Nesting Grounds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Insular and Pelagic Range . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+F. Status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+G. Biological Characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Migration and Movements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Foraging Biology and Diet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Growth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Reproduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Offshore Behavior . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Health Status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+H. Threats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Pacific Synopsis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Regional Summaries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+U.S. West Coast . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Hawaii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+American Samoa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Guam . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Republic of Palau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Commonwealth of the Northern Marianas (CNMI) . . . . . . . . . . . . . . . . 18
+Republic of the Marshall Islands (RMI) . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Federated States of Micronesia (FSM) . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Unincorporated Islands . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+General Threat Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Nesting Environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+1. Directed Take . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+2. Increased Human Presence . . . . . . . . . . . . . . . . . . . . . . . . . 21
+3. Coastal Construction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+4. Nest Predation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+5. Beach Erosion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+6. Artificial Lighting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+i
+
+7. Beach Mining . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+8. Vehicular Driving on Beaches . . . . . . . . . . . . . . . . . . . . . . . 22
+9. Exotic Vegetation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+10. Beach Cleaning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+11. Beach Replenishment . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Marine Environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+12. Directed Take . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+13. Natural Disasters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+14. Disease and Parasites . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+15. Environmental Contaminants . . . . . . . . . . . . . . . . . . . . . . . 24
+16. Debris (Entanglement and Ingestion) . . . . . . . . . . . . . . . . 24
+17. Fisheries (Incidental Take) . . . . . . . . . . . . . . . . . . . . . . . . . 24
+18. Predation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+19. Boat Collisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+20. Marina and Dock Development . . . . . . . . . . . . . . . . . . . . . 25
+21. Oil Exploration and Development . . . . . . . . . . . . . . . . . . . 25
+22. Power Plant Entrapment . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+I. Conservation Accomplishments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+II. RECOVERY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+A. Recovery Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+B. Step Down Outline and Narrative for Recovery . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+III. REFERENCES CITED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+IV. IMPLEMENTATION SCHEDULE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+
+ii
+
+PREFACE
+The National Marine Fisheries Service (NMFS) and the U.S. Fish and Wildlife Service (FWS)
+share responsibilities at the Federal level for the research, management, and recovery of Pacific
+marine turtle populations under U.S. jurisdiction. To accomplish the drafting of this recovery plan,
+NMFS appointed a team of professional biologists experienced with marine turtles in the Pacific
+region. This document is one of six recovery plans (one for each of the five species plus one for
+the regionally important population of the East Pacific green turtle).
+While similar in format to previously drafted sea turtle recovery plans for the Atlantic,
+Caribbean, and Hawaii, the unique nature of the wider Pacific region required some modification
+of the recovery plan format. The geographic scope of the present plan is much larger than any
+previously attempted and considers areas from the western coastal United States extending to
+Guam. Furthermore, the amount of jurisdictional overlap between nations, commonwealths,
+territories and compact-of-free-association-states and their various turtle populations required a
+broader management perspective than has been attempted previously. Finally, sea turtles have
+not been studied as comprehensively in the Pacific as in other U.S. areas, and thus there are
+many areas in the Pacific where basic biological and ecological information must be obtained for
+management purposes. Thus, these plans have more extensive text on the general biology of the
+turtles, so that they might act as a resource to managers seeking a handy reference to the
+species. The plans are also subdivided into U.S. jurisdictional areas (i.e., the various territories
+and the commonwealth), so that local managers can address issues within their respective regions
+more easily.
+Because of the previously noted aspects of marine turtle distribution in the Pacific (e.g. wide
+geographic range, multiple jurisdictions), the Recovery Team relied on the input and involvement
+of a large number of advisers, as can be noted by the lengthy Acknowledgments section. It is
+hoped that the resulting document is one that acts as a pragmatic guide to recovering the
+threatened and endangered sea turtle populations in the Pacific Ocean.
+The members of the Pacific Sea Turtle Recovery Team and the authors of this document are:
+Scott A. Eckert, Ph.D. (Team Leader)
+Hubbs-Sea World Research Institute
+
+Wider Caribbean Sea Turtle Conservation
+Network (WIDECAST)
+
+Javier Alvarado, Ph.D.
+Universidad de Michoacan, Mexico
+
+John Engbring
+U.S. Fish and Wildlife Service
+
+George Balazs
+National Marine Fisheries Service
+
+James Maragos, Ph.D.
+East-West Center
+
+Richard Byles, Ph.D.
+U.S. Fish and Wildlife Service
+
+Robert Pitman
+National Marine Fisheries Service
+
+Peter Craig, Ph.D.
+Office of Wildlife and Marine Resources,
+Government of American Samoa
+
+Susan Pultz
+U.S. Fish and Wildlife Service
+James I. Richardson. Ph.D.
+University of Georgia
+
+Peter Dutton, Ph.D.
+Texas A&M University
+Karen Eckert, Ph.D.
+iii
+
+ACKNOWLEDGMENTS
+The team wishes to thank and acknowledge the following technical advisors and contributors to
+these recovery plans:
+David Aldan, Department of Natural Resources, Saipan, MP
+Pablo Arenas, Inter-American Tropical Tuna Commission
+Representative Mariano W. Carlos, Palau
+Chuck Cook, The Nature Conservancy
+Donald David, FSM
+Gerry Davis, Division of Aquatic and Wildlife Resources, Dept. Agriculture, Guam
+Oscar DeBrum, former Chief Secretary, RMI
+Adrienne Farago, SPREP/RMTCP, Western Samoa
+Michael Guilbeaux,Georgia Sea Turtle Cooperative
+Vincent Hachiglou, Marine Resources Management Division, Yap State Government
+Heidi Hirsh, Andersen Air Force Base, Guam
+Paul Holthus, IUCN Biodiversity Program
+Luciana Honigman, The Nature Conservancy
+Noah Idechong, Division of Marine Resources, Palau
+John Iou, Marine Resources Management Division, Yap State Government
+Bruce Jensen, Pacific Magazine
+Harry Kami, Hilo, Hawaii
+Angela Kay Kepler, Athens, Georgia
+Steve Kolinski, Marine Resources Management Division, Yap State Government
+Colin Limpus, Queensland National Parks and Wildlife Service, Australia
+Becky Madraisau, Micronesian Mariculture Demonstration Center, Republic of Palau
+B. Renè Màrquez-M., P.N.I.T.M./INP, Mexico
+Donna McDonald, Ocean Planet Research
+Ken McDermond, U.S. Fish and Wildlife Service, Honolulu
+Jeffery Miller, Queensland Department of Environment & Heritage, Australia
+Susan Miller, South Pacific Regional Environment Program (SPREP)
+Karen Miller McClune, Hubbs-Sea World Research Institute
+Moses Nelson, Marine Resources Division, FSM
+Peter Oliver, RMI
+Arnold Palacios, Division of Fish and Wildlife, Dept. of Natural Resources, CNMI
+Peter Pritchard, Florida Audubon Society
+Georgita Ruiz, Colonia Irrigacion, Mexico
+Laura Sarti, Universidad Naçional Autonoma de Mexico, Mexico
+Fumihiko Sato, Ogasawara Marine Center, Japan
+Katsufumi Sato, Kyoto University, Japan
+Asterio Takesy, Secretary of Resources and Development, FSM
+Natasha Tuato’o-Bartley, Department of Marine and Wildife Resources, American Samoa
+Itaru Uchida, Port of Nagoya Public Aquarium, Japan
+Richard Wass, U.S. Fish and Wildlife Service
+Phil Williams, National Marine Fisheries Service
+
+iv
+
+LIST OF ABBREVIATIONS
+CCL
+CITES
+CNMI
+COE
+DAWR
+EEZ
+ENSO
+EPA
+ESA
+ETP
+FENA
+FSM
+FWS
+HSWRI
+IATTC
+INP
+IUCN
+MHI
+MIMRA
+MMDC
+MRMD
+mtDNA
+NMFS
+NOAA
+NPS
+NRCS
+NWHI
+PNG
+RMI
+SCL
+SDG&E
+SPREP
+TAMU
+TED
+UNAM
+USCG
+USVI
+WIDECAST
+
+curved carapace length
+Convention on International Trade in Endangered Species of Wild Fauna
+and Flora
+Commonwealth of the Northern Mariana Islands
+U.S. Army Corps of Engineers
+Division of Aquatic and Wildlife Resources
+Exclusive Economic Zone
+El Niño - Southern Oscillation
+U.S. Environmental Protection Agency
+Endangered Species Act
+Eastern Tropical Pacific
+females estimated to nest annually
+Federated States of Micronesia
+U.S. Fish and Wildlife Service
+Hubbs-Sea World Research Institute
+Inter-American Tropical Tuna Commission
+Instituto Nacional de Pesca
+International Union for the Conservation of Nature
+Main Hawaiian Islands
+Marshall Islands Marine Resource Authority
+Micronesian Mariculture Demonstration Center
+Marine Resources Management Division, Yap State government
+mitochondrial DNA
+National Marine Fisheries Service
+National Oceanographic and Atmospheric Administration
+National Park Service
+Natural Resources Conservation Service (Soil Conservation Service)
+Northwest Hawaiian Islands
+Papua New Guinea
+Republic of the Marshall Islands
+straight carapace length
+San Diego Gas & Electric
+South Pacific Regional Environment Program
+Texas A & M University
+Turtle Excluder Device
+Universidad Naçional Autonoma de Mexico
+U.S. Coast Guard
+U.S. Virgin Islands
+Wider Caribbean Sea Turtle Conservation Network
+
+v
+
+EXECUTIVE SUMMARY
+Current Status: The leatherback turtle is listed as Endangered throughout its range. In the
+Pacific, leatherback populations are in severe decline and recovery actions must be given the
+highest priority. Primary threats to the species are incidental take in coastal and high seas
+fisheries, and the killing of nesting females and collecting of eggs at the nesting beaches. The
+United States does not have any nesting of leatherbacks in its jurisdiction in the Pacific, but
+has important foraging areas on the continental U.S. west coast and near the Hawaiian
+Islands. It is likely that stocks in U.S. waters originate in Mexico and Central America, though
+some may originate from Southeast Asia as well. While not directly classified as a threat, the
+lack of information on the movement patterns and habitat needs of this entirely pelagic species
+(leatherbacks are the only species which remains pelagic throughout its life) is severely
+hampering recovery efforts and must be addressed as a high priority.
+Goal: The recovery goal is to delist the species.
+Recovery Criteria: To consider de-listing, all of the following criteria must be met:
+1) All regional stocks that use U.S. waters have been identified to source beaches based
+on reasonable geographic parameters.
+2) Each stock must average 5,000 (or a biologically reasonable estimate based on the
+goal of maintaining a stable population in perpetuity) females estimated to nest annually
+(FENA) over six years.
+3) Nesting populations at "source beaches" are either stable or increasing over a 25-year
+monitoring period.
+4) Existing foraging areas are maintained as healthy environments.
+5) Foraging populations are exhibiting statistically significant increases at several key
+foraging grounds within each stock region.
+6) All Priority #1 tasks have been implemented.
+7) A management plan designed to maintain sustained populations of turtles is in place.
+Actions Needed: Five major actions are needed to achieve recovery (not in order of priority):
+1) Eliminate incidental take of leatherbacks in U.S. and international commercial fisheries.
+2) Support the efforts of Mexico and the countries of Central America to census and
+protect nesting leatherbacks, their eggs, and nesting beaches.
+3) Determine movement patterns, habitat needs and primary foraging areas for the
+species throughout its range.
+4) Determine population size and status in U.S. waters through regular aerial or on-water
+surveys.
+vi
+
+5) Identify stock home ranges using DNA analysis.
+
+vii
+
+RECOVERY PLAN FOR U.S. PACIFIC POPULATIONS OF THE
+LEATHERBACK TURTLE (Dermochelys coriacea)
+Prepared by the
+U.S. Pacific Sea Turtle Recovery Team
+
+I. INTRODUCTION
+A. Geographic Scope
+Defining the geographic range of a population of sea turtles in the Pacific Ocean is difficult.
+Sea turtles are highly migratory, and the life histories of all species exhibit complex movements
+and migrations through geographically disparate habitats. Because the U.S. Pacific Sea Turtle
+Recovery Team is required to focus on sea turtle populations that reside within U.S.
+jurisdiction, we must delineate what constitutes a population where individuals reside
+permanently or temporarily within U.S. jurisdiction and what actions must be taken to restore
+that population. This has proven to be quite challenging because sea turtles do not recognize
+arbitrary national boundaries and in most cases we have only limited data on stock ranges and
+movements of the various populations. In this recovery plan we have tried to make these
+judgements with the best information available, and to suggest means by which the United
+States can promote population recovery.
+Geographic scope (from a U.S. jurisdictional perspective) for all six of the U.S. Pacific sea
+turtle recovery plans (written for five species and one regionally important population) is
+defined as follows: in the eastern Pacific, the west coast of the continental United States
+(Figure 1a); in the central Pacific, the state of Hawaii and the unincorporated U.S. territories of
+Howland, Baker, Wake, Jarvis, and Midway Islands, Johnston Atoll, Palmyra Atoll, and
+Kingman Reef; in Oceania, Guam, the Commonwealth of the Northern Mariana Islands
+(CNMI), and American Samoa (see Figure 1b). The U.S.-affiliated but independent nations of
+the Republic of the Marshall Islands (RMI), Federated States of Micronesia (FSM), and the
+Republic of Palau are also included. The FSM includes the states of Yap, Pohnpei, Chuuk,
+and Kosrae. While independent, all retain clearly defined administrative links to the United
+States in the areas of defense, natural resource management, and some regulatory issues.
+Thus, we include them here in an advisory capacity. Finally, where eastern Pacific sea turtles
+are held in common with Mexico, discussion of the status and recovery of these stocks will also
+include discussion of the resource under Mexican jurisdiction. In all cases where U.S. sea
+turtle stocks are held in common with other sovereign states, we have tried to suggest means
+by which the United States can support efforts at management of those stocks by those states.
+We recognize that other nations may have different priorities than the United States and we
+have sincerely attempted to avoid establishing policy for those nations.
+Because of the highly migratory behavior of the adult turtles, and the likelihood of shifting
+habitat requirements for post-hatchlings and juveniles, the populations of leatherback turtles
+(Dermochelys coriacea) in the Pacific Ocean cross international boundaries. The offshore
+1
+
+Figure 1a. Western coasts of the United States, Canada and Mexico (as well as Central and
+northern South America) constitute a shared habitat for Pacific sea turtles.
+
+Figure Ib. The western Pacific constitutes a shared habitat for Pacific sea turtles.
+
+3
+
+waters of Indochina, China, Japan, and the east coast of the former Soviet Union in the
+western north Pacific, and the west coasts of Central America, Mexico and the United States in
+the eastern north Pacific probably constitute shared habitats for leatherback sea turtles. The
+species is also encountered in the international waters of the central north Pacific. The extent
+to which east and west Pacific populations mingle is not known. The extended range of
+leatherback sea turtles is acknowledged in the following discussions.
+B. Historical and Cultural Background
+In contrast to the rich legacy of cultural tradition and economic value which characterizes
+some other sea turtle species, there is no evidence of important subsistence or cultural usage
+in the United States involving the comparatively rare leatherback turtle. There is no nesting by
+leatherbacks on beaches under present or former U.S. Pacific jurisdiction. At-sea sightings in
+the U.S. Pacific are largely confined to the continental west coast.
+C. Taxonomy
+The generic name Dermochelys was introduced by Blainville (1816). The specific name
+coriacea was first used by Vandelli (1761) and adopted by Linnaeus (1766) (Rhodin and Smith
+1982). The binomial refers to the distinctive leathery, scaleless skin of the adult turtle. This
+species is the sole member of the taxonomic family Dermochelyidae. All other extant sea
+turtles are in the family Cheloniidae. A degree of relationship between Dermochelys and other
+living sea turtles has been deduced from behavioral (Carr and Ogren 1959), morphological
+(Nick 1912; Zug 1966) and biochemical (Frair 1979, 1982; Chen et al. 1980; Chen and Mao
+1981) and genetic (Bowen et al. 1993; Dutton 1995; Dutton et al. 1996) studies. However,
+Dermochelys possesses a skeletal morphology unique among turtles (Rhodin et al. 1981), and
+recent karyological studies (Medrano et al. 1987) support taxonomic classifications which
+segregate extant sea turtle species into two distinct families (Gaffney 1975, 1984; Bickham
+and Carr 1983). For the most recent detailed discussion of taxonomy and synonymy, see
+Pritchard and Trebbau (1984).
+D. Description
+Whereas other sea turtles have a carapace containing bony plates covered by horny
+scutes, the slightly flexible carapace of the leatherback is distinguished by a rubber-like
+texture. In adults, the carapace (ca. 4 cm thick) is constituted mainly of tough, oil-saturated
+connective tissue raised into seven prominent ridges and tapered to a blunt point posteriorly.
+A nearly continuous layer of small dermal bones lies just below the leathery outer skin of the
+carapace. The narrow ribs lack pleural flanges and remain widely separated throughout life.
+No sharp angle is formed between the carapace and the plastron, resulting in the animal being
+somewhat barrel-shaped. The scaleless skin and carapace are black with varying degrees of
+pale spotting. The underside is mottled, pinkish-white and black; the proportion of light to dark
+pigment is variable. The front flippers are proportionally longer than in other sea turtles and
+may span 270 cm in an adult. Hatchlings are likewise predominately black, with mottled
+undersides, but differ in being covered with tiny polygonal or bead-like scales. The flippers are
+margined in white, and rows of white scales appear as stripes along the length of the back.
+Front and rear flippers lack claws. In both adults and hatchlings, the upper jaw bears two
+4
+
+tooth-shaped projections, each flanked by deep cusps, at the premaxillary-maxillary sutures.
+For a detailed discussion of anatomy, including embryonic development, see Deraniyagala
+(1932, 1936a), Dunlap (1955), Pritchard (1971), and Pritchard and Trebbau (1984).
+Curved carapace length (CCL) in adult females nesting in Michoacán, Mexico, during 19801988 averaged 144.9 cm CCL (range 119-176, n=2591) (Laura Sarti M., Universidad Naçional
+Autonoma de Mexico [UNAM], unpubl. data). In contrast, adult females nesting in eastern
+Australia average 162.4 cm CCL (Limpus et al. 1984). Despite the size dichotomy between
+mature turtles from eastern and western Pacific nesting colonies, conclusions of evolutionary
+distinctness may be unwarranted. Genetic differentiation in this species, at least in terms of
+maternally inherited mitochondrial DNA (mtDNA) lineages, is extremely low relative to other
+species of sea turtle (Dutton et al. 1996). A recent survey of five Atlantic rookeries did not
+reveal any genetic population structure based on mtDNA, and found similarities between
+Pacific and Atlantic haplotypes. These data suggest gene flow between rookeries within
+ocean basins and imply that western Atlantic and eastern Pacific leatherbacks shared a
+common ancestor in recent evolutionary history (Dutton et al. 1994).
+Adults exhibit broad thermal tolerances and are reported in the Pacific as far north as
+Alaska and the Bering Sea and as far south as Chile and New Zealand (see Insular and
+Pelagic Range). The core body temperature for adults in cold water has been shown to be
+several degrees C above ambient (Frair et al. 1972). This may be due to several features,
+including the thermal inertia of a large body mass, an insulating layer of subepidermal fat,
+countercurrent heat exchangers in the flippers, potentially heat-generating brown adipose
+tissue, and a relatively low freezing point for lipids (Mrosovsky and Pritchard 1971; Frair et al.
+1972; Greer et al. 1973; Neill and Stevens 1974; Goff and Stenson 1988; Davenport et al.
+1990). The skeleton remains highly cartilaginous, even in adult animals, and the species is
+unique among turtles in showing an extensive cartilage canal vascular system in the long
+bones (Rhodin et al. 1981).
+E. Population Distribution and Size
+Nesting Grounds
+Some of the largest nesting populations of leatherback turtles in the world border the
+Pacific Ocean, but no nesting occurs on beaches under U.S. jurisdiction. Until very recently,
+the largest known population, comprising perhaps nearly half the known number of adult
+females, nested on the Pacific coast of Mexico, notably in the states of Michoacán, Guerrero
+and Oaxaca. Today this population has noticeably declined. Leatherbacks do not generally
+nest in the insular Central and South Pacific (exceptions include the Solomon Islands,
+Vanuatu, and Fiji). Nesting is widely reported from the western Pacific, including China,
+Southeast Asia, Indonesia and Australia.
+U.S. West Coast
+No known nesting.
+
+5
+
+Hawaii
+No known nesting.
+American Samoa
+No known nesting.
+Guam
+No known nesting.
+Republic of Palau
+No known nesting.
+Commonwealth of the Northern Mariana Islands (CNMI)
+No known nesting.
+Republic of the Marshall Islands (RMI)
+No known nesting.
+Federated States of Micronesia (FSM)
+No known nesting.
+Unincorporated U.S. Island Territories
+There is no known nesting in the unincorporated U.S. island territories of Howland, Baker,
+Wake, Jarvis, Midway, Johnston, Palmyra, or Kingman Reef.
+Other Areas of the Pacific
+Eastern Pacific:
+The Pacific coast of Mexico is generally regarded as the most important leatherback
+breeding ground in the world. Based on a single aerial survey in 1980 (31 October - 1
+November) of Michoacán, Guerrero, and Oaxaca, as well as on published and anecdotal data,
+Pritchard (1982a) estimated that 30,000 females nested annually in these three Mexican
+states. Lower density nesting was (and still is) reported further north in Jalisco (Pritchard
+1971; Márquez 1976) and in Baja California, where the northernmost eastern Pacific nesting
+sites are found (e.g., Fritts et al. 1982). Today the nesting population is vastly reduced (Table
+1, Sarti et al. 1996). The reason for the decline is not clear, but contributing factors surely
+include the persistent collection of eggs and incidental catch in national and international
+waters.
+6
+
+Table 1. A decade of declining leatherback nesting activity at Mexiquillo, Michoacán, based on
+annual all-night beach patrols throughout the peak November-February nesting season (Cruz
+et al. 1987; Sarti et al. 1986; Sarti et al. 1987; Sarti et al. 1988; Sarti et al. 1989a; Lopez et al.
+1990; Lopez et al. 1991; Lopez et al. 1992.; Sarti et al. 1993; Diaz 1994; Sarti et al. 1996)
+Nesting Season
+
+Number of crawls
+
+Beach km covered
+
+1984-1985
+
+4681
+
+4.5
+
+1985-1986
+
+3414
+
+4.5
+
+1986-1987
+
+5667
+
+4.5
+
+1987-1988
+
+3747
+
+4.5
+
+1988-1989
+
+2211
+
+4.5
+
+1989-1990
+
+1752
+
+4.5
+
+1990-1991
+
+1634
+
+7
+
+1991-1992
+
+1496
+
+7
+
+1992-1993
+
+1363
+
+7
+
+1993-1994
+
+93
+
+7
+
+1994-1995
+
+-
+
+-
+
+1995-1996
+
+709
+
+7
+
+Low density nesting is reported from Pacific Central America and peaks in NovemberDecember (Pritchard 1971; Cornelius 1982, 1986). Playa Langosta-Playa Grande, Costa Rica,
+is a particularly important site, with 1,500 females nesting there in 1990 (J. Spotila, Drexel
+Univ., pers. comm., 1993). While these areas are not specifically within U.S. jurisdiction, it is
+likely that females nesting on these beaches forage in or migrate through U.S. waters.
+Northwest Pacific:
+Nesting is reported from China and Thailand, but quantitative data are lacking. In China,
+Chu-Chien (1982) reports leatherback turtles in Guangdong (Kwangtung), Guangxi (Kwangsi),
+Fujian (Fukien), Zhejiang (Chekiang), Jiangxi (Kiangsi), Shandong (Shantung), and Liaoning,
+but does not specify nesting sites, nest density or population sizes. Field surveys were
+conducted during June-August 1985 in Fujian and Guangdong Provinces, but no evidence of
+nesting was found (Frazier et al. 1988). Mao (1971) reported that "eggs are eaten wherever
+available" in Taiwan and the weight of an adult female "photographed at Nanfangao" was 252
+kg; nesting sites, if any, were not specified. Nesting apparently does not occur in Korea
+(Groombridge 1982) or Japan (Uchida and Nishiwaki 1982; Kamezaki 1989).
+
+7
+
+Terengganu, Malaysia, once considered a major nesting area, has declined dramatically
+from over 2,000 nesting females per year in the 1960's and early 1970's to fewer than 20
+females in 1993 (Limpus 1995), largely as a result of intensive egg collection (see Status).
+Nesting does not occur in Sabah (de Silva 1982) or Sarawak (Leh 1985).
+Southwest Pacific:
+In Indonesia, at least 13,000 leatherback nests were reported in 1984 on 17.8 km at Irian
+Jaya (Bhaskar 1985). More recently, about 2,600 leatherbacks were reported nesting at three
+main sites along 18 km of beach in the northern part of Kepala Burung, Sorong, Irian Jaya
+(Sutanto Suwelo et al. 1994). In contrast, nesting in eastern Australia is uncommon (1-2 turtles
+per year) and is restricted to about 160 km of coast northward from Bundaberg (Limpus 1982)
+near Wreck Rock
+(Limpus et al. 1984).
+Low density nesting occurs widely along the north coast and on some of the larger islands
+of Papua New Guinea. "Regular nesting sites" include Tulu and Timonai villages on Manus
+Island, Garu, Kimbe Bay and Ganoi villages in New Britain, along the southeast coast of New
+Ireland, on Long Island and parts of the mainland of the Madang Province, on Normanby
+Island in Milne Bay Province, along the coast from Boiken to Turubu in the East Sepik
+Province, and around Aitape in the West Sepik Province. "Occasional nestings" are reported
+from Kiriwina and Simsim Islands in the Trobriands, in the Wooklark Islands, on Lou Islands
+and Tingos village in the Manus Province, and at Pilapila Beach near Rabaul (Spring 1982).
+Lockhart (1989) confirmed localized nesting on the north coast and offshore islands, peaking
+around Christmas; adults and eggs are eaten and some rookeries have been exterminated
+(e.g., Aua and Wuvulu islands).
+In the Solomon Islands, the leatherback nests on "numerous isolated beaches" during
+November-January, preferring those situated near river mouths, having a reefless approach,
+and being composed of black sand (Pritchard 1982b). According to Pritchard (1982b), the
+leatherback is known from the islands of Vanuatu, but no nesting beaches were given. A "very
+low level of nesting" takes place on the southeastern coast of Vanua Levu, Fiji, the most
+easterly record of nesting by leatherbacks in the insular Pacific (Pritchard 1982b). Nesting is
+not reported from the Philippines (Pejabat and Siow 1977), New Caledonia, Tonga, or French
+Polynesia (Pritchard 1982b), Micronesia (Pritchard 1977, 1982c; Thomas 1989), the Phoenix
+Islands, Western Samoa, Tokelau, Tuvalu, or the Cook Islands (Balazs 1975, 1982b).
+Insular and Pelagic Range
+The leatherback is typically associated with continental shelf habitats and pelagic
+environments. It is uncommon in the insular Pacific, but individuals are sometimes
+encountered in deep water near prominent archipelagoes. To a large extent, the oceanic
+distribution of leatherbacks may reflect the distribution and abundance of macroplanktonic
+prey. Analyses of stomach samples have shown that adults feed primarily on medusae,
+siphonophores, and salpae in temperate and boreal latitudes (see Foraging Biology and Diet).
+Reports of foraging in north Pacific waters include that of Eisenberg and Frazier (1983), who
+observed an adult feeding on the jellyfish Aurelia off the coast of Washington state. Little
+
+8
+
+information is available on the diet of leatherbacks in northern waters, and on the spatial and
+temporal distribution of preferred prey species.
+Oceanic temperature and bathymetric contours may also be important. The data suggest
+that leatherbacks occur north of central California during the summer and fall when sea
+surface temperatures are highest (Dohl et al. 1983; Brueggeman 1991). There is some
+evidence that leatherbacks follow the 16EC isotherm into Monterey Bay, although the length of
+their stay "seems more dependent on prey availability than on temperature regimes" (Starbird
+et al. 1993). Recorded sea surface temperatures at the Oregon and Washington sightings
+ranged between 13-18.5EC, with the majority in the 15-16EC range (Brueggeman 1991).
+Some aerial surveys of California, Oregon, and Washington waters suggest that most
+leatherbacks occur in continental slope waters, while fewer occur over the continental shelf.
+U.S. West Coast
+After analyzing some 363 records of sea turtles sighted along the Pacific coast of North
+America (from 29E45'N northward), Stinson (1984) concluded that the leatherback was the
+most common sea turtle in U.S. waters north of Mexico. Sightings and incidental capture data
+indicate that leatherbacks are found in Alaska as far north as 60.34EN, 145.38EW and as far
+west as the Aleutian Islands (Hodge 1979; Stinson 1984). Documented encounters extend
+southward through the waters of British Columbia (Logier and Toner 1961; MacAskie and
+Forrester 1962), Washington and Oregon (Brueggeman 1991; Washington Dept. Game,
+unpubl. data; Craig Webster, Northwest Marine Mammal Stranding Network, in litt., 29 October
+1990), and California (Lowe and Norris 1955; Dohl et al. 1983; Stinson 1984). There were 96
+sightings of leatherbacks within 50 km of Monterey Bay, California, from 1986-1991, mostly by
+recreational boaters (Starbird et al. 1993). Of 104 records of sea turtle strandings on the U.S.
+west coast between 1982 and 1991, 50 were leatherbacks (J. Cordaro, National Marine
+Fisheries Service [NMFS], pers. comm., 1994).
+Further insight into coastal and pelagic range may be gained from reports of incidental
+catch. In the eastern north Pacific these include entanglement in gillnets off the coast of
+Washington, Oregon, and California (Stick and Hreha 1989; S. Eckert, Hubbs-Sea World
+Research Institute, pers. comm.). Fishermen "regularly" catch leatherbacks in drift/gill nets off
+Monterey Bay, central California (C. Starbird, San José State Univ., pers. comm., 1991). A
+leatherback was killed in October 1990 in a gillnet set in the Bay area (36E55'N, 122E40'W) (S.
+Eckert, pers. comm.). See also Threats, Fisheries (Incidental take).
+Hawaii
+Leatherbacks encountered in Hawaii, including those caught incidental to fishing
+operations, may represent individuals in transit from one part of the Pacific to another (Balazs
+1973). Leatherbacks are "regularly sighted" in offshore waters at the southeastern end of the
+Hawaiian archipelago. In August 1979 at least ten individuals, including juveniles, were
+sighted in pelagic waters northwest of Hawaii (40-42EN, 175-179EW) (Balazs 1982a).
+
+9
+
+American Samoa
+The only leatherback turtle record is that of a juvenile (42.7 cm CCL) caught by longline
+about 5.6 km south of Swains Island. Water depth at the capture location was about 1,400 m
+(Grant 1994). mtDNA analysis suggests that this juvenile probably originated in the western
+Pacific (P. Dutton, Texas A&M Univ. [TAMU], pers. comm., 1995).
+Guam
+During recent aerial surveys of Guam (October 1989-April 1991), 2.6% of the turtles
+recorded were leatherbacks (G. Davis, Guam, Division of Aquatic and Wildlife Resources
+[DAWR], in litt., 22 August 1991).
+Republic of Palau
+Few quantitative data are available concerning the abundance or distribution of
+leatherbacks in the insular Central Pacific, although fishermen in some areas, such as Palau,
+readily recognize the species (J. Engbring, U.S. Fish and Wildlife Service [FWS], pers. comm.,
+1992). Engbring et al. (1992) reported on the aggressive interactions between a grey reef
+shark and a leatherback in the lagoon near Koror.
+Commonwealth of the Northern Mariana Islands (CNMI)
+Leatherbacks are occasionally encountered in the pelagic waters of this archipelago.
+Republic of the Marshall Islands (RMI)
+No documented sightings.
+Federated States of Micronesia (FSM)
+Leatherbacks are infrequently sighted and rarely captured in the FSM states of Truk
+(=Chuuk), Yap and Pohnpei (McCoy 1974; Pritchard 1977). A leatherback caught near Woleai
+(Yap) in 1971 was eaten (McCoy 1974). An adult (444 kg, 2.17 m total length) was caught off
+Parem Reef, Ponape Island (Pritchard 1982c), and a small juvenile (69.4 cm carapace length)
+captured near Satawal (Yap) was tagged and released (McCoy 1974). More recent data are
+unavailable.
+Unincorporated U.S. Island Territories
+There are no documented sightings in the unincorporated U.S. island territories, although
+the species may be more common in the Central Pacific than the literature suggests. The
+territory is vast and poorly surveyed, especially for deep water species.
+
+10
+
+Other areas in the Pacific
+Eastern Pacific:
+Adults are seasonally abundant off Mexican breeding grounds at Michoacán, Guerrero,
+and Oaxaca (Márquez 1976; Pritchard 1982a; Sarti et al. 1987, 1989b). The species is also
+reported from Baja California, Mexico (Smith and Smith 1980; Cliffton et al. 1982). Eleven
+leatherbacks were captured in gillnets by a single fishermen from Bahia de la Paz, Baja
+California, from 1985-May 1987 (Alvarado and Figueroa 1990). In the Eastern Tropical Pacific
+(ETP), juvenile and adult leatherbacks are occasionally caught in tuna purse-seines (S. Eckert,
+pers. comm.). A small individual (about 15 cm carapace length) was captured in a purse-seine
+in April 1976 about 180 nautical miles west of San José, Guatemala (11E03'N, 92E20'W)
+(Robert Pitman, NMFS, pers. comm., 1991). Leatherbacks are found as far south as Chile
+(Chiloé Island, ca. 42ES: Philippi 1899 in Pritchard 1980; 89 km west of Isla Mocha, 38E22'S,
+176E06'W: Frazier and Brito Montero 1990). They are captured in large numbers incidental to
+the Chilean swordfish fishery (Frazier and Brito Montero 1990).
+Northwest Pacific:
+In the western Pacific the species is found as far north as the Bering Sea (Mys Navarin,
+USSR, ca. 62EN) (Bannikov et al. 1971) and as far south as Tasmania and New Zealand
+(Graham 1964; McCann 1969; Eggleston 1971). In China, Zhou (1983) documented 10 adult
+and subadult leatherbacks (112- 135 cm carapace length, n=7) caught by the local fisheries
+from the coastal waters of Jiangsu Province, 1980-1982. Several were captured in coastal
+waters near Lüsi, one near Lianyungang Port (a city near the border with Shandong Province
+to the north), and another one near Haimen, a delta city of the Yangtze River. Further to the
+south, Frazier et al. (1988) examined nine adult and subadult specimens (mean=131.8 cm
+CCL, range 115.5-152.5, n=7) captured in the waters of Fujian and Guangdong Provinces
+during May-October; the largest and smallest specimens were both males.
+In the waters of Korea, leatherbacks have been found near Mokp'o, Cholla Namdo
+Province, South Korea (Doi 1936 in Shannon 1956) and off Pyongwon county, South Pyongan
+Province, North Korea (Tong and Yon 1961 in Szyndlar 1991). Mao (1971) quotes fishermen
+who say that the species is "frequently captured from October to March, and occasionally in
+other months" in Taiwan; during the "prosperous season" two to five individuals (most >150 kg)
+could be seen on the wharf in a single day. Multiple sightings have been documented in the
+waters of Japan (Pritchard 1980; Uchida and Nishiwaki 1982), including a subadult (120 cm
+straight carapace length [SCL]) that died after becoming entangled in a gill net off Hyogo
+Prefecture (Balazs 1985).
+Adults are present at least seasonally in the waters of the South China Sea, as nesting
+occurs in Malaysia and Indonesia (see Nesting Areas and Habits) and incidental catch in this
+region has been documented (Aikanathan and Kavanagh 1988; Chan et al. 1988). Hundreds
+of leatherbacks are accidentally caught each year in drift/gill nets set in the South China Sea
+and north Pacific (Wetherall et al. 1993).
+
+11
+
+Southwest Pacific:
+The leatherback is known to occur in Indonesia (very few data are available, see Polunin
+and Nuitja 1982), Papua New Guinea (PNG), Australia, and New Zealand. After extensive
+interviewing, Lockhart (1989) concluded that the leatherback is found in deep water off PNG,
+particularly off the north coast, and was more abundant in the past than it is today. Limpus
+and McLachlan (1979) report concentrations of non-nesting leatherbacks in inshore waters off
+central eastern Australia, judging by incidental catch records from the shark netting industry;
+sightings are infrequent inshore of the Great Barrier Reef and across northern Australia.
+Leatherbacks are also caught in shark nets in southeastern Australia, primarily during the
+summer (December peak) (Limpus and McLachlan 1979). A number of immature specimens
+have been seen in the Gulf of Carpentaria; "some are being caught in set nets (only a few in
+trawls) but the magnitude is not known at this time" (J. Miller, in litt., 27 July 1992). Eggleston
+(1971) summarized sightings from New Zealand and concluded that the species "may be a
+regular visitor ... it is certainly the most frequently recorded New Zealand turtle."
+South Central Pacific:
+Few quantitative data are available concerning the abundance or distribution of
+leatherbacks in the insular Pacific. The leatherback is not typically associated with insular
+habitats, particularly those characterized by coral reefs or other potentially injurious
+surroundings, but individuals are occasionally encountered in deep water near prominent
+archipelagoes, such as the Philippines (de Celis 1982). The species has been documented in
+deep water near the Cook Islands (Brandon 1977 in Balazs 1982b) and two captures are
+reported from French Polynesia (Fretey and Lebeau 1985; Fretey 1987).
+F. Status
+The leatherback sea turtle is listed as Endangered throughout its entire range under the
+U.S. Endangered Species Act (ESA) of 1973, as amended. Similarly, the species is classified
+as Endangered in the International Union for Conservation of Nature and Natural Resources'
+(IUCN) Red Data Book, where taxa so classified are considered to be "in danger of extinction
+and whose survival is unlikely if the causal factors continue operating" (Groombridge 1982).
+Leatherbacks are included in Appendix I of the Convention on International Trade in
+Endangered Species of Wild Fauna and Flora (CITES), a designation which effectively bans
+trade in specimens or products except by special permit. Such permit must show that the
+trade is not detrimental to the survival of the species and is not for primarily commercial
+purposes (Lyster 1985). There is no commercial trade in leatherback sea turtles or their parts
+or products at the present time (Milliken and Tokunaga 1987; Mack et al. 1982). Neither
+Critical Habitat (under the aegis of the ESA) nor any protected areas have been established
+for this species in the U.S. Pacific, largely because nesting is not known to occur and important
+foraging areas have not been identified.
+Leatherbacks are seriously declining at all major Pacific basin rookeries, including Irian
+Jaya (Indonesia), Terengganu (Malaysia), and Michoacán (Mexico). At least 13,000
+leatherback nests were reported in 1984 on 17.8 km of coast extending eastward from
+Tanjung Jamursba on the Bird's Head Peninsula, Irian Jaya (Bhaskar 1985). In 1991, Betz
+12
+
+and Welch (1992) visited the site and reported that nesting levels had declined to a mere 25%
+of those reported by Bhaskar; the near total collection of eggs has most certainly contributed to
+the population's demise. Similarly, the beach at Rantau Abang, Terengganu, has experienced
+a dramatic decline as a result of intensive egg collection. The data show a steady drop in
+nesting activity from nearly 11,000 landings in 1956 to 6,721 landings in 1968 to 280 in 1990
+(Hendrikson and Alfred 1961; Chua 1988; Mortimer, WWF-Malaysia, in litt., 29 August 1991).
+Almost 2,000 females were tagged at Terengganu in 1970, while fewer than 20 females
+nested in 1993 (Limpus, 1995), largely as a result of intensive egg collection (see Status).
+Nesting does not occur in Sabah (de Silva 1982) or Sarawak (Leh 1985). In the case of
+Mexiquillo, Michoacán, an estimated 4,796 nests were laid on 4.5 km of beach in 1986-1987
+and approximately 1,074 nests were laid in 1989-1990 (L. Sarti M., UNAM, unpubl. data). It is
+not yet clear whether the Mexican decline reflects natural fluctuation, but based on aerial
+survey data of Sarti et al. 1996 a geographic shift in nesting is unlikely. This decline
+represents a warning that the population is in serious jeopardy. Nevertheless, it is the
+contention of those close to the situation that the population is in very serious danger of
+collapse. Population declines have also been reported in India, Sri Lanka, and Thailand (see
+Ross and Barwani 1982).
+No attempt has yet been made to assess the status of foraging populations. Despite
+occasional reports of leatherbacks sighted at sea, and a growing database documenting their
+incidental catch in coastal and pelagic fisheries, there are very few areas where the species is
+routinely encountered. Exceptions include Monterey Bay, California (Starbird et al. 1993) and
+southern Queensland and central New South Wales, Australia (Limpus and McLachan 1979).
+G. Biological Characteristics
+Migration and Movements
+A suite of physiological adaptations allow adult leatherback sea turtles the most extensive
+range of any extant reptile (71EN to 47ES; Pritchard and Trebbau 1984) (see Species
+Description). In the western Atlantic, adults routinely migrate between boreal, temperate and
+tropical waters, presumably to optimize both foraging and nesting opportunities (Bleakney
+1965; Lazell 1980; Eckert and Eckert 1988). Similarly, the seasonal presence of adult females
+at major eastern and western Pacific rookeries suggests that migration between nesting and
+non-nesting areas may also be characteristic of Pacific stocks. The timing and routing of
+reproductive migrations are unknown; however, eastern Pacific migratory corridors most likely
+exist along the western seaboards of the United States and Mexico and, in the western Pacific,
+along the eastern seaboards of the former Soviet Union and Asia, as well as the eastern
+seaboard of Australia. Bustard (1972) reports "an important migration route ... down the east
+coast of Australia judging by personal sightings and reports of capture in shark nets."
+Sightings along the coast of California peak in August, perhaps a reflection of adults moving
+southward for winter breeding in Mexico.
+Post-nesting transoceanic travel (South America to Africa, minimum 5,900 km) is
+documented by Pritchard (1973). The extent to which leatherbacks undertake transpacific
+migrations is not known. Morreale et al. (1994) used satellite telemetry to monitor the
+movements of six post-nesting leatherbacks in the Caribbean Sea and in the Pacific Ocean
+13
+
+and reported that nesting cohorts appear to share identical post-nesting migrational pathways.
+Similarly, recent studies suggest that females departing nesting beaches in Michoacán,
+Mexico, follow specific oceanic corridors into pelagic habitats (S. Eckert, HSWRI and L. Sarti
+M., UNAM, unpubl. data). The movements of males have not been studied.
+Foraging Biology and Diet
+Food habits are known primarily from the stomach samples of slaughtered animals and
+consist largely of cnidarians (medusae, siphonophores) and tunicates (salps, pyrosomas)
+found in temperate and boreal latitudes (Bleakney 1965; Brongersma 1969; Hartog and Nierop
+1984; Davenport and Balazs 1991). Surface jellyfish feeding is reported in waters under U.S.
+jurisdiction, especially off the western coast of the continental United States (e.g., Eisenberg
+and Frazier 1983). Foraging may also occur at depth. Based on offshore studies of diving by
+adult females nesting on St. Croix, Eckert et al. (1989) proposed that the observed internesting
+dive behavior reflected nocturnal feeding within the deep scattering layer (strata comprised
+primarily of vertically migrating zooplankton, chiefly siphonophore and salp colonies in the
+Caribbean; Michel and Foyo 1976). Hartog (1980) speculated that foraging may occur at
+depth after finding nematocysts from deep water siphonophores in leatherback stomach
+samples.
+No systematic study of foraging grounds has been initiated. There are clearly areas under
+U.S. jurisdiction that are predictably frequented by leatherback turtles (such as Monterey Bay,
+California), but specifically delineated resident feeding areas have not been identified. It has
+been suggested that roughly one-half the global population of adult females nests on the west
+coast of Mexico (Pritchard 1982a); if so, the waters off the west coast of the United States may
+represent some of the most important foraging habitat in the entire world for the leatherback
+turtle. It is certainly unfortunate that our present knowledge of foraging geography is based
+solely on infrequent and often isolated reports of foraging animals (see Foraging Biology and
+Diet). Nothing is known of the relative importance of various foraging habitats or the
+distribution (or size) of "foraging populations" of any age class.
+Growth
+No data on the growth rate of juvenile leatherback turtles in the wild are available. The
+distribution of juveniles is unknown, and thus specimens are not available for capturerecapture methodologies designed to measure growth. Research is further complicated by
+poor survivability in captivity. With few exceptions, notably Bels et al. (1988), captive
+individuals have not survived beyond two years. Captive growth data (e.g., Deraniyagala
+1936b; Witham 1977) are widely disparate, but very rapid growth reported by some
+investigators, coupled with evidence of chondro-osseous development conducive to rapid
+growth, has led to speculations that leatherbacks may reach sexual maturity in two to three
+years (Rhodin 1985). Bels et al. (1988) challenge this hypothesis in their report of a healthy
+captive leatherback 1,200 days [3.28 yr] of age weighing only 28.5 kg, with a carapace 82 cm
+in length. While leatherbacks may well grow to sexual maturity at an earlier age than other sea
+turtles, it is clear that additional data, and especially studies of wild specimens, are needed
+before growth rates can be estimated and age at maturity can be predicted.
+
+14
+
+Reproduction
+Reproduction is seasonal and gravid females are believed to migrate long distances
+between foraging and breeding grounds (see Migration and Movements), at intervals of
+typically two or three years. In Mexico, the nesting season extends from November to
+February, although some females arrive as early as August (Sarti et al. 1989b). In the western
+Pacific, nesting peaks in May and June in China (Chu-Chien 1982), June and July in
+peninsular Malaysia (Chan and Liew 1989), and December and January in Queensland
+(Limpus et al. 1984). In the Caribbean Sea there is some evidence that mating takes place in
+temperate latitudes prior to or during the reproductive migration (Eckert and Eckert 1988).
+Nesting is generally nocturnal. Preferred nesting beaches are typically on continental (as
+opposed to island) shores and have unobstructed, often deep offshore access (Hirth 1980;
+Mrosovsky 1983; Eckert 1987). The egg-laying sequence is composed of a beach landing, an
+overland traverse to and selection of a suitable nest site, excavation of a body pit and nest
+chamber, oviposition, filling the nest, covering and concealing the nest site, and returning to
+the sea (Deraniyagala 1936b; Carr and Ogren 1959; Pritchard 1971). The sequence, from
+landing to surf reentry, requires about 80-140 minutes.
+In Mexico, females lay 1-11 clutches per season (mean = 5.7) at 9-10 day intervals, and
+clutch size averages 64 yolked eggs (Sarti et al. 1987; Laura Sarti M., UNAM, unpubl. data.).
+Clutch size is somewhat larger in the western Pacific. In Terengganu, Malaysia, clutches are
+composed, on average, of 85-95 yolked eggs (Chua and Furtado 1988). Similarly, clutch size
+averages 83 yolked eggs in Pacific Australia (Limpus et al. 1984). In China, nesting peaks in
+May and June, and 90-150 eggs are laid per clutch (Chu-Chien 1982). In addition to yolked
+eggs, each clutch contains a complement of yolkless eggs. These sometimes comprise 50%
+or more of total clutch size, a phenomenon which is unique among sea turtles. Yolkless eggs,
+typically smaller than yolked eggs and in many cases misshapen, are generally deposited last;
+their significance is unknown. In Mexico (Mexiquillo, Michoacán) and Australia (south
+Queensland) yolked eggs average 5.3 cm in diameter (López and Sarti 1989; Limpus et al.
+1984). Incubation lasts 55-75 days, depending on ambient temperature. Nest temperature
+during incubation influences the sex of hatchlings. The "pivotal temperature" (ca. 1:1 sex ratio,
+Mrosovsky and Yntema 1980) has been estimated to be 29.25E- 29.50EC in Suriname and
+French Guiana (Mrosovsky et al. 1984; Dutton et al. 1985; Rimblot-Baly et al. 1986-1987).
+Pivotal temperatures have not been defined for Pacific nesting sites.
+Hatchlings tunnel out of the nest in a cooperative activity which takes place over several
+days. Emergence is typically at early evening. As with other sea turtle species, sea-finding
+orientation is based largely on light, specifically the brightness differential between the open
+ocean horizon and the darker vegetation to the landward side (Mrosovsky 1972, 1977).
+Nesting results vary widely, with the proportion of turtles hatching and the proportion of those
+successfully emerging from the nest averaging 62.8% and 58.1%, respectively, in Mexiquillo
+(Mexico) during the 1988-1989 season (Sarti et al. 1989b). In Mexiquillo, hatchlings measure
+5.0-6.3 cm SCL (mean= 5.64 cm, n=2,800) and weigh 32.4-50.0 g (mean=41.2 g, n=2937)
+(Laura Sarti M., UNAM, unpubl. data). Similarly, Queensland hatchlings measure 5.1-6.5 cm
+SCL (mean=5.88 cm, n=39) and weigh 38.3- 54.2 g (mean= 46.86 g, n=39) (Limpus et al.
+1984).
+Offshore Behavior
+15
+
+Adults are highly migratory and difficult to study. Aside from the predictable arrival of
+gravid females at nesting beaches, a few observations of foraging turtles, and a growing
+database on incidental catch, offshore behavior in the Pacific remains undefined. Based
+largely on evidence from the western Atlantic, we can assume that adults are primarily open
+water in their distribution, that they feed on medusae, salps, siphonophores and related prey in
+the water column and at the surface, and that at least the adult females engage in
+reproductive migrations at two or three (or more) year intervals for the purpose of egg-laying in
+tropical latitudes. Recent satellite-tracking studies at nesting beaches in Costa Rica and
+Mexico indicate that females journey into pelagic waters after the nesting season ends (see
+Migration and Movements). Leatherbacks were regularly captured in mid-Pacific waters by
+pelagic driftnet fisheries (Wetherall et al. 1993). Mortality and survival statistics are
+unavailable, and age at maturity and longevity have not been determined.
+Nothing is known of the dispersal pattern of leatherback hatchlings from Pacific nesting
+beaches. Comprehensive discussions of the early pelagic stage of sea turtle development
+(the "lost year"), which include sightings of post-hatchling stage loggerhead, green, and
+hawksbill turtles associated with Sargassum weed and convergence debris, do not mention
+sightings of young Dermochelys (e.g., Carr 1987). Few immature leatherbacks are seen
+anywhere in the world. A very young individual (about 15 cm carapace) was accidentally
+captured in a tuna purse-seine some 180 nautical miles west of San José, Guatemala, in 1976
+(Robert Pitman, pers. comm., 1991). Another juvenile (69.4 cm carapace length) was captured
+near Satawal (Yap District, FSM) on 2 September 1972 and tagged and released (McCoy
+1974). Larger juvenile size classes are reported from China's coastal waters (Zhou 1983;
+Frazier et al. 1988) and Australia's Gulf of Carpentaria (see Insular and Pelagic Range). A
+juvenile (42.7 cm CCL) was recently caught on a long-line off Swain's Atoll in American Samoa
+(Grant 1994). With the exception of these isolated encounters, there are no data regarding
+the abundance or distribution of juvenile leatherbacks in the Pacific. Mortality and survivorship
+statistics are lacking, as is basic information on diet, growth rate, behavior, and movement of
+juveniles.
+Health Status
+The extent to which disease contributes to disability or mortality among wild leatherbacks in
+the Pacific Ocean has not been studied. As far as is known, the health status of this species is
+good throughout its range.
+
+H. Threats
+This section presents a brief overview of threats to leatherbacks in the Pacific basin,
+followed by summaries of major threats in each U.S.-affiliated island group. A third section
+then presents more detailed information specific to each island group.
+"Threats" to sea turtles are broadly defined as any factor that jeopardizes the survival of
+turtles or impedes the recovery of their populations. Twenty-two kinds of threats have been
+identified in this Recovery Plan, but it is readily apparent that all are not equally important and
+that threats in one Pacific area may not be relevant in another area. Consequently, each
+16
+
+island group was evaluated separately based on information received from the Recovery Team
+and Technical Advisors. Table 2 lists the 11 threats in the marine environment and ranks their
+significance. Definitions of the threats are provided in subsequent text.
+When viewing Table 2, it should be recognized that there are limitations inherent in this
+tabulation. First, generalizations are made. Some island groups, such as the Republic of
+Palau, consist of over 500 islands; consequently, the data presented in Table 2 are limited to a
+general statement about conditions for the group as a whole. Similarly, most of the island
+groups possess both sparsely inhabited remote islands and heavily inhabited main islands.
+The distribution of turtles and the kinds of threats they face would obviously differ in these two
+types of islands. Specific information about individual islands, if available, is presented in
+'Area-specific Threat Information'. Second, there are data limitations. For most islands,
+information about turtle threats is sparse (see 'Pacific Synopsis'). Third, the categorization in
+Table 2 of the extent of each threat, represents the seriousness of the threat within that
+geopolitical area. Unfortunately it does not necessarily represent the seriousness of the
+overall threat to the turtle stock.
+Pacific Synopsis
+Lack of knowledge concerning the abundance and distribution of leatherbacks under U.S.
+jurisdiction (particularly the northeastern Pacific) constitutes a threat, particularly since
+important foraging areas have not been identified. Forage areas most likely exist in nearshore
+and oceanic areas throughout the northeastern Pacific; however, these vital areas cannot be
+given adequate protection until they have been identified. Despite recent legal protection of
+animals at nesting beaches in Mexico, these populations continue to decline. The breeding
+population origins and migratory habits of the leatherback turtles frequenting the waters of this
+region are unknown. Threats to migrating turtles are therefore also unknown. This information
+is important to determining their status and necessary for effective management.
+
+Regional Summaries
+U.S. West Coast
+Primary turtle threats:
+
+incidental take in fisheries
+
+Incidental catch poses a threat in pelagic foraging and transit areas and the coastal
+feeding grounds and migratory corridors that probably exist along the west coast of the United
+States and south into Mexico. Entanglement and ingestion of marine debris, including old
+abandoned nets, may continue to pose a threat to leatherbacks, which seem to have a talent
+for seeking out and getting tangled in floating lines.
+
+17
+
+Hawaii
+Primary turtle threats:
+
+incidental take in fisheries
+
+The Hawaiian longline fishery poses the most important threat to leatherbacks, particularly
+as fishing effort increases. Research must be undertaken to identify ways of reducing hooking
+mortality and modifying techniques to avoid capture.
+
+American Samoa
+Primary turtle threats:
+
+N/A
+
+The reported presence of leatherbacks on American Samoa is very rare. One turtle was
+killed by an experimental longline fishing boat (Grant 1994), but probably only represents a
+random event.
+Guam
+Primary turtle threats:
+
+N/A
+
+There are no records of nesting by or at-sea sightings of leatherback turtles.
+Republic of Palau
+Primary turtle threats:
+
+N/A
+
+There are no records of nesting by or at-sea sightings of leatherback turtles.
+Commonwealth of the Northern Marianas (CNMI)
+Primary turtle threats:
+
+N/A
+
+There are no records of nesting by or at-sea sightings of leatherback turtles.
+Republic of the Marshall Islands (RMI)
+Primary turtle threats:
+
+N/A
+
+There are no records of nesting by or at-sea sightings of leatherback turtles.
+
+18
+
+Federated States of Micronesia (FSM)
+Primary turtle threats:
+
+N/A
+
+There are no records of nesting by or at-sea sightings of leatherback turtles.
+Unincorporated Islands (Wake, Johnston, Kingman, Palmyra, Jarvis, Howland, Baker, Midway)
+Primary turtle threats:
+
+incidental take in fisheries
+
+There are known problems with incidental take in fisheries, but the extent of the problem is
+unknown.
+
+19
+
+TABLE 2. Threat checklist for
+leatherback sea turtles in the
+U.S. Pacific Ocean.a
+
+Codes 1 = major problem
+- = not current problem
+2 = moderate problem
+? = unknown
+3 = minor problem
+P = known problem but extent
+
+unknown
+
+Threat
+
+U.S.
+West
+Coast
+
+Hawaii
+
+Amer.
+Samoa
+
+Guam
+
+Palau
+
+CNMI
+
+RMI
+
+FSM
+
+Uninc.b
+
+Marine Environment
+12
+
+Directed take
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+13
+
+Natural disasters
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+14
+
+Disease/parasites
+
+?
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+15
+
+Environmental
+Contaminants
+
+?
+
+?
+
+-
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+16
+
+Debris (entangle/ingest)
+
+P
+
+P
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+17
+
+Fisheries (incidental
+take)
+-domestic waters
+
+1
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+P
+
+-international
+
+1
+
+1
+
+-
+
+-
+
+?
+
+-
+
+?
+
+?
+
+P
+
+18
+
+Predation
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+?
+
+19
+
+Boat collisions
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+20
+
+Marina/dock
+development
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+21
+
+Oil
+exploration/development
+
+?
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+22
+
+Power plant entrapment
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+a
+
+There is no known nesting by this species in the United States or in any territory under U.S.
+jurisdiction. Therefore, only threats in the marine environment (#12-22) are included in this table.
+b
+
+Wake, Johnston, Kingman, Palmyra, Howland, Baker, and Jarvis islands
+
+20
+
+General Threat Information
+This section provides the supportive information used to rank the turtle threats listed in
+Table 2. The first 11 threats pertain to the turtle's nesting environment, the latter 11 to the
+marine environment.
+Nesting Environment
+While no leatherbacks nest in U.S. jurisdiction it is important that the United States
+participate in restoration efforts of U.S. sea turtle stocks at their nesting beaches. Thus, we
+have chosen to add a general description of nesting beach threats, so that U.S. resource
+managers can make informed decisions on policies to support turtles in other political
+jurisdictions.
+1. Directed Take
+The harvest of sea turtles and/or their eggs for food or any other domestic or commercial
+use constitutes a widespread threat to these species. Removing breeding adults from a
+population can accelerate the extinction of local stocks, and the persistent collection of eggs
+guarantees that future population recruitment will be reduced. This category includes only the
+harvest of sea turtles (typically nesting females) and their eggs on land. Harvest at sea is
+discussed in a later section. (see Recovery - Section 1.1.1)
+2. Increased Human Presence
+Human populations are growing rapidly in many areas of the coastal Pacific and this
+expansion is exerting increasing pressure on limited resources. Threats to sea turtles include
+increased recreational and commercial use of nesting beaches, the loss of nesting habitat to
+human activities, beach camping and fires, an increase in litter and other refuse, and the
+general harassment of turtles. Increasing human population densities also tend to increase
+direct harvest of turtles and their eggs, further exacerbating population declines. Related
+threats, such as coastal construction, associated with increasing human populations are
+discussed separately. (see Recovery - Sections 1.1, 1.2)
+3. Coastal Construction
+The most valuable land is often located along the coastline, particularly when it is
+associated with a sandy beach. Construction is occurring at a rapid rate and is resulting in a
+loss of sea turtle nesting areas. This section discusses construction-related threats to the
+region's sea turtle nesting beaches, including the construction of buildings (hotels, houses,
+restaurants), recreational facilities (tennis courts, swimming pools), or roads on the beach; the
+construction of sea walls, jetties, or other armoring activities that can result in the erosion of
+adjacent sandy beaches; clearing stabilizing beach vegetation (which accelerates erosion);
+and the use of heavy construction equipment on the beach, which can cause sand compaction
+or beach erosion. (see Recovery - Sections 1.1.2, 1.2)
+
+21
+
+4. Nest Predation
+The loss of eggs to non-human predators is a severe problem in some areas. These
+predators include domestic animals, such as cats, dogs and pigs, as well as wild species such
+as rats, mongoose, birds, monitor lizards, snakes, and crabs, ants and other invertebrates.
+(see Recovery - Section 1.1.3)
+5. Beach Erosion
+Weather events, such as storms, and seasonal changes in current patterns can reduce or
+eliminate sandy beaches, degrade turtle nesting habitat, and cause barriers to adult and
+hatchling turtle movements on affected beaches. Many of these problems can be exacerbated
+by human development (ie. beach armoring, groins, jetties). (see Recovery - Section 1.2.1,
+1.1.5.2)
+6. Artificial Lighting
+Hatchling sea turtles orient to the sea using a sophisticated suite of cues primarily
+associated with ambient light levels. Hatchlings become disoriented and misdirected in the
+presence of artificial lights behind (landward of) their hatching site. These lights cause the
+hatchlings to orient inland, whereupon they fall prey to predators, are crushed by passing cars,
+or die of exhaustion or exposure in the morning sun. Nesting adults are also sensitive to light
+and can become disoriented after nesting, heading inland and then dying in the heat of the
+next morning, far from the sea. Security and street lights, restaurant, hotel and other
+commercial lights, recreational lights (e.g., sports arenas), and village lights, especially mercury
+vapor, misdirect hatchlings by the thousands throughout the Pacific every year. (see Recovery
+- Sections 1.1.2,1.1.4)
+7. Beach Mining
+Sand and coral rubble are removed from beaches for construction or landscaping
+purposes. The extraction of sand from beaches destabilizes the coastline (e.g., reduces
+protection from storms), removes beach vegetation through extraction or flooding and, in
+severe cases, eliminates the beach completely. When mining occurs on or behind a nesting
+beach, the result can be the degradation or complete loss of the rookery. In addition, females
+can become confused when they emerge from the sea only to find themselves heading down
+slope into a depression formed by mining activities; too often the outcome is that the female
+returns to the sea without laying her eggs. Even when eggs are successfully deposited,
+reduced hatch success results if nests are flooded or excavated during mining. (see Recovery
+- Section 1.2.2)
+8. Vehicular Driving on Beaches
+Driving on the beach causes sand compaction and rutting, and can accelerate erosion.
+Driving on beaches used by turtles for egg-laying can crush incubating eggs, crush hatchlings
+in the nest, and trap hatchlings after they emerge from the nest cavity and begin their trek to
+the sea. In the latter case, hatchlings are exposed to exhaustion and predators when they fall
+
+22
+
+into and cannot climb out of tire ruts that are typically oriented parallel to the sea. (see
+Recovery - Section 1.2.6)
+9. Exotic Vegetation
+Introduced species can displace native dune and beach vegetation through shading and/or
+chemical inhibition. Dense new vegetation shades nests, potentially altering natural hatchling
+sex ratios. Thick root masses can also entangle eggs and hatchlings. (see Recovery - Section
+1.2.3)
+10. Beach Cleaning
+Removal of accumulated seaweeds and other debris from a nesting beach should be
+accomplished by hand-raking only. The use of heavy equipment can crush turtle eggs and
+hatchlings and can remove sand vital to incubating eggs. (see Recovery - Section 1.2.5)
+11. Beach Replenishment
+The nourishment or replacement of beaches diminished by seawalls, storms, or coastal
+development can reduce sea turtle hatching success by deeply burying incubating eggs,
+depositing substrate (generally from offshore deposits) that is not conducive to the incubation
+of sea turtle eggs, and/or obstructing females coming ashore to nest by machinery, pipelines,
+etc. (see Recovery - Section 1.2.4)
+
+Marine Environment
+12. Directed Take
+The harvest of juvenile and adult sea turtles for food or any other domestic or commercial
+use constitutes a widespread threat to these species. In particular, the exploitation of large
+juveniles and adults can accelerate the extinction of both local and regional stocks. This
+category includes only the harvest of sea turtles at sea. Harvest on the nesting beach was
+discussed in a previous section.
+No information exists on the intentional take of this species in U.S. waters, although in the
+past leatherbacks were occasionally killed as "sea monsters" (Stinson 1984). Off the coast of
+Chile, Peru and Mexico leatherbacks are occasionally caught and their meat sold in local
+markets. A subsistence fishery exists for leatherbacks in Indonesian waters (Starbird and
+Suarez, 1994). (see Recovery - Section 2.1)
+13. Natural Disasters
+Natural phenomena, such as cyclones, can contribute to the mortality of turtles at sea,
+particularly in shallow waters. Disease epidemics and other debilitating conditions that affect
+prey items (sea grass, coral, sponges, reef invertebrates) can also harm sea turtle populations.
+(see Recovery - Sections 2.1.6, 2.1.7, 2.2.1, 2.2.2)
+
+23
+
+14. Disease and Parasites
+There are few data to assess the extent to which disease or parasitism affects the
+survivability of sea turtles in the wild. Stranded individuals have been found along the U.S.
+coast, and the cause of death in many cases cannot be determined (Joe Cordaro, NMFS,
+pers. comm.). (see Recovery - Section 2.1.6)
+15. Environmental Contaminants
+Chemical contamination of the marine environment due to sewage, agricultural runoff,
+pesticides, solvents and industrial discharges is widespread along the coastal waters of the
+western United States although the impact of these contaminants on leatherbacks is unknown.
+(see Recovery - Section 2.2.3)
+16. Debris (Entanglement and Ingestion)
+The entanglement in and ingestion of persistent marine debris potentially threatens the
+survival of leatherback turtles in the eastern Pacific. Turtles become entangled in abandoned
+fishing gear, lines, ropes and nets, and cannot submerge to feed or surface to breathe. For
+instance, in December 1982, a large (682 kg) female became entangled at night two miles
+offshore Kailua-Kona, Hawaii, in a "parachute anchor", dragging the boat for several hours
+before being killed (Balazs 1985). They may also lose a limb or attract predators with their
+struggling. Leatherback turtles will commonly ingest debris such as plastic bags, plastic
+sheets, balloons, latex products and other refuse which they mistake for jellyfish, their
+preferred food. Necropsies of stranded turtles have revealed mortalities due to ingested
+garbage resulting in poisoning or obstruction of the esophagus. (see Recovery - Section
+2.1.3)
+17. Fisheries (Incidental Take)
+It is clear that incidental catch poses a very great threat in pelagic foraging and transit
+areas and the coastal feeding grounds and migratory corridors that probably exist along the
+west coast of the United States and south into Mexico. Reports of incidental catch in the
+eastern north Pacific include entaglement in gillnets off the coast of Washington, Oregon, and
+California (Stick and Hreha 1989). Fishermen "regularly" catch leatherbacks in drift/gill nets off
+Monterey Bay, central California (C. Starbird, pers. comm., 1991). A leatherback was killed in
+October 1990 in a gillnet set in the Monterey Bay area (36E 55'N, 122E 40'W) (S.Eckert, pers.
+comm.)
+Leatherback turtles are accidentally taken in several commercial fisheries. Longlines and
+active and abandoned driftnets (Anonymous 1935, 1958, 1967; Pritchard 1977; Balazs 1982a)
+have a long history of ensnaring and killing leatherbacks in the central north Pacific. Data
+collected by observers aboard pelagic squid driftnet vessels in 1989 identified nine of 22 turtles
+caught as leatherbacks; only three survived their capture (Gjernes et al. 1990). Leatherbacks
+are the most common species reported caught in longline fisheries between 1935-1982
+(Balazs 1982a). Thirty two percent of the turtles reported captured by the Hawaiian longline
+fisheries during the 1990-1994 observer program were leatherbacks (NMFS 1995). Skillman
+and Balazs (1992) report that leatherbacks eat the squid baited on swordfish longline gear,
+24
+
+and suggest that the light sticks attached to longline gear to attract the fish may also attract
+leatherbacks, that probably rely on bioluminescence to locate their prey (Davenport 1988).
+Most reports of leatherback turtle interactions with longline gear involve entanglement, most
+likely due to their large flippers (Witzell 1984). Recently a juvenile leatherback was reported to
+have been hooked by its front flipper and killed near American Samoa (Grant 1994). In the
+southeastern Pacific leatherbacks are commonly caught by the swordfish fishery in Chilean
+waters (Frazier and Brito Montero 1990). Leatherbacks tagged on nesting beaches in Mexico
+and Costa Rica have also been drowned by purse seine and gillnets as far south as Chile
+(Chandler 1991; Montero 1995). The predicted take based on current fishing effort by the
+Hawaiian longline fisheries is 271 leatherbacks, of which 41 are expected to die (NMFS 1995).
+While this number seems relatively low, in the context of the dramatic decline in nesting
+populations in Mexico and Malaysia, there is cause for serious concern. Hooking mortality for
+sea turtles is not well understood (Balazs and Pooley, 1994), and the effects will undoubtedly
+be greater as fishing effort increases. In addition, there are indications that an increasing
+number of Asian longline tuna vessels are operating in the Pacific. Estimated annual
+incidental take of turtles by the Japanese longline fleet in 1978 in the western Pacific and
+South China Sea was very high (Nishemura and Nakahigashi, 1990). If these estimates are
+accurate and it is assumed that a significant proportion of the turtles caught are leatherbacks,
+the cumulative effect of longline fisheries in the Pacific may be devastating to this species.
+(see Recovery - Section 2.1.4)
+18. Predation
+Large coastal and pelagic sharks and killer whales are common in the northeastern Pacific
+and pose an unknown, though potential threat to adults and juvenile turtles. Killer whales are
+known to kill adults in Mexican waters (Sarti et al. 1991). Predation on hatchlings is believed to
+be relatively high and the species most often implicated are coastal and pelagic sharks.
+19. Boat Collisions
+Sea turtles can be injured or killed when struck by a boat, especially if struck by an
+engaged propeller. Recreational equipment, such as jet skis, also pose a danger. (see
+Recovery - Sections 2.1.4, 2.1.5, 2.1.7)
+20. Marina and Dock Development
+The development of marina and docking facilities pose direct and indirect threats to sea
+turtles. Direct consequences can be seen when foraging grounds and nesting beaches are
+dredged or otherwise permanently altered in the process of construction and maintenance.
+Altered current patterns and increased levels of ship traffic, pollution, and general activity
+which displace or injure local sea turtles constitute indirect consequences that should also be
+considered. (see Recovery - Sections 1.2.1, 2.2)
+21. Oil Exploration and Development
+Oil exploration and development pose direct and indirect threats to sea turtles. A rise in
+transport traffic increases the amount of oil in the water from bilge pumping and disastrous oil
+spills. Oil spills resulting from blow-outs, ruptured pipelines, or tanker accidents, can result in
+25
+
+death to sea turtles. Indirect consequences include destruction of foraging habitat by drilling,
+anchoring, and pollution. While oil exploration is currently limited by regulation in U.S. waters,
+recent proposals to allow drilling on the California coast are cause for concern. Any such
+exploration should be carefully evaluated for impact to leatherback populations before such
+explorations are undertaken.
+22. Power Plant Entrapment
+Entrapment in the water intake mechanisms of power generating facilities can result in
+death to sea turtles of all size classes. There are no known incidences of power plant
+entrapment of leatherbacks.
+
+26
+
+I. Conservation Accomplishments
+The Pacific coast of Mexico is a critical area for the reproduction of the leatherback turtle
+(Dermochelys coriacea), which is listed as an endangered species in Mexico's official
+government publication (Diario Oficial de la Federación, 1994). The first report of leatherback
+nesting in the Mexican Pacific (Marquez 1976) reported that San Juan Chacahua, Oaxaca,
+was an important reproductive area for this species. In 1981, the same author reported Tierra
+Colorada, Guerrero and Playon de Mexiquillo, Michoacan as major rookeries. Pritchard
+(1982a) concluded that the stretch of coast from Maruata, Mich. to the Tehuantepec Isthmus in
+Oaxaca, supported the largest leatherback nesting population in the world. Information on the
+rest of the Pacific coast of Mexico is scarce, with a few isolated reports of leatherbacks nesting
+in Baja California (Marquez et al. 1981; Fritz et al. 1982; Marquez and Carrasco, 1993). Today
+four major nesting beaches are recognized in the Mexican Pacific coast: Mexiquillo,
+Michoacan; Tierra Colorada, Guerrero; Chacahua and Barra de la Cruz, Oaxaca. The first
+three were established as Sea Turtle Reserve Areas in 1986.
+Since the early reports, the need for the establishment of conservation programs intended
+to protect the leatherback was clearly recognized, as egg poaching was common practice in
+the nesting areas. Female turtles were not killed for meat, but occasionally fishermen would kill
+an adult leatherback to use it as shark bait. Also, adults were entangled in trammel nets
+placed in front of the beaches.
+Mexiquillo and Chacahua beaches received the first conservation efforts, prior to 1983, and
+later Barra de la Cruz, Oaxaca in 1990. For Tierra Colorada, in spite of being reported as one
+of the most important nesting areas, conservation efforts have been irregular. The main tasks
+of these programs have been the relocation of eggs to protected areas and protection and
+tagging of nesting females. The number of protected nests has reached 90% at each beach
+per season.
+Some of the projects have research programs designed to yield information on biological
+aspects of the leatherback and they involve conservation groups supported by government
+institutions, universities and non-government organizations.
+Although information on the number of nestings per season doesn't exist for all the
+leatherback nesting beaches and for all the years, the groups working for different institutions
+in each beach, have recently established a regular information exchange to enable a
+comprehensive view of nesting along the entire coast.
+Mexiquillo is the only rookery in the Mexican Pacific which has maintained continuous
+monitoring of the nesting and number of females for over 12 years. The project (managed by
+Facultad de Ciencias, UNAM) has recorded fluctuations in the number of nestings each
+season, however the data indicates a declining trend. The most drastic decline in the nesting
+at Mexiquillo occurred in the 1993-94 season, in which 78 nests were estimated (Sarti et al.
+1994). A similar phenomenon was observed also in Chacahua (43 nestings, Alvarado-Padilla
+et al. 1994) and Barra de la Cruz (C. Peñaflores, pers. comm.). The causes of this decline are
+not known, but Sarti et al. in 1994 attributed the decline to:
+
+27
+
+a) Natural fluctuations in the reproductive biology of this species.
+b) Displacement of the females to unknown nesting areas.
+c) Poor recruitment to population caused by egg poaching in previous years.
+d) Unsuitable environmental conditions affecting the reproductive capability of the females.
+e) A real decrease in the nesting population, caused by incidental capture or poaching of
+adult females.
+During the 1994-95 season a slight rebound in nesting activity occurred with over 400
+nestings estimated in Mexiquillo (Sarti et al. 1996), 341 in Barra de la Cruz (Sandoval and
+Vazquez 1995) and 196 in Chacahua (Alvarado-Padilla et al. 1995).
+Continuing research into effective population size, age to sexual maturity, sex ratio in
+natural populations, phylopatry, etc. are underway and are fundamental for the proper
+establishment of conservation programs. The group from Facultad de Ciencias, UNAM, has
+conducted several research projects on this species, obtaining basic data on the females size,
+general conditions of the females, clutch size, hatching success and number of nests.
+Additionally, research on nesting frequency, fertility, tag lost rate, effects of incubation
+temperature on hatching success and sex ratio, diving behavior and internesting movements
+has been accomplished. Other projects include research of efficiency of nest relocation
+techniques, effects of physicochemical characteristics of sand on the development and the
+presence of pollutants in sand, sea water and eggshells.
+
+28
+
+II. RECOVERY
+A. Recovery Objectives
+Goal: The recovery goal is to delist the species.
+Recovery Criteria: To consider de-listing, all of the following criteria must be met:
+1) All regional stocks that use U.S. waters have been identified to source beaches based
+on reasonable geographic parameters.
+2) Each stock must average 5,000 (or a biologically reasonable estimate based on the
+goal of maintaining a stable population in perpetuity) FENA over six years.
+3) Nesting populations at "source beaches" are either stable or increasing over a 25 year
+monitoring period.
+4) Existing foraging areas are maintained as healthy environments.
+5) Foraging populations are exhibiting statistically significant increases at several key
+foraging grounds within each stock region.
+6) All Priority #1 tasks have been implemented.
+7) A management plan designed to maintain sustained populations of turtles is in place.
+Rationale: Determining quantifiable values that can be used to determine when a sea turtle
+stock is recovered is quite difficult. The recovery team has tried to make such
+recommendations as listed above based on best available information with the following
+conceptual guidelines:
+1) The minimum nesting stock must equal a size that could not easily be eliminated by a
+single catastrophic event ("natural" or "man induced").
+2) Nesting population trends should be long enough to minimize the effects of natural
+fluctuations in numbers that are characteristic of sea turtle populations. Generally this time
+period is equal to the estimated one generation time for each species.
+3) Habitats are adequate to support population growth once threats have been reduced or
+eliminated.
+4) If a species is to be considered for delisting, a plan must already be in force for
+maintaining the population in stable or increasing condition. The team was concerned that
+if a species was delisted, and no management plan was already in force, that the species
+may be driven back toward extinction too rapidly for resource management agencies to
+implement such plans.
+29
+
+B. Step Down Outline and Narrative for Recovery
+1
+
+NESTING ENVIRONMENT
+
+While it is recognized that there is no nesting by this species in U.S. Pacific jurisdiction, we felt
+that a description of recovery actions should be provided so that U.S. agencies could take
+them into account when providing support to those nations in which U.S. stocks may nest.
+1.1 Protect and manage turtles on nesting beaches.
+It is prudent to preserve the capacity of a population to recover from a depleted state by
+protecting nesting females, their nests and hatchlings and to preserve the quality of the
+nesting area. The killing of gravid females, poaching of nests, predation (native and feral),
+destruction of the habitat through mining, destruction of vegetation, artificial lighting,
+development, and increased human use all degrade the ability of depleted populations to
+recover. Although there are no known nesting grounds for leatherbacks in the U.S. Pacific,
+we strongly advocate that the United States financially and logistically support the efforts of
+Mexico, Malaysia, Indonesia, PNG and other Pacific nations with nesting grounds to
+preserve their leatherback populations. The following tasks may be used as guidelines to
+enhance the reproductive success of sea turtle populations at their nesting grounds.
+1.1.1
+
+Eliminate directed take of turtles and their eggs.
+Direct take of nesting turtles and their eggs has been identified as a primary threat to
+Pacific sea turtle populations. Eliminating this threat is required if populations are to
+recover.
+
+1.1.1.1
+
+Reduce directed take of turtles through public education and information.
+While increased law enforcement will be effective in the short term, without
+support of the local populace, regulations will become ineffective. Education of
+the public as to the value of conserving sea turtles, is a very effective way of
+sustaining recovery efforts and providing support for enforcement of
+management regulations.
+
+1.1.1.2
+
+Increase enforcement of protective laws protecting turtles by law enforcement
+and the courts.
+Lack of adequate support for law-enforcement activities which protect sea turtle
+populations is common, yet it must be understood that enforcement is as
+important as any other resource management activities. Enforcement, judicial,
+and prosecutorial personnel must receive adequate resources as well as
+instruction about sea turtles and the importance of protecting turtle populations.
+
+1.1.2
+
+Ensure that coastal construction activities avoid disruption of nesting and hatching
+activities.
+
+30
+
+Coastal construction must be monitored to minimize impact on turtle beaches, both
+during construction, particularly during the nesting and hatching season and in the
+long-term. Construction equipment must not be allowed to operate on the beach,
+remove sand from the beach, or in any way degrade nesting habitat. Nighttime lighting
+of construction areas should be prohibited during nesting and hatching seasons. In the
+long-term, structures should not block the turtle’s access to the beach, change beach
+dynamics, or encourage human activities that might interfere with the nesting process.
+1.1.3
+
+Reduce nest predation by domestic and feral animals.
+Feral animals such as the Polynesian Rat (Rattus exulans), dogs and mongooses pose
+a severe threat to turtle nests and hatchlings. It is important that feral predators be
+controlled or eliminated from nesting areas. Domestic animals such as pigs or dogs
+can also threaten turtle nests and hatchlings, and should be controlled near nesting
+areas. In particular, domestic dogs should not be allowed to roam turtle nesting
+beaches unsupervised.
+
+1.1.4
+
+Reduce effects of artificial lighting on hatchlings and nesting females.
+Because sea turtles (especially hatchlings) are strongly attracted to artificial lighting,
+lighting near nesting beaches should be placed in such a manner that light does not
+shine on the beach. If not, turtles may become disoriented and stray from their course.
+
+1.1.4.1
+
+Quantify effects of artificial lighting on hatchlings and nesting females.
+It is important to quantify the impact of existing lighting in terms of nesting
+success and hatchling survival so that pragmatic mitigation can be applied.
+Also such study can be used to guide the development of effective lighting
+ordinances.
+
+1.1.4.2
+
+Implement, enforce, evaluate lighting regulations or other lighting control
+measures where appropriate.
+Shielding of the light source, screening with vegetation, placing lights at lowered
+elevations and in some cases the use of limited spectrum low wavelength
+lighting (e.g. low pressure sodium vapor lights) are possible solutions to beach
+lighting problems. Such measures should be required by law and enforced.
+
+1.1.5
+
+Collect biological information on nesting turtle populations.
+The collection of basic biological information on nesting is critical for making intelligent
+management decisions. Monitoring nesting success can help to identify problems at
+the nesting beach or elucidate important areas for protection. Analyzing population
+recruitment can help in understanding population status.
+
+1.1.5.1
+
+Monitor nesting activity to identify important nesting beaches, determine number
+of nesting females, and determine population trends.
+
+31
+
+Important nesting beaches (based on actual number of nests) must be identified
+for special protection. Nesting beaches need to be identified by standardized
+surveys during the nesting season. Informational surveys with local residents
+and officials should be conducted to determine current or historical nesting
+beaches.
+One of the most crucial techniques for determining the status of sea turtle
+populations and for evaluating the success of management or restoration
+programs is long-term monitoring of annual nesting on key beaches. The
+surveys must be done in a standardized and consistent manner with
+experienced personnel. Because of long maturity times for turtles, quantifying
+trends in population sizes and effectiveness of any restoration program may
+take a generation time (20+ years) to be reflected in the annual numbers of
+nesters. Monitoring should thus be recognized as a long-term undertaking.
+1.1.5.2
+
+Evaluate nest success and implement appropriate nest-protection measures on
+important nesting beaches.
+One of the simplest means to enhance populations is by increasing hatchling
+production at the nesting beach. The first step to such an enhancement
+program is to determine the nesting / hatching success and to characterize
+factors which may limit that success. Once those limiting factors are
+determined, protection or mitigation measures can be implemented. If nests
+must be moved to prevent loss from erosion or other threats, natural rather than
+artificial incubation should be employed.
+
+1.1.5.3
+
+Define stock boundaries for Pacific sea turtles.
+Because sea turtles exhibit a unique genetic signature for each major nesting
+assemblage, and because nesting assemblages provide an easily censused
+means of monitoring population status, it is useful to use genetic analysis
+methods to determine stock boundaries for sea turtle populations. It also
+enables managers to determine which stocks are being impacted by activities
+far removed from the nesting beaches, and thus prioritize mitigation efforts.
+
+1.1.5.3.1
+
+Identify genetic stock type major nesting beach areas.
+A “genetic survey” to establish the genetic signature of each nesting
+population must be established, before stock ranges can be determined.
+Such surveys are relatively simple as they require only a small blood
+sample from a statistically viable number of females within each nesting
+population.
+
+1.1.5.3.2
+
+Determine nesting beach origins for juvenile and subadult populations.
+Because nesting populations can form the basis for stock management,
+it is important to be able to pair juvenile and subadult turtles with their
+
+32
+
+stock units by genetic identification. DNA analyses have begun to
+provide scientists and managers with this sort of data.
+1.1.5.3.3
+
+Determine the genetic relationship among Pacific leatherback
+populations.
+The need for such study is critical to successful management of a sea
+turtle population as it enables resource managers to identify the entire
+(and often overlapping) range of each population. This type of
+population study can also detail the genetic diversity and viability of the
+populations. Genetic studies can also contribute to forensics and law
+enforcement. (see Section 2.1.1)
+
+1.2 Protect and manage nesting habitat.
+The nesting habitat must be protected to ensure future generations of the species.
+Increased human presence and coastal construction can damage nesting habitat resulting
+in reduced nest success or reduced hatchling survival.
+Once key nesting beaches are identified, they may be secured on a long-term basis in an
+assortment of ways. These may include conservation easements or agreements, lease of
+beaches, and in some cases, fee acquisition. Certain beaches may be designated as
+natural preserves. In some cases education of local residents may serve to adequately
+secure nesting beaches.
+1.2.1
+
+Prevent the degradation of nesting habitats caused by sea walls, revetments, sand
+bags, other erosion-control measures, jetties and breakwaters.
+Beach armoring techniques that beach residents use to protect their beachfront
+properties from wave action may actually degrade nesting habitats by eroding beaches
+and preventing nesting by preventing access to nesting sites or preventing digging of
+the nest on the site. Guidelines on the proper placement of stonewalls must be
+proposed. Jetties and breakwaters impede the natural movement of sand and add to
+erosion problems in neighboring beaches. Regulations regarding beach construction
+and beach armoring should be reviewed to ensure that such measures are restricted or
+prohibited if adverse impacts to nesting are anticipated.
+
+1.2.2
+
+Eliminate sand and coral rubble removal and mining practices on nesting beaches.
+Beach mining severely affects a nesting beach by reducing protection from storms,
+destroying native vegetation directly or indirectly and may completely destroy a nesting
+beach. Protective legislation and public education must be used to protect the
+substrate of the beaches.
+
+1.2.3
+
+Develop beach-landscaping guidelines which recommend planting of only native
+vegetation, not clearing stabilizing beach vegetation and evaluating the effects as
+appropriate.
+
+33
+
+Non-native vegetation may prevent access to nesting sites, prevent adequate nest
+digging, exacerbate erosion or affect hatchling sex ratios by altering incubation
+temperatures. Native vegetation, however, plays an important role in stabilizing the
+beach and creating the proper microclimate for nests. Guidelines for residents
+concerning the most appropriate plant species and the importance of a native plant
+base should be encouraged.
+1.2.4
+
+Ensure that beach replenishment projects are compatible with maintaining good quality
+nesting habitat.
+Sand on sea turtle beaches has particular properties which affect hatching success (ie.
+compaction, gas diffusion, temperature). Any addition or replacement of sand may
+change these properties and make it more difficult for females to nest or reduce
+hatchling success. As such, beach replenishment projects should be carefully
+considered, use materials similar to the native sands and be carried out outside the
+nesting season.
+
+1.2.5
+
+Implement non-mechanical beach cleaning alternatives.
+Hand raking of beach debris, rather than using heavy machinery, should be
+encouraged on nesting beaches where cleaning is done for aesthetic reasons. The
+use of heavy machinery can adversely affect hatchlings directly and their nesting
+habitat.
+
+1.2.6
+
+Prevent vehicular driving on nesting beaches.
+Driving on active nesting beaches should be forbidden. Vehicles cause destabilization
+of beaches, threaten incubating nests and leave tire ruts that hatchlings have difficulty
+crossing.
+
+2
+
+MARINE ENVIRONMENT
+
+2.1 Protect and manage leatherback populations in the marine habitat.
+Protection of turtles in the marine environment is a priority that is often overlooked as
+enforcement is difficult and quantification of the problem problematic. However, 99% of a
+turtle’s life is spent at sea; thus, recovery must include significant efforts to protect turtles at
+that time. This is particularly significant for the leatherback in U.S. jurisdiction.
+2.1.1
+
+Eliminate directed take of turtles.
+There is no known directed take in U.S. waters however there are still Chilean,
+Peruvian and Mexican meat harvests. Direct take of turtles is identified as a threat to
+population recovery in the Pacific Ocean and must be eliminated if sea turtles are to
+recover.
+
+2.1.1.1
+
+Reduce directed take of turtles through public education and information.
+
+34
+
+While increased law enforcement will be effective in the short term, without
+support of the local populace, regulations will become ineffective. Education of
+the public as to the value of conserving sea turtles, is a very effective way of
+sustaining recovery efforts and providing support for enforcement of
+management regulations.
+2.1.1.2
+
+Maintain the enforcement of protective laws on the part of law enforcement and
+the courts.
+One of the major threats identified for turtle populations in the Pacific is the
+illegal harvest of turtles both on the nesting beach and in the water. Rigorous
+efforts in law enforcement should be undertaken immediately to reduce this
+source of mortality. Such efforts need to include training of enforcement
+personnel in the importance of protecting turtles, as well as supplying such
+personnel with adequate logistical support (boats, communication and
+surveillance equipment etc.). Judges and prosecutors must also be educated in
+the importance of these matters.
+
+2.1.2
+
+Determine distribution, abundance, and status in the marine environment.
+In its review of information on sea turtle populations in the Pacific, the Recovery Team
+found that lack of accurate information on distribution and abundance was one of the
+greatest threats to sea turtle populations. Most existing information is anecdotal or
+obsolete and where new information is available, it uniformly indicates that leatherback
+populations are vastly smaller than commonly believed. We consider that gathering of
+basic information on distribution and abundance should take a very high priority in the
+recovery of Pacific leatherback populations.
+
+2.1.2.1
+
+Determine the distribution and abundance of post-hatchlings, juveniles and
+adults.
+While little is known about the distribution of nesting beaches for the
+leatherback, even less is understood about distribution of foraging adult and
+juvenile populations. Quantitative surveys of foraging areas to determine
+leatherback abundance, and to identify essential habitat are of significant
+importance for restoration of leatherback populations.
+
+2.1.2.2
+
+Determine adult (male and female) migration routes and internesting
+movements.
+Like all species of sea turtle (with the possible exception of the Flatback turtle,
+Natator depressus), leatherbacks migrate from foraging grounds to nesting
+beaches. These migrations often mean that the turtles move through a variety
+of political jurisdictions where regulations regarding the stewardship of the
+species may vary. To preclude the problem of contradictory management
+strategies by these various jurisdictions, it is important to determine the
+migration routes leatherbacks follow between nesting and foraging areas.
+Satellite telemetry studies of both males and females are needed. For U.S.
+35
+
+recovery efforts, determination of migratory movements and foraging areas
+represent highest priority.
+2.1.2.3
+
+Determine growth rates and survivorship of hatchlings, juveniles, and adults,
+and age at sexual maturity.
+Understanding the rates of growth and survivorship of turtle populations is
+crucial to the development of appropriate population models. This is especially
+true for leatherbacks for which the least information on growth is available.
+Such models are important in understanding population status and how best to
+efficiently apply management efforts, in restoring depleted populations. For
+example, the application of stage based modeling (Crouse et al. 1987) indicated
+that not enough effort was being expended on protecting juvenile sized
+loggerhead sea turtles in the southeastern United States and that without such
+protection, extensive nesting beach protection was having less positive benefit.
+A similar approach to understanding leatherback populations should be
+undertaken, and used to guide restoration policy.
+
+2.1.2.4
+
+Identify current or potential threats to adults and juveniles on foraging grounds.
+Little is known about threats to foraging populations of leatherbacks. Studies on
+such threats should be undertaken immediately.
+
+2.1.3
+
+Reduce the effects of entanglement and ingestion of marine debris.
+Entanglement due to abandoned or unmonitored fishing gear, as well as the ingestion
+of man-made debris is a significant problem in the marine environment.
+
+2.1.3.1
+
+Evaluate the extent to which leatherbacks ingest persistent debris and become
+entangled.
+Quantification of the extent to which leatherbacks are impacted by marine
+debris should be undertaken as a first step to mitigating or preventing such
+impacts. The benefits of such work are that it allows the prioritization of
+recovery activities and it allows the activities to be efficiently targeted at the
+problem.
+
+2.1.3.2
+
+Evaluate the effects of entanglement and ingestion of persistent debris on
+health and viability of sea turtles.
+Because of the remote nature of turtle/debris interactions, the acute and chronic
+effects of such interaction are not often understood. Turtles may not die
+immediately after ingesting certain materials, but may become debilitated.
+Studies to further understand the impacts of such interactions, and what age
+classes are affected most severely, should be undertaken immediately. As with
+quantifying the extent to which sea turtles ingest debris, such a program allows
+recovery efforts to be more efficient.
+
+36
+
+2.1.3.3
+
+Formulate and implement measures to reduce or eliminate persistent debris and
+sources of entanglement in the marine environment.
+Once the problem of marine debris has been identified and quantified, it is
+important to implement (and enforce) a program to reduce the amount of debris
+in the marine environment, ie. removing the problem entirely, as contrasted to
+mitigating the problem.
+
+2.1.4
+2.1.4.1
+
+Monitor and reduce incidental mortality in the commercial and recreational fisheries.
+Monitor incidental mortality in the commercial and recreational fisheries.
+Incidental take in fisheries has been identified as a severe threat. These
+mortalities are associated with international fleets operating on the high seas
+and fisheries in coastal waters. Monitoring of turtle take by fisheries is extremely
+important for two reasons. First, it allows resource managers a means to
+quantify the extent of the problem, and by the very act of monitoring, tends to
+cause commercial fisherman to be more aware of the concern over incidental
+take, and thereby encourage reduced take. The choice method for monitoring
+take is through the use of an unbiased observer program. Voluntary logbooks
+have not proven a reliable technique for quantifying incidental catch in
+commercial fisheries. Genetic studies are a valuable tool to identify the nesting
+stocks being impacted by fisheries in forage areas or migratory corridors.
+
+2.1.4.2
+
+Reduce incidental mortality in the commercial and recreational fisheries.
+Efforts to reduce mortality induced by fisheries include gear modifications or
+enhancement, and area and seasonal closures. Often a better understanding
+of the interaction between turtles and fishing gear, and between turtles and their
+preferred environments can be useful in developing methods to reduce
+mortality. For example, understanding the influence of bait type or attractors to
+turtles can help develop less turtle attractive gear. Technological improvements
+to fishing gear, such as the development of Turtle Excluder Devices (TED’s) is
+also very important. Finally, closing areas or seasons when fisheries and turtle
+interactions are highest can limit impacts to turtle populations.
+
+2.1.5
+
+Eliminate the harassment of turtles at sea through education and enforcement.
+Not applicable to leatherbacks.
+
+2.1.6
+
+Study the impact of diseases on turtles.
+
+37
+
+Little is known about diseases in sea turtles, but there has been recent evidence that it
+may be a limiting factor in certain populations. Disease origin and transmission may
+not be limited to the marine environment.
+2.1.6.1
+
+Investigate parasites and other infectious agents.
+A variety of other diseases and parasites may be affecting leatherbacks. The
+prevalence of such infections, their impact on sea turtles, and modes of
+transmissions need to be studied. Parasites include internal parasites such as
+blood flukes, external parasites such as leeches (Ozobranchus) and burrowing
+barnacles (Stephanolepas), and certain bacterial infections such as Vibrios.
+
+2.1.7
+
+Develop carcass stranding network.
+Stranding networks are operated generally by volunteers who monitor beaches for
+stranded animals. Such networks can be useful for alerting managers to incidents
+causing high mortality, such as increased fishery take or disease problems, as well as
+providing some basic biological data.
+
+2.1.8
+
+Centralize administration and coordination of tagging programs.
+In general, government resource management agencies can provide the continuity
+required to coordinate tagging programs. The responsibility of any such agency is that
+they act as a central distribution point for tags, tagging training and database
+management. It is critically important that the coordinating agency: 1) provides
+adequate staff to keep the program organized and respond to tag returns immediately,
+and 2) remain in existence for many years (20+). Without such a commitment, tagging
+programs have very limited usefulness, and before initiation of such a program it should
+be considered carefully on its scientific merits. It must be remembered that sea turtles
+are long-lived animals, and the most valuable information yielded by any tagging
+program comes from turtles which have carried identification tags for many years.
+Conventional flipper tags generally only last 2 or 3 years in leatherbacks, and other
+forms of identification, such as Passive Integrated Transponders (PITs) and
+photoidentification are more appropriate for long-term projects (McDonald and Dutton,
+In Press). Short-term tagging projects are at best very limited in the information they
+yield and at worst are nothing more than a form of undue harassment to the turtles.
+Centralization of tag records is useful as it makes the most efficient use of limited
+personnel resources, allows standardization of techniques, and can act as a screening
+mechanism to ensure that tagging is done for valid scientific reasons.
+
+2.2 Protect and manage marine habitat, including foraging habitats.
+Leatherbacks are primarily pelagic, although they often enter nearshore waters. Human
+activities which degrade important leatherback habitat must be limited.
+2.2.1
+
+Identify important marine habitats.
+
+38
+
+These areas are virtually unknown for this species and represent a high priority
+research need. (Many of these areas will first need to be identified through actions in
+Section 2.1.2.1 and 2.1.2.2.)
+2.2.2
+
+Ensure the long-term protection of marine habitat.
+Once marine habitats are identified, sea turtle range, refugia and foraging habitats
+need to be protected to ensure longterm survival for the species. Habitats identified as
+important or critical should be designated as marine sanctuaries or preserves, while
+others may require close monitoring. The public needs to be educated on the
+importance of preserving these habitats.
+
+2.2.3
+
+Prevent the degradation of marine habitat caused by environmental contaminants such
+as sewage and other pollutants.
+The effect of such pollution on leatherbacks has not been evaluated. However,
+leatherbacks are likely prone to concentrating such contaminants within their tissues
+because of their position in the food web.
+
+2.2.4
+
+Prevent the degradation or destruction of important habitats caused by upland and
+coastal erosion and siltation.
+These processes, often made worse by coastal construction, disrupt vital trophic
+processes, reducing productivity and reducing species diversity. Minimum water
+standards upstream must be maintained. Land-use decisions must take this into
+account and associated projects where erosion and siltation occur must be monitored.
+
+3
+
+ENSURE PROPER CARE IN CAPTIVITY.
+
+Not an issue for leatherback turtles which have proven to be impossible to rear in captivity.
+
+4
+
+INTERNATIONAL COOPERATION
+
+4.1 Support existing international agreements and conventions to ensure that turtles in all lifestages are protected in foreign waters.
+Considering that leatherbacks migrate outside of U.S. territorial waters during at least part
+of their life cycle, an effective recovery plan must include supporting existing cooperative
+agreements with other nations to protect the species. Existing agreements include CITES
+(see next section, adopted 1973), the Convention on Nature Protection and Wildlife
+Preservation in the Western Hemisphere (adopted 1940), the ASEAN Agreement on the
+Convention of Nature and Natural Resources (adopted 1985), the Convention for the
+Protection of the Natural Resources and Environment of the South Pacific Region (SPREP
+convention, adopted 1986), as well as a number of conventions concerning marine
+pollution (Eckert, 1993). Out of the SPREP convention, the South Pacific Regional Marine
+Turtle Conservation Programme was created to specifically implement a regional approach
+39
+
+to the species protection. Agreements and conventions that are effective must continue to
+be supported.
+4.2 Encourage ratification of CITES for all non-member Pacific countries, compliance with
+CITES requirements, and removal of sea turtle trade reservations held by member nations.
+CITES is a comprehensive wildlife treaty signed by many countries that regulates and
+prohibits commercial import and export of wild plant and animal species that are threatened
+by trade. In the north Pacific signatories include 18 countries (Eckert, 1993). It is one of
+the most powerful international agreements concerning threatened species. The U.S.
+State Department, Department of Commerce and Department of Interior should work with
+Pacific nations to encourage non-member countries to become signatories, and demand
+compliance with CITES requirements on sea turtles from all signatories.
+4.3 Develop new international agreements to ensure that turtles in all life-stages are
+protected in foreign waters.
+New agreements must be outlined by the FWS and NMFS, and pursued by the State
+Department and Department of the Interior. Eastern Pacific nations should be encouraged
+to ratify the Regional Agreement for Investigation and Management of Marine Turtles of the
+American Pacific which was not put into place after being drafted in 1986.
+4.4 Develop or continue to support informational displays in airports which provide connecting
+legs for travelers to the areas where leatherbacks occur.
+Airports are particularly good avenues for information about illegal trade in tortoise and
+tortoiseshell paraphernalia, as well as general information on sea turtle conservation. If
+travelers don’t purchase the items, the market for them may decrease. Agencies such as
+NMFS, FWS and the U.S. Customs Service should collaborate on display content and
+placement.
+
+40
+
+III. REFERENCES CITED
+
+Aikanathan, S., and M. Kavanagh. 1988. The effects of fishing on leatherback turtles. WWFMalaysia Report, Kuala Lumpur. 9 pp.
+Alvarado, J., and A. Figueroa. 1990. The ecological recovery of sea turtles of Michoacán,
+Mexico. Special attention: The black turtle, Chelonia agassizi. Final Report 1989-1990
+submitted to the U.S. FWS and W.W.F. - U.S.A. 97 pp. + tables/figs.
+Alvarado-Padilla, J.C., G.H. Cruz R., and G. Sanchez S. 1995. Informe final del Programa
+Nacional de Proteccion y Conservacion de Tortugas Marinas en Chacahua, Oax.
+Pages 94-95 in Memorias de resúmenes del XII Encuentro Interuniversitario y II
+Internacional para la Conservacion de las Tortugas Marinas. Centro Mexicano de la
+Tortuga. Mazunte, Oax. del 12 al 16 de junio de 1995.
+Alvarado-Padilla, J.C., I. Rojas-Silva, H. Cruz-Reyes, and G. Sánchez-Sandoval. 1994.
+Informe final del Programa Nacional de Protección y Conservación de Tortugas
+Marinas en Chacahua, Oax., Pages 93-94 in Memorias de resúmenes del XI Encuentro
+Interuniversitario sobre Tortugas Marinas, celebrado en San Patricio-Melaque, Jalisco,
+México del 12 al 18 de junio de 1994.
+Anonymous. 1967. 764-pound turtle caught. The Honolulu Advertiser, 17 November.
+Anonymous. 1958. Aquarium gets rare turtle. Honolulu Star-Bulletin, 30 May (B section),
+p.17.
+Anonymous. 1935. 445-pound turtle caught by sampan. Honolulu Star-Bulletin, 8 April, p.3.
+Balazs, G.H. 1973. Status of marine turtles in the Hawaiian Islands. 'Elepaio [J. Hawaii
+Audubon Soc.] 33(12):1-5.
+Balazs, G.H. 1975. Marine turtles in the Phoenix Islands. Atoll Res. Bull. 184:1-7.
+Balazs, G. H. 1982a. Driftnets catch leatherback turtles. Oryx 16(5):428-430.
+Balazs, G.H. 1982b. Status of sea turtles in the central Pacific Ocean. Pages 243-252 in K.A.
+Bjorndal (ed.), Biology and Conservation of Sea Turtles. Smithsonian Inst. Press.
+Washington, D.C. 583 pp.
+Balazs, G.H. 1985. Impact of ocean debris on marine turtles: entanglement and ingestion.
+Pages 387-429 in R.S. Shomura and H.O. Yoshida (eds.), Proc. Workshop on the Fate
+and Impact of Marine Debris. U.S. Dep. Commer., NOAA Tech. Memo. NMFS-SWFC54. 582 pp.
+
+41
+
+Balazs, G.H. and S.G. Pooley. 1994. Research plan to assess marine turtle hooking mortality:
+Results of an expert workshop held in Honolulu, Hawaii, November 16-18, 1993. U.S.
+Dep. Commer., NOAA Tech. Memo. NMFS-SWFSC-201, 166 pp.
+Bannikov, A.G., I.S. Darevsky, and A.K. Rustamov. 1971. Zemnovodni i presmikaushchienya
+USSR. Izdatelistvo "Misl", Moscow. 304 pp.
+Bels, V., F. Rimblot-Baly, and J. Lescure. 1988. Croissance et maintien en captivité de la
+Tortue Luth, Dermochelys coriacea (Vandelli 1761). Revue fr. Aquariol. 15(1988)2:5964.
+Betz, W., and M. Welch. 1992. Once thriving colony of leatherback sea turtles declining at
+Irian Jaya, Indonesia. Mar. Turtle Newsl. 56:8-9.
+Bhaskar, S. 1985. Mass nesting by leatherbacks in Irian Jaya. WWF Monthly Report, January
+1985:15-16.
+Bickham, J.W. and J.L. Carr. 1983. Taxonomy and phylogeny of the higher categories of
+cryptodiran turtles based on a cladistic analysis of chromosomal data. Copeia
+1983:918-932.
+Blainville, H.M. de. 1816. Prodrome d’une nouvelle distribution systematique de regne animal.
+Reptiles. Bull. Sci. Soc. Philom. Paris (111):119.
+Bleakney, J. S. 1965. Reports of marine turtles from New England and eastern Canada. Can.
+Field Nat. 79:120-128.
+Bowen, B.W., W.S. Nelson and J.C. Avise. 1993. A molecular phylogeny for marine turtles:
+trait mapping, rate assessment, and conservation relevance. Proc. Natl. Acad. Sci.
+USA 90: 5574-5577.
+Brandon, D.J. 1977. Turtle farming: progress report on the South Pacific Commission turtle
+farming project in the Cook Islands. Proc. SPC Ninth Technical Meeting on Fisheries,
+Working Paper 21:1-12.
+Brongersma, L.D. 1969. Miscellaneous notes on turtles. IIA, IIB. Proc. Koninkl. Nederl. Akad.
+van Wetenschappen -- Amsterdam. Ser. C, 72(1):76-102.
+Brueggeman, J.J. (ed.). 1991. Oregon and Washington Marine Mammal and Seabird
+Surveys. OCS Study MMS 91-000 (contract 14-12-0001-30426). Pacific OCS Region,
+Minerals Mgmt. Serv., Los Angeles. U.S. Dept. Interior. Draft Report.
+Bustard, H.R. 1972. Australian Sea Turtles: Their Natural History and Conservation. Collins,
+London. 220 pp.
+Carr, A.F. 1987. New perspectives on the pelagic stage of sea turtle development. Cons. Biol.
+1(2):103-121.
+
+42
+
+Carr, A., and L. Ogren. 1959. The ecology and migrations of sea turtles, 3. Dermochelys in
+Costa Rica. Amer. Mus. Novitates 1958:1-29.
+Chan, E.H., and H.C. Liew. 1989. The leatherback turtle: a Malaysian heritage. Tropical Press
+Sdn Bhd, Kuala Lumpur, Malaysia. 49 pp.
+Chan, E.H., H.C. Liew, and A.G. Mazlan. 1988. The incidental capture of sea turtles in fishing
+gear in Terengganu, Malaysia. Biol. Cons. 43:1-7.
+Chandler, M. 1991. New records of sea turtles in Chile. Mar. Turtle Newsl. 52:8-11
+Chen, B.Y., and S.H. Mao. 1981. Hemoglobin fingerprint correspondence and relationships of
+turtles. Comp. Biochem. Physiol. 68B:497-503.
+Chen, B.Y., S.H. Mao, and Y.H. Ling. 1980. Evolutionary relationships of turtles suggested by
+immunological cross-reactivity of albumins. Comp. Biochem. Physiol. 66B:421-425.
+Chu-Chien, H. 1982. Distribution of sea turtles in China Seas. Pages 321-322 in K.A. Bjorndal
+(ed.), Biology and Conservation of Sea Turtles. Smithsonian Institution Press,
+Washington, D. C. 583 pp.
+Chua, T.H. 1988. On the road to local extinction: the leatherback turtle (Dermochelys
+coriacea) in Terengganu, Malaysia. Pages 153-158 in A. Sasekumar, R. D'Cruz, and S.
+Lim Lee Hong (eds.), Proc. 11th Annual Seminar Malay. Soc. Mar. Sci. Univ. Malaya,
+Kuala Lumpur.
+Chua, T.H., and J.I. Furtado. 1988. Nesting frequency and clutch size in Dermochelys
+coriacea in Malaysia. J. Herpetol. 22(2):208-218.
+Cliffton, K., D.O. Cornejo, and R.S. Felger. 1982. Sea turtles of the Pacific coast of Mexico,
+p.199-209 in K.A. Bjorndal (ed.), Biology and Conservation of Sea Turtles. Smithsonian
+Inst. Press, Washington, D.C. 583 pp.
+Cornelius, S.E. 1982. Status of sea turtles along the Pacific coast of Middle America. Pages
+211-219 in K.A. Bjorndal (ed.), Biology and Conservation of Sea Turtles. Smithsonian
+Inst. Press, Washington, D.C. 583 pp.
+Cornelius, S.E. 1986. The sea turtles of Santa Rosa National Park. Fundación de Parques
+Nacionales Costa Rica. 64 pp.
+Crouse, O.T., Crowder, L.B. and Cashell, M. 1987. A stage based population model for
+loggerhead sea turtles and implications for conservation. Ecology 68(5):1412-1423.
+Cruz, L., L. Sarti M., A. Villaseñor G., B. Jimenez A., M. Robles D. and T. Ruiz M. 1987. I
+Informe de trabajo "Investigación y Conservación de las tortugas laúd (Dermochelys
+coriacea) en Mexiquillo, Michoacán", temporada de anidacion 1984-1985. Annual
+
+43
+
+Report, Sec. Desarrollo Urbano Ecol. (SEDUE), Sub-delegacion Ecologia, Michoacan.
+45 pp.
+Davenport, J. 1988. Do diving leatherbacks pursue glowing jelly? Br. Herp. Soc. Bull.
+24:20-21.
+Davenport, J., and G.H. Balazs. 1991. 'Fiery bodies' -- are pyrosomas an important
+component of the diet of leatherback turtles? Brit. Herp. Soc. Bull. 31:33-38.
+Davenport, J., D.L. Holland, and J. East. 1990. Thermal and biochemical characteristics of
+the lipids of the leatherback, Dermochelys coriacea: evidence of endothermy. J. Mar.
+Biol. Assoc. U.K. 70:33-41.
+de Celis, N.C. 1982. The status of research, exploitation, and conservation of marine turtles
+in the Philippines. Pages 323-326 in K.A. Bjorndal (ed.), Biology and Conservation of
+Sea Turtles. Smithsonian Inst. Press, Washington, D. C. 583 pp.
+de Silva, G.S. 1982. The status of sea turtle populations in East Malaysia and the South
+China Sea. Pages 327-337 in K.A. Bjorndal (ed.), Biology and Conservation of Sea
+Turtles. Smithsonian Inst. Press, Washington, D. C. 583 pp.
+Deraniyagala, P.E.P. 1932. Notes on the development of the leathery turtle, Dermochelys
+coriacea. Ceylon J. Sci. (B) Zool. Geol. Spoila Zeylanica 17:73-102.
+Deraniyagala, P.E.P. 1936a. Some post-natal changes in the leathery turtle, Dermochelys
+coriacea. Ceylon J. Sci. (B) Zool. Geol. Spoila Zeylanica 19:225-239.
+Deraniyagala, P.E.P. 1936b. The nesting habit of the leathery turtle, Dermochelys coriacea.
+Ceylon J. Sci. (B) Zool. Geol. Spoila Zeylanica 19(3):331-337.
+Diario Oficial de la Federación. 1994. Norma oficial mexicana NOM-059-ECOL-1994, que
+determina las especies y subespecies de flora y fauna silvestres terrestres y acuáticas
+en peligro de extinción, amenazadas, raras y las sujetas a protección especial, y que
+establece especificaciones para su protección. Tomo CDLXXXVIII No. 10. 16 de mayo
+de 1994.
+Díaz, I. 1994. Protección e investigación de algunos aspectos biológicos y reproductivos de
+las tortugas marinas en la zona sur de la costa michoacana. Temporada 1993-94.
+Informe final de Servicio Social. Facultad de Ciencias, U.N.A.M. Mexico. 18 pp.
+Dohl, T.P., R.C. Guess, M.L. Duman, and R.C. Helm. 1983. Cetaceans of central and
+northern California, 1980-1983: status, abundance, and distribution. Contract report to
+Minerals Mgmt. Serv., U.S. Dept. Interior. 269 pp.
+Doi, H. 1936. On a leathery turtle from the sea near Korea. Jour. Chosen Nat. Hist. Soc.
+21:109-112.
+
+44
+
+Dunlap, C.E. 1955. Notes on the visceral anatomy of the giant leatherback turtle
+(Dermochelys coriacea, L.). Bull. Tulane Med. Faculty 14(2):55-69.
+Dutton, P.H. 1995. Molecular evolution of sea turtles with special reference to the
+leatherback, Dermochelys coriacea. PhD Dissertation, Texas A&M University, College
+Station, TX, 137 pp.
+Dutton, P.H., S.K. Davis, and D.W. Owens. 1994. Genetic population survey of leatherbacks
+based on mtDNA. Paper presented at the 14th Annual Symposium on Sea Turtle
+Biology and Conservation, 1-5 March 1994, Hilton Head, South Carolina.
+Dutton, P.H., C.P. Whitmore and N. Mrosovsky. 1985. Masculinisation of leatherback turtle,
+Dermochelys coriacea hatchlings from eggs incubated in styrofoam boxes. Biol. Cons.
+31:249-264.
+Dutton, P.H., S.K. Davis, T. Guerra, and D.W. Owens. 1996. Molecular phylogeny for marine
+turtles based on sequences of the ND4-leucine tRNA and control regions of
+mitochondrial DNA. Mol. Phylogenet. Evolution 5:511-521.
+Eckert, K.L. 1987. Environmental unpredictability and leatherback sea turtle (Dermochelys
+coriacea) nest loss. Herpetologica 43(3):315-323.
+Eckert, K.L. 1993. The biology and population status of marine turtles in the north Pacific
+Ocean. NOAA Tech. Memo. NMFS. NOAA-TM-NMFS-SWFSC-186. 156 pp.
+Eckert, K.L. and S.A. Eckert. 1988. Pre-reproductive movements of leatherback sea turtles
+(Dermochelys coriacea) nesting in the Caribbean. Copeia 1988:400-406.
+Eckert, S.A., K.L. Eckert, P. Ponganis, and G.L. Kooyman. 1989. Diving and foraging
+behavior of leatherback sea turtles (Dermochelys coriacea). Can. J. Zool. 67:28342840.
+Eggleston, D. 1971. Leathery turtle (Reptilia: Chelonia) in Foveaux Strait (Note). New Zeal. J.
+Mar. Freshw. Res. 5(3-4):522-523.
+Eisenberg, J.F. and J. Frazier. 1983. A leatherback turtle (Dermochelys coriacea) feeding in
+the wild. J. Herpetol. 17:81-82.
+Engbring, J., N. Idechong, C. Cook, G. Wiles, and R. Bauer. 1992. Observations on the
+defensive and aggressive behavior of the leatherback sea turtle (Dermochelys
+coriacea) at sea.
+Frair, W. 1979. Taxonomic relations among sea turtles elucidated by serological tests.
+Herpetologica 35:239-244.
+Frair, W. 1982. Serum electrophoresis and sea turtle classification. Comp. Biochem. Physiol.
+72B:1-4.
+45
+
+Frair, W., R.G. Ackman, and N. Mrosovsky. 1972. Body temperature of Dermochelys
+coriacea: warm turtle from cold water. Science 177:791-793.
+Frazier, J.G., and J.L. Brito Montero. 1990. Incidental capture of marine turtles by the
+swordfish fishery at San Antonio, Chile. Mar. Turtle Newsl. 49:8-13.
+Frazier, S.S., J.G. Frazier, D. Hanbo, H. Zhujian, Z. Ji, and L. King. 1988. Sea turtles in Fujian
+and Guangdong Provinces. Acta Herpetol. Sinica 1988(3):16-46.
+Fretey, J. 1987. Nouvelle capture d'une tortue luth (Dermochelys coriacea) en Polynésie
+française. Bull. Soc. Herp. Fr. 41:28-29.
+Fretey, J., and A. Lebeau. 1985. Capture d'une tortue luth, Dermochelys coriacea (Vandelli,
+1761) en Polynésie française. Bull. Soc. Herp. Fr. 33:37-42.
+Fritts, T.H., M.L. Stinson, and R. Márquez M. 1982. Status of sea turtle nesting in southern
+Baja California, México. Bull. South. Calif. Acad. Sci. 81(2):51-60.
+Gaffney, E.S. 1975. A phylogeny and classification of the higher categories of turtles. Bull.
+Amer. Mus. Nat. Hist. 155:397-436.
+Gaffney, E.S. 1984. Historical analysis of theories of Chelonian relationship. Syst. Zool.
+33:283-301.
+Gjernes, T., S. McKinnell, A. Yatsu, S. Hayase, J. Ito, K. Nagao, H. Hatanaka, H. Ogi, M.
+Dahlberg, L. Jones, J. Wetherall, and P. Gould. 1990. Final report of squid and
+bycatch observations in the Japanese driftnet fishery for neon flying squid
+(Ommastrephes bartrami), June-December 1989 Observer Program. Fish. Agency
+Japan, Canadian Dept. Fish. Oceans, U.S. NMFS/U.S.F.W.S.
+Goff, G.P., and G.B. Stenson. 1988. Brown adipose tissue in leatherback sea turtles: a
+thermogenic organ in an endothermic reptile? Copeia 1988:1071-1074.
+Graham, J. 1964. The North Otago Shelf Fauna. Part IV. Chordata, Classes Reptilia, Aves,
+Mammalia. Trans. Roy. Soc. New Zealand (Zool.) 4:135-138.
+Grant, G.S. 1994. Juvenile leatherback turtle caught by longline fishing in American Samoa.
+Mar. Turtle Newsl. 66:3-5.
+Greer, A.E., J.D. Lazell, and R.M. Wright. 1973. Anatomical evidence for counter-current heat
+exchanger in the leatherback turtle (Dermochelys coriacea). Nature 244:181.
+Groombridge, B. (Compiler). 1982. Red Data Book, Amphibia-Reptilia, Part I: Testudines,
+Crocodylia, Rhynchocephalia. Intl. Union for the Conservation of Nature and Natural
+Resources (IUCN), Gland, Switzerland. 426 pp.
+
+46
+
+Hartog, J.C. den. 1980. Notes on the food of sea turtles: Eretmochelys imbricata (Linnaeus)
+and Dermochelys coriacea (Linnaeus). Neth. J. Zool. 30(4):595-610.
+Hartog, J.C. den, and M.M. van Nierop. 1984. A study on the gut contents of six leathery
+turtles, Dermochelys coriacea (Linnaeus) (Reptilia: Testudines: Dermochelyidae) from
+British waters and from the Netherlands. Zool. Verh. 209 (1984):1-36.
+Hendrickson, J. R. and Alfred, E. R. 1961. Nesting populations of sea turtles on the east
+coast of Malaya Bull. Raffles Mus. Singapore. 26: 190-196
+Hirth, H.F. 1980. Some aspects of the nesting behavior and reproductive biology of sea
+turtles. Amer. Zool. 20(3):507-523.
+Hodge, R.P. 1979. Dermochelys coriacea schlegeli (Pacific leatherback) USA: Alaska. Herp.
+Rev. 10(3):102.
+Kamezaki, N. 1989. The nesting sites of sea turtles in the Ryukyu Archipelago, Japan and
+Taiwan. Pages 342-348 in M. Matsui, T. Hikida and R.C. Goris (eds.), Current
+Herpetology in East Asia. Herpetol. Soc. Japan, Kyoto. 521 pp.
+Lazell, J. 1980. New England waters: critical habitat for marine turtles. Copeia 1980:290-295.
+Leh, C. 1985. Marine turtles in Sarawak. Mar. Turtle Newsl. 35:1-3.
+Limpus, C.J. 1982. The status of Australian sea turtle populations. Pages 297-303 in K.A.
+Bjorndal (ed.), Biology and Conservation of Sea Turtles. Smithsonian Inst. Press,
+Washington, D.C. 583 pp.
+Limpus, C.J. 1995. Global overview of the status of marine turtles: A 1995 viewpoint. Pages
+605-609 in K.A. Bjorndal (ed.), Biology and Conservation of Sea Turtles (Revised
+Edition), Smithsonian Institution Press, Washington, D.C. 615 pp.
+Limpus, C.J., and N.C. McLachlan. 1979. Observations on the leatherback turtle,
+Dermochelys coriacea (L.), in Australia. Aust. Wildl. Res. 6:105-116.
+Limpus, C.J., N.C. McLachlan, and J.D. Miller. 1984. Further observations on breeding of
+Dermochelys coriacea in Australia. Aust. Wildl. Res. 11:567-571.
+Linnaeus, C. 1766. Systemae Naturae. Tomus 1, Pars 1, Regnum animale. 12th edition.
+Laurentii Salvii, Stockholm, Holmiae.
+Lockhart, R. 1989. Marine turtles of Papua New Guinea. PNG Univ. Technol., Dept.
+Mathematics and Statistics Report No. 1-89. 88 pp. + append.
+Logier, E.B.S., and G.C. Toner. 1961. Check list of the Amphibians and Reptiles of Canada
+and Alaska. Royal Ontario Mus., Life Sci. Div., Contribution No. 53:55-56.
+
+47
+
+López S., C., and L. Sarti M. 1989. Evaluación de algunos aspectos poblacionales,
+biológicos y de conservación de la tortuga golfina Lepidochelys olivacea y la tortuga
+laúd Dermochelys coriacea en la zona sur del Estado de Michoacán. Temporada 19881989. Informe final de Biología de Campo. Facultad de Ciencias, U.N.A.M. Mexico City.
+López C., L. Sarti, and N. Garcia. 1992. Estudio de las poblaciones de tortugas marinas
+Lepidochelys olivacea (golfina) y Dermochelys coriacea (laúd) con enfasis en aspectos
+conductuales y reproductivos en la Playon de Mexiquillo, Michoacán. Temporada 199192. Informe final de Biología de Campo. Facultad de Ciencias, U.N.A.M. Mexico. 140
+pp.
+López C., L. Sarti, and N. Garcia. 1991. Las tortugas marinas de la costa sur del Estado de
+Michoacán. Temporada 1990-91. Informe final de Biología de Campo. Facultad de
+Ciencias, U.N.A.M. Mexico. 101 pp.
+López C., L. Sarti, and N. Garcia. 1990. Situatión actual de las pesquerías de las
+poblaciones de tortuga golfina Lepidochelys olivacea y la tortuga laúd Dermochelys
+coriacea en la zona sur del Estado de Michoacán. Temporada 1989-90. Informe final
+de Biología de Campo. Facultad de Ciencias, U.N.A.M. Mexico. 89 pp.
+Lowe, C.H., Jr., and K.S. Norris. 1955. Measurements and weight of a Pacific leatherback
+turtle, Dermochelys coriacea schlegeli, captured off San Diego, California. Copeia
+1955:256.
+Lyster, S. 1985. International wildlife law: an analysis of international treaties concerned with
+the conservation of wildlife. The Research Centre for International Law, Univ.
+Cambridge. Grotius Publ. Ltd., Cambridge. 470 pp.
+MacAskie, I.B., and C.R. Forrester. 1962. Pacific leatherback turtles (Dermochelys) off the
+coast of British Columbia. Copeia 1962:646.
+Mack, D., N. Duplaix, and S. Wells. 1982. Sea turtles, animals of divisible parts: international
+trade in sea turtle products. Pages 545-563 in K.A. Bjorndal (ed.), Biology and
+Conservation of Sea Turtles. Smithsonian Inst. Press, Washington, D.C. 583 pp.
+Mao, S.H. 1971. Turtles of Taiwan: a natural history of the turtles. The Commercial Press,
+Ltd. Taipei, Taiwan. 128 pp.
+Márquez M., R. 1976. Reservas naturales para la conservacion de las tortugas marinas en
+México. Inst. Nac. Pesca, México, Ser. Informacion 83:1-21.
+Márquez, M., R., and M.A. Carrasco A. 1993. Resúmen de playas de anidación de tortugas
+marinas, reservas naturales y actividades de conservación. Programa Nacional de
+Investigación y Manejo de Tortugas Marinas. INP. CRIP-Manzanillo. Manzanillo, Col.
+Reporte interno. 21 pp.
+
+48
+
+Márquez M., R., A. Villanueva, and C. Peñaflores. 1981. Anidación de la Tortuga Laúd
+Dermochelys coriacea schlegelli en el Pacífico mexicano. Ciencia Pesquera 1(1):45-52
+INP, México.
+McCann, C. 1969. First southern hemisphere record of the platylepadine barnacle,
+Stomatolepas elegans (Costa), and notes on the host, Dermochelys coriacea (Linné).
+New Zealand J. Mar. Freshwat. Res. 3:152-158.
+McCoy, M.A. 1974. Man and turtle in the Central Carolines. Micronesica 10(2):207-221.
+McDonald, D.L., and P.H. Dutton. 1996 (In Press). Use of PIT tags and photoidentification to
+revise remigration estimates of leatherback turtles (Dermochelys coriacea) in St. Croix,
+U.S. Virgin Islands, 1979-1995. Chelonian Conservation and Biology.
+Medrano, L., M. Dorizzi, F. Rimblot, and C. Pieau. 1987. Karyotypes of the sea turtle
+Dermochelys coriacea (Vandelli, 1761). Amph.-Rept. 8(1987):171-178.
+Michel, H.B., and M. Foyo. 1976. Caribbean zooplankton, Part I. Dept. Defense, Navy Dept.,
+Office of Naval Research. Govt. Printing Office, Washington, D.C.
+Milliken, T., and H. Tokunaga. 1987. The Japanese sea turtle trade 1970-1986. A Special
+Report prepared by TRAFFIC (Japan) for the Center for Environmental Education,
+Washington, D.C. 171 pp.
+Montero, J.L.B. 1995. The first sea turtle tagging efforts in Chile. Marine Turtle Newsletter
+68: 18-19.
+Morreale, S.J., E.A. Standora, F.V. Paladino, and J.R. Spotila. 1994. Leatherback migrations
+along deepwater bathymetric contours. Pages 109-110 in B.A. Schroeder and B.E.
+Witherington (compilers), Proc. Thirteenth Annual Symposium on Sea Turtle Biology
+and Conservation. U.S. Dep. Commer., NOAA Tech. Memo. NMFS-SEFSC-341. 341
+pp.
+Mrosovsky, N. 1972. The water-finding ability of sea turtles: behavioral studies and
+physiological speculation. Brain Behav. Evol. 5:202-225.
+Mrosovsky, N. 1977. Individual differences in the sea-finding mechanism of hatching
+leatherback turtles. Brain Behav. Evol. 14:261-273.
+Mrosovsky, N. 1983. Ecology and nest-site selection of leatherback turtles, Dermochelys
+coriacea. Biol. Cons. 26:47-56.
+Mrosovsky, N., and P.C.H. Pritchard. 1971. Body temperatures of Dermochelys coriacea and
+other sea turtles. Copeia 1971:624-631.
+Mrosovsky, N., and C.L. Yntema. 1980. Temperature dependence of sexual differentiation in
+sea turtles: implications for conservation practices. Biol. Cons. 18:271-180.
+49
+
+Mrosovsky, N., P.H. Dutton, and C.P. Whitmore. 1984. Sex ratios of two species of sea
+turtles nesting in Suriname. Can. J. Zool. 62:2227-2239.
+National Marine Fisheries Service. 1995. Annual report on the biological opinion of June 25,
+1994 concerning the take of sea turtles in the Hawaii longline fishery. Unpublished
+report. 11 pp.
+Neill, W.H., and E.D. Stevens. 1974. Thermal inertia versus thermoregulation in "warm"
+turtles and tunas. Science 184:1008-1010.
+Nick, L. 1912. Das Kopfskelett von Dermochelys coriacea. Zool. Jahrb. Abt. Anat. 33:1-238.
+Nishemura, W., and S. Nakahigashi. 1990. Incidental capture of sea turtles by Japanese
+research and training vessels: results of a questionnaire. Mar. Turtle Newsl. 51:1-4.
+Pejabat, P.N., and K.T. Siow. 1977. Observations on the exploitation of turtles in the
+Philippines. Mar. Turtle Newsl. 3:7.
+Philippi, R.A. 1899. Las tortugas chilenas. An. Univ. Chile 104:727-736.
+Polunin, N.V.C., and N.S. Nuitja. 1982. Sea turtle populations of Indonesia and Thailand.
+Pages 353- 362 in K.A. Bjorndal (ed.), Biology and Conservation of Sea Turtles.
+Smithsonian Inst. Press, Washington, D. C. 583 pp.
+Pritchard, P.C.H. 1971. The leatherback or leathery turtle, Dermochelys coriacea. IUCN
+Monograph 1:1-39.
+Pritchard, P.C.H. 1973. International migrations of South American sea turtles (Cheloniidae
+and Dermochelyidae). Anim. Behav. 21:18-27.
+Pritchard, P.C.H. 1977. Marine turtles of Micronesia. Chelonia Press, San Francisco. 83 pp.
+Pritchard, P.C.H. 1980. Dermochelys coriacea: leatherback turtle. Catalog Amer. Amphib.
+Rept. 238:1-4.
+Pritchard, P.C.H. 1982a. Nesting of the leatherback turtle, Dermochelys coriacea, in Pacific
+Mexico, with a new estimate of the world population status. Copeia 1982:741-747.
+Pritchard, P.C.H. 1982b. Marine turtles of the South Pacific. Pages 253-262 in K.A. Bjorndal
+(ed.), Biology and Conservation of Sea Turtles. Smithsonian Institution Press,
+Washington, D. C. 583 pp.
+Pritchard, P.C.H. 1982c. Sea turtles of Micronesia. Pages 263-274 in K.A. Bjorndal (ed.),
+Biology and Conservation of Sea Turtles. Smithsonian Inst. Press, Washington, D. C.
+583 pp.
+
+50
+
+Pritchard, P.C.H., and P. Trebbau. 1984. The turtles of Venezuela. Society for the Study of
+Amphibians and Reptiles, Contrib. Herpetol. 2.
+Rhodin, A.G.J. 1985. Comparative chondro-osseous development and growth in marine
+turtles. Copeia 1985:752-771.
+Rhodin, A.G.J., and H.M. Smith. 1982. The original authorship and type specimen of
+Dermochelys coriacea. J. Herpetol. 16:316-317.
+Rhodin, A.G.J., J.A. Ogden, and G.J. Conolgue. 1981. Chondro-osseous morphology of
+Dermochelys coriacea, a marine reptile with mammalian skeletal features. Nature
+290:244-246.
+Rimblot-Baly, F., J. Lescure, J. Fretey, and C. Pieau. 1986-1987. Sensibilité à la température
+de la différenciation sexuelle chez la tortue luth, Dermochelys coriacea (Vandelli 1761);
+application des donneés de l'incubation artificielle à l'étude de la sex-ratio dans la
+nature. Ann. Sci. Nat., Zool., Paris 13e Série, 1986-1987(8):277-290.
+Ross, J.P., and M.A. Barwani. 1982. Historical decline of loggerhead, ridley, and leatherback
+sea turtles. Pages 189-195 in K.A. Bjorndal (ed.), Biology and Conservation of Sea
+Turtles. Smithsonian Inst. Press, Washington, D. C. 583 pp.
+Sandoval, I., and G.D. Vazquez. 1995. Estado actual de las tortugas marinas en la playa de
+Barra de la Cruz, Santiago Astata, Oax. en: Memorias de resumenes del xii encuentro
+intruniversiutario y ii internacional para la conservacion de las tortugas marinas. Centro
+Mexicano de la Tortuga. Mazunte, Oax. del 12 al 16 de junio de 1995.
+Sarti M., L., and A. Barragan. 1995. Variabilidad genética y estimación del tamaño de la
+población de tortuga laúd Dermochelys coriacea en el Pacífico mexicano. Informe
+Final. Laboratorio de Tortugas Marinas, Facultad de Ciencias, UNAM.
+Sarti M., L., L. Floreso, and A. Aguayo L. 1991. Una nota sobre la alimentación de Orcinus
+orca. Paper presented at XVI Reunión Intl. para el estudio de los mamiferos marinos,
+Nayarit, Mexico, 2-5 April 1991.
+Sarti M., L., S.A. Eckert, N. García T., and A.R. Barragan. 1996. Decline of the world’s largest
+nesting assemblage of leatherback turtles. Mar. Turtle Newsl. 74:2-5.
+Sarti M., L., C. López., N. García T., and S. Karam M. 1994. Resultado de las Actividades de
+Protección de las Tortugas Golfina Lepidochelys olivacea y Laúd Dermochelys
+coriacea en el Playón de Mexiquillo, Mich. Pages 1993-94 in Memorias de Resúmenes
+del XI Encuentro Interuniversitario sobre Tortugas Marinas en México, celebrado en
+San Patricio-Melaque, Jalisco, México del 12 al 18 de junio de 1994.
+Sarti M., L., B. Jimenez A., J. Carranza S., A. Villaseñor G., and M. Robles D. 1986. II
+Informe de trabajo "Investigación y Conservación de las tortugas laúd (Dermochelys
+coriacea) y golfina (Lepidochelys olivacea) en Mexiquillo, Michoacán", temporada de
+51
+
+anidacion 1985-1986. Annual Report, Sec. Desarrollo Urbano Ecol. (SEDUE), Subdelegacion Ecologia, Michoacán. 47 pp.
+Sarti M., L., B. Jimenez A., J. Carranza S., A. Villaseñor G., and M. Robles D. 1987. III
+Informe de trabajo "Investigación y Conservación de las tortugas laúd (Dermochelys
+coriacea) y golfina (Lepidochelys olivacea) en Mexiquillo, Michoacán", temporada de
+anidacion 1986-1987. Annual Report, Sec. Desarrollo Urbano Ecol. (SEDUE), Subdelegacion Ecologia, Michoacán. 75 pp.
+Sarti M., L., B. Jimenez A., J. Carranza S., A. Villaseñor G., and M. Robles D. 1988. IV
+Informe de trabajo "Investigación y Conservación de las tortugas laúd (Dermochelys
+coriacea) y golfina (Lepidochelys olivacea) en Mexiquillo, Michoacán", temporada de
+anidacion 1987-1988. Annual Report, Sec. Desarrollo Urbano Ecol. (SEDUE), Subdelegacion Ecologia, Michoacán. 46 pp.
+Sarti M., L., B. Jimenez A., J. Carranza S., A. Villaseñor G., and M. Robles D. 1989. V
+Informe de trabajo "Investigación y Conservación de las tortugas laúd (Dermochelys
+coriacea) y golfina (Lepidochelys olivacea) en Mexiquillo, Michoacán", temporada de
+anidacion 1988-1989. Annual Report, Sec. Desarrollo Urbano Ecol. (SEDUE), Subdelegacion Ecologia, Michoacán. 39 pp.
+Sarti M., L., C. López, N. García, L. Gámez, C. Hernández, C. Ordoñez, A. Barragán, and F.
+Vargas. 1993. Protección e investigación de algunos aspectos biológicos y
+reproductivos de las tortugas marinos en la zona sur de la de la costa michoacána.
+Temporada 1992-93. Informe final. Facultad de Ciencias. UNAM. Mexico. 34 pp.
+Sarti M., L., A. Villaseñor G., B. Jimenez A., J. Carranza S., and M. Robles D. 1989.
+Evaluacion prospectiva de las tecnicas conservacionistas utilizadas en el playon de
+Mexiquillo, Michoacán, Mexico: Dermochelys coriacea y Lepidochelys olivacea,
+temporada de anidacion 1986-1987. Unpubl. ms.
+Shannon, F.A. 1956. The reptiles and amphibians of Korea. Herpetologica 12(Part 1):22-49.
+Skillman, R.A. and G.H. Balazs. 1992. Leatherback turtle captured by ingestion of squid bait
+on swordfish longline. Fis. Bull. 90(40): 807-808.
+Smith, H.M., and R.B. Smith. 1980. Synopsis of the herpetofauna of Mexico. Vol. 6. Guide to
+Mexican turtles. Bibliographic addendum III. John Johnson, North Bennington,
+Vermont. 1044 pp.
+Spring, C.S. 1982. Status of marine turtle populations in Papua New Guinea. Pages 281-289
+in K.A. Bjorndal (ed.), Biology and Conservation of Sea Turtles. Smithsonian Inst.
+Press, Washington, D. C. 583 pp.
+Starbird, C.H., and M.M. Suarez. 1994. Leatherback sea turtle nesting on the North Vogelkop
+coast of Irian Jaya and the discovery of a leatherback sea turtle fishery on Kei Kecil
+Island. Pages 143-146 in Bjorndal, K. A. , A.B. Bolten, D. A. Johnson, and Eliazar, P.
+52
+
+J., (compilers) Proc. of the Fourteenth Annual Symposium on Sea Turtle Biology and
+Conservation. U.S. Dep. Commer., NOAA Tech. Memo NMFS-SEFSC-351. 323 pp.
+Starbird, C., A. Baldridge, and J.T. Harvey. 1993. Seasonal occurrence of leatherback sea
+turtles (Dermochelys coriacea) in the Monterey Bay Region, with notes on other sea
+turtles, 1986-1991. Calif. Fish and Game 79(2):54-62.
+Stick, K., and L. Hreha. 1989. Summary of the 1988 Washington/Oregon experimental
+thresher shark gillnet fishery. State of Wash. Dept. Fish. Progr. Rept. No. 275.
+Stinson, M.L. 1984. Biology of sea turtles in San Diego Bay, California, and in the
+northeastern Pacific Ocean. Master's Thesis, San Diego State University. 578 pp.
+Sutanto-Suwelo, I., C. Yunia-Yusuf, and K. Yamasaki. 1994. Leatherback turtles at
+Jamursba-Medi Beach, Kepala Burung, Irian Jaya. Mar. Turtle Newsl. 64:12.
+Szyndlar, Z. 1991. Distributional records for turtles and lizards from North Korea. Herp. Rev.
+22(1):27.
+Thomas, P.E.J. (Compiler). 1989. Report of the Northern Marshall Islands Natural Diversity
+and Protected Areas Survey, 7-24 September 1988. South Pacific Regional
+Environment Programme, Noumea, New Caledonia and East-West Center, Honolulu,
+Hawaii. 133 pp.
+Tong, M.H., and K.S. Yon. 1961. Short note on Dermochelys coriacea. Saeng-Mul
+1961(1):64.
+Uchida, I., and M. Nishiwaki. 1982. Sea turtles in the waters adjacent to Japan. Pages 317319 in K.A. Bjorndal (ed.), Biology and Conservation of Sea Turtles. Smithsonian Inst.
+Press, Washington, D. C. 583 pp.
+Vandelli, D. 1761. Epistola de Holothurio, et Testudine Coriacea ad Celeberrimum Carolum
+Linnaeum. Conzatti: Patavii (Padova), 12 pp.
+Wetherall, J.A., G.H. Balazs, R.A. Tokunaga, and M.Y.Y. Yong. 1993. Bycatch of marine
+turtles in the North Pacific high-seas driftnet fisheries and impacts on the stocks. In: Ito,
+J. et al. (editors), INPFC Symposium on biology, distribution, and stock assessment of
+species caught in the high seas driftnet fisheries in theNorth Pacific Ocean, Bulletin
+Number 53 (III): 519-538 Int. North. Pac. Fish Comm.
+Witham, R. 1977. Dermochelys coriacea in captivity. Mar. Turtle Newsl. 3:6.
+Witzell, W. N. 1984. Incidental capture of sea turtles in the Atlantic U.S. Fishery
+Conservation Zone by the Japanese tuna longline fleet, 1978-81. Mar. Fish. Rev.
+46(3):56-58.
+
+53
+
+Zhou, K. 1983. Caretta, Lepidochelys and Dermochelys from the coastal waters of Jiangsu
+Province. Acta Herpetol. Sinica 2(3):57-63. (in Chinese, translated for the Recovery
+Team by Zhang Yuanlin, Univ. Georgia, 1991).
+Zug, G.R. 1966. The penial morphology and the relationships of cryptodiran turtles.
+Occasional Papers, Mus. Zool. Univ. Michigan 647:1-24.
+
+54
+
+IV. IMPLEMENTATION SCHEDULE
+The Implementation Schedule outlines management and research actions and estimated costs
+for the U.S. Pacific leatherback turtle recovery program, as set forth in this recovery plan. It is a
+guide for meeting the objectives discussed in Part II of this plan. This schedule indicates wherever
+possible, task priority, task numbers, task descriptions, duration of tasks, the agencies responsible
+for committing funds, and lastly, estimated costs. The agencies responsible for committing funds
+are not, necessarily, the entities that will actually carry out the tasks. The actions identified in the
+implementation schedule, when accomplished, should protect habitat for the species, stabilize the
+existing populations, and increase the population sizes and numbers. Monetary needs for all
+parties involved are identified to reach this point, whenever feasible.
+Priorities in column 3 of the following Implementation Schedule are assigned as follows:
+Priority 1 An action that must be taken to prevent extinction or to prevent the species from declining
+irreversibly in the foreseeable future.
+Priority 2 An action that must be taken to prevent significant decline in species population/habitat
+quality or some other significant negative impact short of extinction.
+Priority 3 All other actions necessary to provide for full recovery of the species.
+
+Key to Implementation Table Abbreviations:
+
+CNMI
+DOC
+DOI
+DOS
+
+=
+=
+=
+=
+
+EPA
+FSM
+FWS
+RMI
+NA
+NMFS
+NRCS
+
+=
+=
+=
+=
+=
+=
+=
+
+Commonwealth of the Northern Mariana Islands
+U.S. Department of Commerce
+U.S. Department of Interior
+U.S. Deptartment of State (primarily as a conduit for negotiations and
+support for tasks in other political jurisdictions)
+U.S. Environmental Protection Agency
+Federated States of Micronesia
+U.S. Fish & Wildlife Service
+Republic of the Marshall Islands
+Not applicable
+National Marine Fisheries Service
+Natural Resources Conservation Service (Soil Conservation Service)
+
+55
+
+IMPLEMENTATION SCHEDULE/U.S. PACIFIC
+Leatherback (Dermochelys coriacea)
+General Task
+Categories
+
+Plan Task
+
+PriorityA
+
+Task
+Duration
+
+Agencies
+ResponsibleB
+
+Estimated Fiscal Year Costs $K
+Current
+
+1.1 Protect & manage
+turtles on nesting
+beaches
+
+A
+
+56
+
+FY3
+
+FY4
+
+FY5
+
+1.1.1.1 Reduce
+directed take through
+public education &
+information
+
+(1)
+
+Continuing
+
+FWS, NMFS,
+DOS,
+(No nests
+documented
+under U.S.
+jurisdiction)
+
+15
+
+25
+
+20
+
+20
+
+20
+
+Provide support
+for international
+information
+exchange forum
+
+1.1.1.2 Law
+enforcement-prevent
+illegal exploitation &
+harassment
+
+(1)
+
+Continuing
+
+FWS, US
+Customs, DOS,
+
+5
+
+5
+
+5
+
+5
+
+5
+
+Provide support
+for in-country law
+enforcement
+efforts
+
+1.1.2 Ensure coastal
+construction activities
+do not disrupt nesting
+& hatching activities
+
+(1)
+
+Continuing
+
+1.1.3 Reduce nest
+predation by domestic
+& feral animals
+
+(1)
+
+4 years
+
+25
+
+10
+
+10
+
+10
+
+1.1.1 Eliminate
+directed take of turtles
+and their eggs
+
+1.1 Protect & manage
+turtles on nesting
+beaches (cont.)
+
+FY2
+
+Comments/
+Notes
+
+NMFS
+FWS, DOS,
+NMFS
+
+( ) parentheses denote that this task does not necessarily apply to U.S. jurisdiction, but that the task must be addressed if the U.S. populations are to be
+restored. Such tasks may require U.S. resource agencies to support recovery tasks in other political jurisdictions.
+B
+The lead agency is listed first.
+
+IMPLEMENTATION SCHEDULE/U.S. PACIFIC
+Leatherback (Dermochelys coriacea)
+General Task
+Categories
+
+Plan Task
+
+PriorityA
+
+Task
+Duration
+
+Agencies
+ResponsibleB
+
+Estimated Fiscal Year Costs $K
+Current
+
+1.1 Protect & manage
+turtles on nesting
+beaches (cont.)
+1.1.4 Reduce effects
+of artificial lighting
+on hatchlings &
+nesting females
+
+1.1 Protect & manage
+turtles on nesting
+beaches (cont.)
+1.1.5 Collect
+biological information
+on nesting populations
+
+A
+
+57
+
+FY2
+
+FY3
+
+FY4
+
+Comments/
+Notes
+FY5
+
+1.1.4.1 Quantify
+effects of artificial
+lighting
+
+(3)
+
+Continuing
+
+1.1.4.2 Implement,
+enforce, evaluate
+lighting regulations or
+other lighting control
+measures
+
+(3)
+
+Continuing
+
+1.1.5.1 Monitor
+nesting activity,
+identify important
+nesting beaches,
+determine population
+trends
+
+(1)
+
+Continuing
+
+80
+
+80
+
+80
+
+80
+
+80
+
+Includes Mexico,
+Central America,
+Indonesia
+
+1.1.5.2 Evaluate nest
+success, implement
+nest-protection
+measures
+
+(1)
+
+10 years
+
+100
+
+100
+
+100
+
+100
+
+100
+
+Includes Mexico,
+Central America,
+Indonesia. Reevaluate after 10
+years.
+
+1.1.5.3 Define stock
+boundaries
+
+1
+
+10 years
+
+80
+
+50
+
+50
+
+50
+
+10
+
+FWS, DOS,
+NMFS
+
+No additional
+costs.
+Information
+gathered as part
+of nest surveys
+No specific
+additional costs.
+Carried out by incountry regulatory
+agencies
+
+NMFS, FWS
+
+( ) parentheses denote that this task does not necessarily apply to U.S. jurisdiction, but that the task must be addressed if the U.S. populations are to be
+restored. Such tasks may require U.S. resource agencies to support recovery tasks in other political jurisdictions.
+B
+The lead agency is listed first.
+
+IMPLEMENTATION SCHEDULE/U.S. PACIFIC
+Leatherback (Dermochelys coriacea)
+General Task
+Categories
+
+Plan Task
+
+PriorityA
+
+Task
+Duration
+
+Agencies
+ResponsibleB
+
+Estimated Fiscal Year Costs $K
+Current
+
+1.1 Protect & manage
+turtles on nesting
+beaches (cont.)
+
+1.1.5.3.1 Identify
+stock type for major
+nesting beach areas
+
+1.1.5 Collect
+biological information
+on nesting populations
+(cont.)
+
+1.2 Protect & manage
+nesting habitat
+
+A
+
+58
+
+FWS, NMFS
+
+FY2
+
+FY3
+
+FY4
+
+Comments/
+Notes
+FY5
+
+(1)
+
+10 years
+
+1.1.5.3.2 Determine
+nesting beach originsjuvenile & subadult
+populations
+
+1
+
+10 years
+
+Costs covered by
+Task 1.1.5.3
+
+1.1.5.3.3 Determine
+genetic relationship
+among populations
+
+1
+
+10 years
+
+Costs covered by
+Task 1.1.5.3
+
+1.2.1. Prevent
+degradation due to
+erosion-control
+measures, jetties &
+breakwaters
+
+(3)
+
+Continuing
+
+1.2.2 Eliminate sand,
+coral rubble removal
+& mining practices
+
+(3)
+
+Continuing
+
+FWS, DOS,
+NMFS
+
+Costs covered by
+Task 1.1.5.3
+
+No costs. Carried
+out by in-country
+resource &
+regulatory
+agencies
+No costs. Carried
+out by in-country
+resource &
+regulatory
+agencies
+
+( ) parentheses denote that this task does not necessarily apply to U.S. jurisdiction, but that the task must be addressed if the U.S. populations are to be
+restored. Such tasks may require U.S. resource agencies to support recovery tasks in other political jurisdictions.
+B
+The lead agency is listed first.
+
+IMPLEMENTATION SCHEDULE/U.S. PACIFIC
+Leatherback (Dermochelys coriacea)
+General Task
+Categories
+
+Plan Task
+
+PriorityA
+
+Task
+Duration
+
+Agencies
+ResponsibleB
+
+Estimated Fiscal Year Costs $K
+Current
+
+1.2 Protect & manage
+nesting habitat
+(cont.)
+
+A
+
+59
+
+1.2.3 Develop,
+evaluate natural
+beach-landscaping
+guidelines
+
+(3)
+
+Continuing
+
+1.2.4 Ensure
+replenishment
+projects maintain
+quality habitat
+
+(3)
+
+Continuing
+
+1.2.5 Implement nonmechanical beach
+cleaning alternatives
+
+NA
+
+NA
+
+1.2.6 Prevent
+vehicular driving on
+nesting beaches
+
+(3)
+
+Continuing
+
+FWS, DOS,
+
+FY2
+
+FY3
+
+FY4
+
+Comments/
+Notes
+FY5
+No costs. Carried
+out by in-country
+resource &
+regulatory
+agencies
+No costs. Carried
+out by in-country
+resource &
+regulatory
+agencies
+
+No costs. Carried
+out by in-country
+resource &
+regulatory
+agencies
+
+( ) parentheses denote that this task does not necessarily apply to U.S. jurisdiction, but that the task must be addressed if the U.S. populations are to be
+restored. Such tasks may require U.S. resource agencies to support recovery tasks in other political jurisdictions.
+B
+The lead agency is listed first.
+
+IMPLEMENTATION SCHEDULE/U.S. PACIFIC
+Leatherback (Dermochelys coriacea)
+General Task
+Categories
+
+Plan Task
+
+PriorityA
+
+Task
+Duration
+
+Agencies
+ResponsibleB
+
+Estimated Fiscal Year Costs $K
+Current
+
+2.1 Protect & manage
+populations in marine
+habitat
+
+2.1.1.1 Reduce
+directed take through
+education,
+information
+
+1
+
+Continuing
+
+NMFS, U.S.
+West Coast,
+Hawaii,
+American
+Samoa, Guam,
+Palau, CNMI,
+RMI, FSM,
+Unincorp.
+Territories, DOS,
+FWS
+
+2.1.1.2 Maintain
+enforcement reduce
+exploitation
+
+1
+
+Continuing
+
+NMFS, USCG,
+DOS
+
+2.1.2.1 Determine
+distribution,
+abundance
+posthatchlings,
+juveniles, adults
+
+1
+
+10 years
+
+NMFS, FWS
+
+2.1.1 Eliminate
+directed take of turtles
+
+2.1 Protect & manage
+populations in marine
+habitat (cont.)
+2.1.2 Determine
+distribution,
+abundance, status
+
+A
+
+60
+
+30
+
+FY2
+30
+
+FY3
+30
+
+FY4
+30
+
+Comments/
+Notes
+FY5
+
+30
+
+No additional
+costs - part of
+ongoing
+leatherback
+program
+50
+
+20
+
+20
+
+Combine 2.1.2.1
+and 2.1.2.3 under
+single study,
+
+( ) parentheses denote that this task does not necessarily apply to U.S. jurisdiction, but that the task must be addressed if the U.S. populations are to be
+restored. Such tasks may require U.S. resource agencies to support recovery tasks in other political jurisdictions.
+B
+The lead agency is listed first.
+
+IMPLEMENTATION SCHEDULE/U.S. PACIFIC
+Leatherback (Dermochelys coriacea)
+General Task
+Categories
+
+Plan Task
+
+PriorityA
+
+Task
+Duration
+
+Agencies
+ResponsibleB
+
+Estimated Fiscal Year Costs $K
+Current
+
+2.1 Protect & manage
+populations in marine
+habitat (cont.)
+2.1.2 Determine
+distribution,
+abundance, status
+(cont.)
+
+2.1 Protect & manage
+populations in marine
+habitat (cont.)
+2.1.3 Reduce effects
+of entanglement &
+ingestion marine
+debris
+
+A
+
+61
+
+2.1.2.2 Determine
+adult migration
+(males and females)
+routes, internesting
+habitats
+
+1
+
+10 years
+
+2.1.2.3 Determine
+growth rates,
+survivorship, age
+sexual maturity
+
+1
+
+2.1.2.4 Identify
+current threats adults,
+juveniles on foraging
+grounds
+
+NMFS, FWS
+
+FY4
+
+FY5
+
+150
+
+150
+
+30 years
+
+100
+
+50
+
+50
+
+1
+
+10 years
+
+40
+
+40
+
+40
+
+2.1.3.1 Evaluate
+extent ingestion of
+persistent debris &
+entanglement
+
+1
+
+Continuing
+
+25
+
+25
+
+25
+
+25
+
+2.1.3.2 Evaluate
+effects ingestion
+persistent debris &
+entanglement
+
+1
+
+Continuing
+
+30
+
+30
+
+30
+
+30
+
+25
+
+150
+
+FY3
+150
+
+NMFS, EPA
+
+150
+
+FY2
+
+Comments/
+Notes
+
+( ) parentheses denote that this task does not necessarily apply to U.S. jurisdiction, but that the task must be addressed if the U.S. populations are to be
+restored. Such tasks may require U.S. resource agencies to support recovery tasks in other political jurisdictions.
+B
+The lead agency is listed first.
+
+IMPLEMENTATION SCHEDULE/U.S. PACIFIC
+Leatherback (Dermochelys coriacea)
+General Task
+Categories
+
+Plan Task
+
+PriorityA
+
+Task
+Duration
+
+Agencies
+ResponsibleB
+
+Estimated Fiscal Year Costs $K
+Current
+
+2.1 Protect & manage
+populations in marine
+habitat (cont.)
+2.1.4 Monitor, reduce
+incidental mortality in
+commercial,
+recreational fisheries
+
+2.1 Protect & manage
+populations in marine
+habitat (cont.)
+
+A
+
+62
+
+2.1.3.3 Reduce,
+eliminate persistent
+debris and sources of
+entanglement
+
+1
+
+Continuing
+
+NMFS, EPA,
+USCG
+
+2.1.4.1 Monitor
+incidental mortality in
+commercial,
+recreational fisheries
+
+1
+
+Continuing
+
+2.1.4.2 Reduce
+incidental mortality in
+commercial,
+recreational fisheries
+
+1
+
+Continuing
+
+NMFS,
+U.S.West Coast ,
+Hawaii,
+American
+Samoa, Guam,
+Palau, CNMI,
+RMI, FSM,
+Unincorp.
+Territories
+
+2.1.5 Eliminate
+harassment of turtles
+at sea
+
+2
+
+NA
+
+NMFS,
+U.S.West Coast ,
+Hawaii,
+American
+Samoa, Guam,
+Palau, CNMI,
+RMI, FSM,
+Unincorp.
+Territories
+
+FY2
+
+FY3
+
+FY4
+
+Comments/
+Notes
+FY5
+
+10
+
+10
+
+10
+
+10
+
+200
+
+500
+
+500
+
+500
+
+500
+
+Duplicative of
+Task 2.1.4.1 in
+loggerhead plan
+
+250
+
+250
+
+250
+
+250
+
+250
+
+Duplicative of
+Task 2.1.4.1 in
+loggerhead plan
+
+NA
+
+( ) parentheses denote that this task does not necessarily apply to U.S. jurisdiction, but that the task must be addressed if the U.S. populations are to be
+restored. Such tasks may require U.S. resource agencies to support recovery tasks in other political jurisdictions.
+B
+The lead agency is listed first.
+
+IMPLEMENTATION SCHEDULE/U.S. PACIFIC
+Leatherback (Dermochelys coriacea)
+General Task
+Categories
+
+Plan Task
+
+PriorityA
+
+Task
+Duration
+
+Agencies
+ResponsibleB
+
+Estimated Fiscal Year Costs $K
+Current
+
+2.1 Protect & manage
+populations in marine
+habitat (cont.)
+
+A
+
+63
+
+2.1.6 Study the impact
+of diseases on turtles
+
+3
+
+NA
+
+2.1.6.1 Investigate
+parasites and other
+infectious agents
+
+3
+
+1 year
+
+2.1.7 Develop carcass
+stranding network
+
+2
+
+Continuing
+
+2.1.8 Centralize
+tagging program and
+tag-series records
+
+2
+
+Continuing
+
+FY2
+
+FY3
+
+FY4
+
+Comments/
+Notes
+FY5
+
+NMFS,
+U.S.West Coast ,
+Hawaii,
+American
+Samoa, Guam,
+Palau, CNMI,
+RMI, FSM,
+Unincorp.
+Territories, FWS
+(as appropriate to
+beach habitat)
+NMFS, FWS
+
+NA
+
+Review literature.
+Determine need
+
+5
+
+5
+
+5
+
+5
+
+5
+
+Coordinate with
+existing marine
+mammal network;
+includes all
+species
+
+60
+
+60
+
+60
+
+60
+
+60
+
+Total funds for all
+species
+
+( ) parentheses denote that this task does not necessarily apply to U.S. jurisdiction, but that the task must be addressed if the U.S. populations are to be
+restored. Such tasks may require U.S. resource agencies to support recovery tasks in other political jurisdictions.
+B
+The lead agency is listed first.
+
+IMPLEMENTATION SCHEDULE/U.S. PACIFIC
+Leatherback (Dermochelys coriacea)
+General Task
+Categories
+
+Plan Task
+
+PriorityA
+
+Task
+Duration
+
+Agencies
+ResponsibleB
+
+Estimated Fiscal Year Costs $K
+Current
+
+2.2 Protect & manage
+marine habitat
+
+2.2 Protect & manage
+marine habitat (cont.)
+
+A
+
+64
+
+2.2.1 Identify
+important habitat
+
+1
+
+10 years
+
+2.2.2 Ensure longterm protection
+
+1
+
+Continuing
+
+2.2.3 Prevent
+degradation of marine
+habitat by pollution
+
+(2)
+
+2.2.4 Prevent
+degradation or
+destruction by upland,
+coastal erosion,
+siltation
+
+(2)
+
+2.2.5 Prevent
+degradation of pelagic
+habitat by oil
+transshipment
+2.2.6 Identify other
+threats, take action
+
+FY2
+
+FY3
+
+FY4
+
+Comments/
+Notes
+FY5
+
+NMFS,
+U.S.West Coast ,
+Hawaii,
+American
+Samoa, Guam,
+Palau, CNMI,
+RMI, FSM,
+Unincorp.
+Territories
+
+Should be
+coordinated with
+Tasks 2.1.2.2.
+Funds are covered
+with these tasks.
+
+Continuing
+
+NMFS, EPA,
+USCG, DOS
+
+Part of ongoing
+program activities
+
+NA
+
+FWS, EPA,
+NRCS, DOS,
+NMFS, COE
+
+2
+
+Continuing
+
+USCG, NMFS,
+EPA
+
+Part of ongoing
+program activities
+
+2
+
+Continuing
+
+NMFS, EPA,
+USCG
+
+Part of ongoing
+program activities
+
+Part of ongoing
+program activities
+
+( ) parentheses denote that this task does not necessarily apply to U.S. jurisdiction, but that the task must be addressed if the U.S. populations are to be
+restored. Such tasks may require U.S. resource agencies to support recovery tasks in other political jurisdictions.
+B
+The lead agency is listed first.
+
+IMPLEMENTATION SCHEDULE/U.S. PACIFIC
+Leatherback (Dermochelys coriacea)
+General Task
+Categories
+
+Plan Task
+
+PriorityA
+
+Task
+Duration
+
+Agencies
+ResponsibleB
+
+Estimated Fiscal Year Costs $K
+Current
+
+3 Ensure proper care
+in captivity
+4 International
+cooperation
+
+4 International
+cooperation (cont.)
+
+A
+
+65
+
+NA
+
+FY2
+
+FY3
+
+FY4
+
+Comments/
+Notes
+FY5
+
+NA
+
+4.1 Support
+agreements, conventions, protect in
+foreign water
+
+1
+
+Continuing
+
+FWS, NMFS,
+DOS, DOI, DOC
+
+4.2 CITES
+membership,
+compliance
+
+1
+
+Continuing
+
+4.3 Develop new
+agreements to protect
+in foreign waters
+
+1
+
+Continuing
+
+NMFS, DOS,
+DOI, DOC
+
+4.4 Display
+information at airports
+
+2
+
+5 years
+
+NMFS, U.S.
+West Coast,
+Hawaii,
+American
+Samoa, Guam,
+Palau, CNMI,
+RMI, FSM,
+Unicorp.
+Territories, FWS
+
+15
+
+100
+
+100
+
+100
+
+100
+
+This includes all
+sea turtle species
+and Tasks 4.2, 4.3
+(1 FTE plus
+travel)
+
+15
+
+15
+
+15
+
+15
+
+Includes all sea
+turtle species
+
+( ) parentheses denote that this task does not necessarily apply to U.S. jurisdiction, but that the task must be addressed if the U.S. populations are to be
+restored. Such tasks may require U.S. resource agencies to support recovery tasks in other political jurisdictions.
+B
+The lead agency is listed first.
+
+

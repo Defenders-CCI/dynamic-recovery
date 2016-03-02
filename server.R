@@ -134,6 +134,43 @@ shinyServer(function(input, output, session) {
     #     return(includeMarkdown(res))
     # })
 
+    output$five_factors_pie <- renderGvis({
+        scores <- c(input$factor_A, input$factor_B, input$factor_C,
+                    input$factor_D, input$factor_E)
+        vars <- c("habitat", "overutilization", "disease/predation",
+                  "inadequate reg.", "other factors")
+        dat <- data.frame(vars, scores)
+        gvisPieChart(
+            dat,
+            options = list(height="350px",
+                           chartArea="{left: 20, top: 50, width:'100%', height:'100%'}")
+        )
+    })
+
+    output$past_status_scores <- renderGvis({
+        threats <- c(-1, NA, NA, NA, NA, NA, NA, NA, NA, -0.5, NA, NA, NA, NA,
+                     NA, -0.5, NA, NA)
+        demography <- c(-1, NA, NA, NA, NA, NA, NA, NA, NA, -0.5, NA, NA, NA, NA,
+                        NA, 0, NA, NA)
+        year <- seq(from = 1998, to = 2015, by = 1)
+        year <- as.character(year)
+        dat <- data.frame(threats, demography, year)
+        gvisLineChart(dat,
+            xvar = "year",
+            yvar = c("threats", "demography"),
+            options = list(legend = "{position:'top'}",
+                           vAxis = "{title:'Score', minValue:'-1', maxValue:'1'}",
+                           hAxis = "{title:'Year'}",
+                           height = 300,
+                           dataOpacity = 0.3,
+                           pointSize = 9,
+                           lineWidth = 2,
+                           chartArea="{bottom: 20, left: 100, width:'80%', height:'70%'}"
+                      ) 
+            )
+    })
+    outputOptions(output, "past_status_scores", suspendWhenHidden = TRUE)
+
     output$cur_section10 <- renderText({
         res <- paste0("txt/", sci_fold(), "/section10.md")
         return(includeMarkdown(res))

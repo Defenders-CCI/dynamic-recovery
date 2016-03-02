@@ -39,7 +39,7 @@ library(maptools)
 library(sp)
 
 
-# library(googleVis)
+library(googleVis)
 library(plyr)
 
 # source("data_mgmt/make_dataframes.R")

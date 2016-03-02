@@ -26,6 +26,7 @@
 # readability.
 #############################################################################
 
+
 no_data <- function() {
     return("No data meets selection criteria...")
 }

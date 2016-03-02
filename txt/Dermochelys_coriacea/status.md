@@ -1,5 +1,3 @@
-## Status
-
 ### From the 2013 five-year review synthesis
 
 Recent research has added to our knowledge of how leatherback sea turtles interact with their environment and how they contribute to a healthy marine ecosystem. We know more now about their migration patterns. We have a better understanding of the biological and environmental factors that influence where leatherbacks forage. The results of long-term studies have filled gaps in our understanding of demography and population structure. Advances in genetic and stable isotope analyses, tagging techniques, especially satellite, radio, and sonic telemetry have vastly improved our knowledge of the biology and ecology of leatherback sea turtles.  Understanding the ecological role leatherbacks hold in their environment and predicting where they are in space and time are important for developing management strategies to meet recovery goals and objectives (see section 2.3.1).
@@ -15,7 +13,7 @@ these international instruments varies due to many factors such as participation
 compliance (see section 2.3.2.4). 
 
 
-### From 1998 recovery plan
+### From the 1998 recovery plan
 
 The leatherback sea turtle is listed as Endangered throughout its entire range under the U.S. Endangered Species Act (ESA) of 1973, as amended. Similarly, the species is classified as Endangered in the International Union for Conservation of Nature and Natural Resources' (IUCN) Red Data Book, where taxa so classified are considered to be "in danger of extinction and whose survival is unlikely if the causal factors continue operating" (Groombridge 1982).  Leatherbacks are included in Appendix I of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), a designation which effectively bans trade in specimens or products except by special permit. Such permit must show that the trade is not detrimental to the survival of the species and is not for primarily commercial purposes (Lyster 1985). There is no commercial trade in leatherback sea turtles or their parts or products at the present time (Milliken and Tokunaga 1987; Mack et al. 1982). Neither Critical Habitat (under the aegis of the ESA) nor any protected areas have been established for this species in the U.S. Pacific, largely because nesting is not known to occur and important foraging areas have not been identified.
 
@@ -24,7 +22,7 @@ Leatherbacks are seriously declining at all major Pacific basin rookeries, inclu
 No attempt has yet been made to assess the status of foraging populations. Despite occasional reports of leatherbacks sighted at sea, and a growing database documenting their incidental catch in coastal and pelagic fisheries, there are very few areas where the species is routinely encountered. Exceptions include Monterey Bay, California (Starbird et al. 1993) and southern Queensland and central New South Wales, Australia (Limpus and McLachan 1979).
 
 
-Table 1. A decade of declining leatherback nesting activity at Mexiquillo, Michoacán, based on annual all-night beach patrols throughout the peak November-February nesting season (Cruz et al. 1987; Sarti et al. 1986; Sarti et al. 1987; Sarti et al. 1988; Sarti et al. 1989a; Lopez et al.  1990; Lopez et al. 1991; Lopez et al. 1992.; Sarti et al. 1993; Diaz 1994; Sarti et al. 1996)
+__*Table 1.*__ A decade of declining leatherback nesting activity at Mexiquillo, Michoacán, based on annual all-night beach patrols throughout the peak November-February nesting season (Cruz et al. 1987; Sarti et al. 1986; Sarti et al. 1987; Sarti et al. 1988; Sarti et al. 1989a; Lopez et al.  1990; Lopez et al. 1991; Lopez et al. 1992.; Sarti et al. 1993; Diaz 1994; Sarti et al. 1996)
 
 |  Nesting Season | Number of crawls | Beach km covered |
 |  -------------- | :--------------: | ---------------: |

@@ -20,47 +20,56 @@ recovery_page <- {
         tabsetPanel(
             tabPanel(
                 title="Goals & Criteria",
-                uiOutput("cur_recovery_goals")
+                column(12,
+                    uiOutput("cur_recovery_goals")
+                )
             ),
             tabPanel(
                 title="Actions",
-                dataTableOutput("recovery_actions_table")
+                column(12,
+                    br(),
+                    dataTableOutput("recovery_actions_table")
+                )
             ),
             tabPanel(
                 title="Stepdown",
-                h3("Recovery actions stepdown"),
-                box(uiOutput("cur_recovery_stepdown_1"),
-                    title = "1: Nesting environment",
-                    width = 12,
-                    status = "primary",
-                    collapsible = TRUE,
-                    collapsed = TRUE
-                ),
-                box(uiOutput("cur_recovery_stepdown_2"),
-                    title = "2: Marine environment",
-                    width = 12,
-                    status = "primary",
-                    collapsible = TRUE,
-                    collapsed = TRUE
-                ),
-                box(uiOutput("cur_recovery_stepdown_3"),
-                    title = "3: Ensure proper care in captivity",
-                    width = 12,
-                    status = "primary",
-                    collapsible = TRUE,
-                    collapsed = TRUE
-                ),
-                box(uiOutput("cur_recovery_stepdown_4"),
-                    title = "4: International cooperation",
-                    width = 12,
-                    status = "primary",
-                    collapsible = TRUE,
-                    collapsed = TRUE
+                column(12,
+                    h3("Recovery actions stepdown"),
+                    box(uiOutput("cur_recovery_stepdown_1"),
+                        title = "1: Nesting environment",
+                        width = 12,
+                        status = "primary",
+                        collapsible = TRUE,
+                        collapsed = TRUE
+                    ),
+                    box(uiOutput("cur_recovery_stepdown_2"),
+                        title = "2: Marine environment",
+                        width = 12,
+                        status = "primary",
+                        collapsible = TRUE,
+                        collapsed = TRUE
+                    ),
+                    box(uiOutput("cur_recovery_stepdown_3"),
+                        title = "3: Ensure proper care in captivity",
+                        width = 12,
+                        status = "primary",
+                        collapsible = TRUE,
+                        collapsed = TRUE
+                    ),
+                    box(uiOutput("cur_recovery_stepdown_4"),
+                        title = "4: International cooperation",
+                        width = 12,
+                        status = "primary",
+                        collapsible = TRUE,
+                        collapsed = TRUE
+                    )
                 )
             )
         ),
-        br(),
-        hr(),
+        fluidRow(
+            br(),
+            hr()
+        ),
         fluidRow(
             column(3),
             column(6,
@@ -68,6 +77,9 @@ recovery_page <- {
             ),
             column(3)
         ),
-        hr()
+        fluidRow(
+            hr(),
+            br()
+        )
     )
 }

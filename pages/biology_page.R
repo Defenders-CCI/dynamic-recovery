@@ -14,10 +14,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-openSans <- "<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400' 
-            rel='stylesheet' type='text/css'>"
-fontAwesome <- "<link rel='stylesheet' 
-               href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'/>"
 
 biology_page <- {
     tabPanel(
@@ -25,47 +21,57 @@ biology_page <- {
         tabsetPanel(
             tabPanel(
                 title="Description",
-                uiOutput("cur_description"),
-                span(actionButton("edit-2", 
-                                  label = "Edit", 
-                                  icon = icon("pencil-square-o")),
-                     style = "float: right"
+                column(12,
+                    uiOutput("cur_description"),
+                    span(actionButton("edit-2", 
+                                      label = "Edit", 
+                                      icon = icon("pencil-square-o")),
+                         style = "float: right"
+                    )
                 )
-
             ),
             tabPanel(
                 title="Taxonomy",
-                uiOutput("cur_taxonomy"),
-                span(actionButton("edit-3", 
-                                  label = "Edit", 
-                                  icon = icon("pencil-square-o")),
-                     style = "float: right"
+                column(12,
+                    uiOutput("cur_taxonomy"),
+                    span(actionButton("edit-3", 
+                                      label = "Edit", 
+                                      icon = icon("pencil-square-o")),
+                         style = "float: right"
+                    )
                 )
             ),
             tabPanel(
                 title="Distribution",
-                fluidRow(
-                    br(),
-                    div(style="position:static; padding-left:25px; padding-right:25px",
-                        leafletOutput("sp_map", height=425),
-                        absolutePanel(id = "rezoom", class = "panel panel-default", 
-                            draggable = FALSE, top = "15%", left = "auto", 
-                            right = 30, bottom = "auto", width = "auto", 
-                            height = "auto",
-                            bsButton(inputId="map_rezoom",
-                                label=icon("home", lib="font-awesome"),
-                                size="small")
+                column(12,
+                    fluidRow(
+                        br(),
+                        div(style="position:static; padding-left:25px; padding-right:25px",
+                            leafletOutput("sp_map", height=425),
+                            absolutePanel(id = "rezoom", class = "panel panel-default", 
+                                draggable = FALSE, top = "15%", left = "auto", 
+                                right = 30, bottom = "auto", width = "auto", 
+                                height = "auto",
+                                bsButton(inputId="map_rezoom",
+                                    label=icon("home", lib="font-awesome"),
+                                    size="small")
+                            )
                         )
-                    )
-                ),
-                uiOutput("cur_distribution")
+                    ),
+                    uiOutput("cur_distribution")
+                )
             ),
             tabPanel(
                 title="Natural history",
-                uiOutput("cur_natural_history")
+                column(12,
+                    uiOutput("cur_natural_history")
+                )
             )
         ),
-        br(), hr(),
+        fluidRow(
+            br(),
+            hr()
+        ),
         fluidRow(
             column(3),
             column(6,
@@ -73,6 +79,9 @@ biology_page <- {
             ),
             column(3)
         ),
-        column(1)
+        fluidRow(
+            hr(),
+            br()
+        )
     )
 }
