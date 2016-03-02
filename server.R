@@ -24,6 +24,64 @@ source("data_mgmt/get_gbif.R")
 #############################################################################
 shinyServer(function(input, output, session) {
 
+    output$cur_species <- renderText({
+        strsplit(input$sel_species, split=" (", fixed=TRUE)[[1]][1]
+    })
+
+    get_sci_name <- reactive({
+        tmp <- strsplit(input$sel_species, split=" (", fixed=TRUE)[[1]][2]
+        gsub(")", "", x=tmp, fixed=TRUE)
+    })
+
+    cur_s7 <- reactive({
+        withProgress(message="Getting species data",
+                     detail="Please wait...",
+                     value=0.33, {
+            incProgress(0.25)
+            sp_pattern <- get_sci_name()
+            indices <- grep(sp_pattern, full$spp_ev_ls, value=FALSE, fixed=FALSE)
+            tmp <- full[indices, ]
+        })
+
+        withProgress(message="Updating selectors",
+                     detail="Please wait...",
+                     value=0.33, {
+            incProgress(0.25)
+            # Now get the selection lists:
+            updateSelectInput(session,
+                              "state",
+                              choices = c("All", sort(unique(tmp$state))))
+            updateSelectInput(session,
+                              "action_category",
+                              choices = c("All", sort(unique(tmp$work_category))))
+            updateSelectInput(session,
+                              "lead_agency",
+                              choices = c("All", sort(unique(tmp$lead_agency))))
+            if(input$action_category != "All") {
+                tmp <- tmp[tmp$state == input$state, ]
+            }
+            if(input$action_category != "All") {
+                tmp <- tmp[tmp$work_category == input$action_category, ]
+            }
+            if(input$lead_agency != "All") {
+                tmp <- tmp[tmp$lead_agency == input$lead_agency, ]
+            }
+        })
+        return(tmp)
+    })
+
+    output$consult_by_time <- renderGvis({
+        make_consult_time_figure(cur_s7)
+    })
+
+    output$consult_by_work <- renderGvis({
+        make_work_cat_plot(cur_s7)
+    })
+
+    output$consult_by_agency <- renderGvis({
+        make_agency_figure(cur_s7)
+    })
+
     output$defenders <- renderImage({
         width <- session$clientData$output_defenders_width
         if (width > 100) {
@@ -64,15 +122,6 @@ shinyServer(function(input, output, session) {
                value = paste(readLines("txt/Chelonia_mydas/taxonomy.md"),
                              collapse="\n"),
                "</textarea>")
-    })
-
-    output$cur_species <- renderText({
-        strsplit(input$sel_species, split=" (", fixed=TRUE)[[1]][1]
-    })
-
-    get_sci_name <- reactive({
-        tmp <- strsplit(input$sel_species, split=" (", fixed=TRUE)[[1]][2]
-        gsub(")", "", x=tmp, fixed=TRUE)
     })
 
     output$sci_name <- renderText({

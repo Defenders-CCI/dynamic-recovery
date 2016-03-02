@@ -42,10 +42,10 @@ library(sp)
 library(googleVis)
 library(plyr)
 
-# source("data_mgmt/make_dataframes.R")
+source("data_mgmt/make_dataframes.R")
 # source("data_mgmt/subset_fx.R")
-# source("data_mgmt/summary_fx.R")
-# source("plot/graphs.R")
+source("data_mgmt/summary_fx.R")
+source("plot/bargraphs.R")
 source("txt/help.R")
 source("txt/metadata.R")
 source("txt/notes.R")
@@ -59,48 +59,10 @@ source("txt/text_styles.R")
 avail_spp <- c("Green Sea Turtle (Chelonia mydas)",
                "Leatherback Turtle (Dermochelys coriacea)")
 
-#dbfil <- "data/dbs/SE_Candidates_v036.db"
-#con <- dbConnect(SQLite(), dbfil)
-#tables <- dbListTables(con)
+# This should be df 'full':
+load("data/FWS_S7_clean_30Jul2015.RData")
 
-#cleanq <- function(x) { gsub('"', '', x, fixed=TRUE) }
-#for(i in tables) {
-#    res <- dbSendQuery(con, paste("SELECT * FROM", i))
-#    temp_df <- dbFetch(res)
-#    temp_df <- data.frame(apply(temp_df, MARGIN=2, FUN=cleanq))
-#    temp_df <- temp_df[c(2:length(temp_df[[1]])), ]
-#    assign(i, temp_df)
-#    dbClearResult(res)
-#}
-#dbDisconnect(con)
 
-## Get the connection to the GBIF db opened, ready to pass around
-## GBIF_db <- "data/dbs/GBIF_data_24Jan2016.db"
-## GBIF_con <- dbConnect(SQLite(), GBIF_db)
-
-#Species$comb_name <- paste0(Species$CommonName, " (",
-#                            Species$ScientificName, ")")
-#avail_spp <- c("All", levels(as.factor(Species$comb_name)))
-
-## #############################################################################
-## # Now, load and prep each of the shapefiles...
-#huc_shp <- readShapePoly("data/shp/HUC8_WGS84_simple0-01/HUC8_WGS84_simple0-01.shp",
-#                         proj4string=CRS("+proj=merc +lon_0=90w"))
-#huc_shp@data$HUC_CODE <- as.character(huc_shp@data$HUC_CODE)
-
-## #############################################################################
-## # Now, get the extents and midpoint of each of the shapefiles for zooming in
-## getExtents <- function(x) {
-##     extent <- as.vector(bbox(x))
-##     xmin <- extent[1]
-##     ymin <- extent[2]
-##     xmax <- extent[3]
-##     ymax <- extent[4]
-##     xmid <- (xmin + xmax) / 2
-##     ymid <- (ymin + ymax) / 2
-##     return(list(xmin=xmin, ymin=ymin, xmax=xmax, ymax=ymax, xmid=xmid, ymid=ymid))
-## }
-## 
 #############################################################################
 # update colors for CSS
 validColors_2 <- c("red", "yellow", "aqua", "blue", "light-blue", "green",

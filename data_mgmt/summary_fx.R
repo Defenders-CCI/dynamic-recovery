@@ -66,6 +66,14 @@ get_year_range <- function(x) {
     }
 }
 
+calculate_consults_per_year <- function(x) {
+    return(table(x$FY))
+}
+
+calculate_formal_per_year <- function(x) {
+    return(table(x[x$formal_consult=="Yes",]$FY))
+}
+
 ############################################################################
 # Helper functions for species
 get_number_species <- function(x) {

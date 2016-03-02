@@ -14,71 +14,46 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
+
 ############################################################################
-# Create the df for mapping the selected values
-make_map_df <- function(sub, shp) {
-    cur_huc_list <- sub$HUC8
-    # observe({ print(head(cur_huc_list)) })
-    nvar <- length(shp@data)
-    shp@data$pres_abs <- rep(0, length(shp@data[[nvar]]))
-    shp@data$pres_abs <- ifelse(shp@data$HUC_CODE %in% sub$HUC8,
-                                   1,
-                                   0)
-    # observe({ print(head(shp@data)) })
-    return(shp)
+# Create a small dataframe for front-page summary figure
+make_consult_year_summary_df <- function(x) {
+    cons_yr <- calculate_consults_per_year(x)
+    form_yr <- calculate_formal_per_year(x)
+    years <- names(cons_yr)
+    dat <- data.frame(years, as.vector(cons_yr), as.vector(form_yr))
+    names(dat) <- c("years", "all", "formal")
+    return(dat)
 }
 
 ############################################################################
-# Create a small dataframe for top 25 species bar plot
-tooltips <- function(sp, dol, src) {
-    paste0("<div style='padding:5px 5px 5px 5px;'><b>", 
-           sp, '</b><br>', src, ":<br>$", prettyNum(dol, big.mark=","), "</div>")
-}
-
-make_top_25_df <- function(sub, x, y) {
-    res <- tapply(sub[[y]], INDEX=sub[[x]], FUN=sum, na.rm=TRUE)
-    if (x == "fy") {
-        res_df <- data.frame(num=rep(1:length(res)))
-        res_df[[axis_lab(x)]] <- names(res)
-        res_df[[axis_lab(y)]] <- as.vector(res)
+# Create a small dataframe for state work categories summary figure
+make_state_work_cat_df <- function(x) {
+    categories <- table(droplevels(as.factor(x$work_category)))
+    sorted <- -sort(-categories)
+    if (length(sorted) <= 20) {
+        dat <- data.frame(work_cat=names(sorted), 
+                          consultations=as.vector(sorted))
     } else {
-        end <- ifelse(length(res) > 24, 25, length(res))
-        res <- sort(res, decreasing=TRUE)[1:end]
-        res_df <- data.frame(num=rep(1:length(res)))
-        res_df[[axis_lab(x)]] <- names(res)
-        res_df[[axis_lab(y)]] <- as.vector(res)
+        dat <- data.frame(work_cat=names(sorted)[1:20], 
+                          consultations=as.vector(sorted[1:20]))
     }
-    return(res_df)
+    return(dat)
 }
 
-make_scatterp_df <- function(sub, x, y) {
-    if (y != "number_contracts") {
-        res_df <- data.frame(num=c(1:length(sub[[x]])))
-        res_df[[axis_lab(x)]] <- sub[[x]]
-        res_df[[axis_lab(y)]] <- sub[[y]]
-        res_df <- res_df[, -1]
+############################################################################
+# Create a small dataframe for top 25 agencies bar plot
+make_top_25_agencies_df <- function(sub) {
+    sub_agency <- table(droplevels(as.factor(sub$lead_agency)))
+    sorted <- -sort(-sub_agency)
+    sorted <- sorted[sorted > 0]
+    if (length(sorted) <= 25) {
+        dat <- data.frame(agency=names(sorted), 
+                          consultations=as.vector(sorted))
     } else {
-        n_items <- table(sub$contract_id)
-        dol_contract <- tapply(sub$Contract_Obligation,
-                               INDEX=sub$contract_id,
-                               FUN=mean, na.rm=TRUE)
-        res_df <- data.frame(num=c(1:length(sub[[x]])))
-        res_df[[axis_lab(x)]] <- as.vector(dol_contract)
-        res_df[[axis_lab(y)]] <- as.vector(n_items)
-        res_df <- res_df[, -1]
+        dat <- data.frame(agency=names(sorted)[1:25], 
+                          consultations=as.vector(sorted[1:25]))
     }
-    return(res_df)
+    return(dat)
 }
-
-# make_hist_df <- function(sub, y) {
-#     if (y != "number_contracts") {
-#         res_df2 <- data.frame(num=c(1:length(sub[[y]])))
-#         res_df2[[axis_lab(y)]] <- sub[[y]]
-#     } else {
-#         n_contr <- table(sub$contract_id)
-#         res_df2 <- data.frame(num=c(1:length(n_contr)))
-#         res_df2[[axis_lab(y)]] <- as.vector(n_contr)
-#     }
-#     return(res_df2)
-# }
 
