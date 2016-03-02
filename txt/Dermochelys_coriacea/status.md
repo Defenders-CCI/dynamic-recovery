@@ -1,0 +1,42 @@
+## Status
+
+### From the 2013 five-year review synthesis
+
+Recent research has added to our knowledge of how leatherback sea turtles interact with their environment and how they contribute to a healthy marine ecosystem. We know more now about their migration patterns. We have a better understanding of the biological and environmental factors that influence where leatherbacks forage. The results of long-term studies have filled gaps in our understanding of demography and population structure. Advances in genetic and stable isotope analyses, tagging techniques, especially satellite, radio, and sonic telemetry have vastly improved our knowledge of the biology and ecology of leatherback sea turtles.  Understanding the ecological role leatherbacks hold in their environment and predicting where they are in space and time are important for developing management strategies to meet recovery goals and objectives (see section 2.3.1).
+
+The East Pacific and Malaysia leatherback populations have collapsed, yet Atlantic populations generally appear to be stable or increasing. Many explanations have been provided to explain the disparate population trends, including fecundity and foraging differences seen in the Pacific, Atlantic, and Indian Oceans. Since the last 5-year review, studies indicate that high reproductive output and consistent and high quality foraging areas in the Atlantic Ocean have contributed to the stable or recovering populations; whereas prey abundance and distribution may be more patchy in the Pacific Ocean, making it difficult for leatherbacks to meet their energetic demands and lowering their reproductive output (see section 2.3.1.2).
+
+Both natural and anthropogenic threats to nesting and marine habitats continue to affect leatherback populations, including the 2004 tsunami in the Indian Ocean, 2010 oil spill in the U.S. Gulf of Mexico, logging practices, development, and tourism impacts on nesting beaches in several countries. Egg collection continues to occur in many countries around the world and has been attributed to catastrophic declines in some areas. Although greatly reduced, the killing of nesting females still remains a matter of concern on many beaches. A wide variety of species depredate leatherback nests worldwide (e.g., feral pigs and dogs). Climate change is an emerging and major threat to the conservation and recovery of leatherbacks. The sea level is expected to rise resulting in the loss of nesting habitat. The ocean is expected to become warmer impacting ocean processes and prey abundance and distribution. Average air temperatures are expected to be warmer, thus exposing leatherback eggs to hotter temperatures and skewing natural sex ratios. Loss of suitable nesting habitat is anticipated to continue as coastal areas are developed. Although gear modification and fisheries practices implemented in many fisheries have reduced incidental bycatch of leatherbacks, globally artisanal and commercial fishing operations are major impacts that are far from being resolved. Additional factors affecting leatherbacks include boat strikes, the ingestion of and entanglement in marine debris, and exposure to heavy metals and other contaminants in the nesting and marine environments (see sections 2.3.2.1 through 2.3.2.3 and 2.3.2.5).
+
+Several international agreements provide legal protection for sea turtles; however, additional
+multi-lateral efforts are needed to ensure they are sufficiently implemented and/or strengthened,
+and key non-signatory parties need to be encouraged to accede. The effectiveness of some of
+these international instruments varies due to many factors such as participation, funding, and
+compliance (see section 2.3.2.4). 
+
+
+### From 1998 recovery plan
+
+The leatherback sea turtle is listed as Endangered throughout its entire range under the U.S. Endangered Species Act (ESA) of 1973, as amended. Similarly, the species is classified as Endangered in the International Union for Conservation of Nature and Natural Resources' (IUCN) Red Data Book, where taxa so classified are considered to be "in danger of extinction and whose survival is unlikely if the causal factors continue operating" (Groombridge 1982).  Leatherbacks are included in Appendix I of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), a designation which effectively bans trade in specimens or products except by special permit. Such permit must show that the trade is not detrimental to the survival of the species and is not for primarily commercial purposes (Lyster 1985). There is no commercial trade in leatherback sea turtles or their parts or products at the present time (Milliken and Tokunaga 1987; Mack et al. 1982). Neither Critical Habitat (under the aegis of the ESA) nor any protected areas have been established for this species in the U.S. Pacific, largely because nesting is not known to occur and important foraging areas have not been identified.
+
+Leatherbacks are seriously declining at all major Pacific basin rookeries, including Irian Jaya (Indonesia), Terengganu (Malaysia), and Michoacán (Mexico). At least 13,000 leatherback nests were reported in 1984 on 17.8 km of coast extending eastward from Tanjung Jamursba on the Bird's Head Peninsula, Irian Jaya (Bhaskar 1985). In 1991, Betz and Welch (1992) visited the site and reported that nesting levels had declined to a mere 25% of those reported by Bhaskar; the near total collection of eggs has most certainly contributed to the population's demise. Similarly, the beach at Rantau Abang, Terengganu, has experienced a dramatic decline as a result of intensive egg collection. The data show a steady drop in nesting activity from nearly 11,000 landings in 1956 to 6,721 landings in 1968 to 280 in 1990 (Hendrikson and Alfred 1961; Chua 1988; Mortimer, WWF-Malaysia, in litt., 29 August 1991).  Almost 2,000 females were tagged at Terengganu in 1970, while fewer than 20 females nested in 1993 (Limpus, 1995), largely as a result of intensive egg collection (see Status).  Nesting does not occur in Sabah (de Silva 1982) or Sarawak (Leh 1985). In the case of Mexiquillo, Michoacán, an estimated 4,796 nests were laid on 4.5 km of beach in 1986-1987 and approximately 1,074 nests were laid in 1989-1990 (L. Sarti M., UNAM, unpubl. data). It is not yet clear whether the Mexican decline reflects natural fluctuation, but based on aerial survey data of Sarti et al. 1996 a geographic shift in nesting is unlikely. This decline represents a warning that the population is in serious jeopardy. Nevertheless, it is the contention of those close to the situation that the population is in very serious danger of collapse. Population declines have also been reported in India, Sri Lanka, and Thailand (see Ross and Barwani 1982).
+
+No attempt has yet been made to assess the status of foraging populations. Despite occasional reports of leatherbacks sighted at sea, and a growing database documenting their incidental catch in coastal and pelagic fisheries, there are very few areas where the species is routinely encountered. Exceptions include Monterey Bay, California (Starbird et al. 1993) and southern Queensland and central New South Wales, Australia (Limpus and McLachan 1979).
+
+
+Table 1. A decade of declining leatherback nesting activity at Mexiquillo, Michoacán, based on annual all-night beach patrols throughout the peak November-February nesting season (Cruz et al. 1987; Sarti et al. 1986; Sarti et al. 1987; Sarti et al. 1988; Sarti et al. 1989a; Lopez et al.  1990; Lopez et al. 1991; Lopez et al. 1992.; Sarti et al. 1993; Diaz 1994; Sarti et al. 1996)
+
+|  Nesting Season | Number of crawls | Beach km covered |
+|  -------------- | :--------------: | ---------------: |
+|  1984-1985      |         4681     |          4.5     |
+|  1985-1986      |         3414     |          4.5     |
+|  1986-1987      |         5667     |          4.5     |
+|  1987-1988      |         3747     |          4.5     |
+|  1988-1989      |         2211     |          4.5     |
+|  1989-1990      |         1752     |          4.5     |
+|  1990-1991      |         1634     |            7     |
+|  1991-1992      |         1496     |            7     |
+|  1992-1993      |         1363     |            7     |
+|  1993-1994      |          93      |            7     |
+|  1994-1995      |            -     |            -     |
+|  1995-1996      |         709      |            7     |

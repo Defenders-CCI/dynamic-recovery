@@ -124,6 +124,21 @@ shinyServer(function(input, output, session) {
         return(includeMarkdown(res))
     })
 
+    output$cur_general_status <- renderText({
+        res <- paste0("txt/", sci_fold(), "/status.md")
+        return(includeMarkdown(res))
+    })
+
+    # output$cur_section7 <- renderText({
+    #     res <- paste0("txt/", sci_fold(), "/section10.md")
+    #     return(includeMarkdown(res))
+    # })
+
+    output$cur_section10 <- renderText({
+        res <- paste0("txt/", sci_fold(), "/section10.md")
+        return(includeMarkdown(res))
+    })
+
     ######################################################################
     # Outputs for the stepdown boxes
     output$cur_recovery_stepdown_1 <- renderText({
