@@ -1,5 +1,5 @@
 <figure style="float:right; padding-left:10px" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Look_ma%2C_I_can_fly%21_%28183138247%29.jpg" width="250px"></td></tr>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Look_ma%2C_I_can_fly%21_%28183138247%29.jpg" width="350px"></td></tr>
     <figcaption>CC BY-SA @jimmyweee <a href="https://commons.wikimedia.org/wiki/File:Look_ma,_I_can_fly!_(183138247).jpg">Wikimedia</a></figcaption>
 </figure>
 

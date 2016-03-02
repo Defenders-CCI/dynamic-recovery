@@ -47,14 +47,14 @@ biology_page <- {
                     fluidRow(
                         br(),
                         div(style="position:static; padding-left:25px; padding-right:25px",
-                            leafletOutput("sp_map", height=425),
-                            absolutePanel(id = "rezoom", class = "panel panel-default", 
-                                draggable = FALSE, top = "15%", left = "auto", 
-                                right = 30, bottom = "auto", width = "auto", 
-                                height = "auto",
-                                bsButton(inputId="map_rezoom",
-                                    label=icon("home", lib="font-awesome"),
-                                    size="small")
+                            leafletOutput("sp_map", height=425 #),
+                            # absolutePanel(id = "rezoom", class = "panel panel-default", 
+                            #     draggable = FALSE, top = "15%", left = "auto", 
+                            #     right = 30, bottom = "auto", width = "auto", 
+                            #     height = "auto",
+                            #     bsButton(inputId="map_rezoom",
+                            #         label=icon("home", lib="font-awesome"),
+                            #         size="small")
                             )
                         )
                     ),

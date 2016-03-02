@@ -1,7 +1,7 @@
 ## Description
 
 <figure style="float:right; padding-left:10px" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Hawksbill_Sea_Turtle_Carey_de_Concha_(5840602412).jpg" width="250px"></td></tr>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Hawksbill_Sea_Turtle_Carey_de_Concha_(5840602412).jpg" width="350px"></td></tr>
     <figcaption>CC BY-SA USFWS <a href="https://commons.wikimedia.org/wiki/File:Hawksbill_Sea_Turtle_Carey_de_Concha_(5840602412).jpg">Wikimedia</a></figcaption>
 </figure>
 
