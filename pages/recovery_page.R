@@ -28,7 +28,35 @@ recovery_page <- {
             ),
             tabPanel(
                 title="Stepdown",
-                uiOutput("cur_recovery_stepdown")
+                h3("Recovery actions stepdown"),
+                box(uiOutput("cur_recovery_stepdown_1"),
+                    title = "1: Nesting environment",
+                    width = 12,
+                    status = "primary",
+                    collapsible = TRUE,
+                    collapsed = TRUE
+                ),
+                box(uiOutput("cur_recovery_stepdown_2"),
+                    title = "2: Marine environment",
+                    width = 12,
+                    status = "primary",
+                    collapsible = TRUE,
+                    collapsed = TRUE
+                ),
+                box(uiOutput("cur_recovery_stepdown_3"),
+                    title = "3: Ensure proper care in captivity",
+                    width = 12,
+                    status = "primary",
+                    collapsible = TRUE,
+                    collapsed = TRUE
+                ),
+                box(uiOutput("cur_recovery_stepdown_4"),
+                    title = "4: International cooperaction",
+                    width = 12,
+                    status = "primary",
+                    collapsible = TRUE,
+                    collapsed = TRUE
+                )
             )
         ),
         br(),

@@ -54,14 +54,14 @@ shinyServer(function(input, output, session) {
 
     output$get_description_ed <- renderText({
         paste0("<textarea rows='25' cols='90' style='font-family:monospace'>",
-               value = paste(readLines("txt/Chelonia_mydas/description.md"), 
+               value = paste(readLines("txt/Chelonia_mydas/description.md"),
                              collapse="\n"),
                "</textarea>")
     })
 
     output$get_taxonomy_ed <- renderText({
         paste0("<textarea rows='25' cols='90' style='font-family:monospace'>",
-               value = paste(readLines("txt/Chelonia_mydas/taxonomy.md"), 
+               value = paste(readLines("txt/Chelonia_mydas/taxonomy.md"),
                              collapse="\n"),
                "</textarea>")
     })
@@ -124,8 +124,25 @@ shinyServer(function(input, output, session) {
         return(includeMarkdown(res))
     })
 
-    output$cur_recovery_stepdown <- renderText({
-        res <- paste0("txt/", sci_fold(), "/recovery_stepdown.md")
+    ######################################################################
+    # Outputs for the stepdown boxes
+    output$cur_recovery_stepdown_1 <- renderText({
+        res <- paste0("txt/", sci_fold(), "/stepdowns/recovery_stepdown_1.md")
+        return(includeMarkdown(res))
+    })
+
+    output$cur_recovery_stepdown_2 <- renderText({
+        res <- paste0("txt/", sci_fold(), "/stepdowns/recovery_stepdown_2.md")
+        return(includeMarkdown(res))
+    })
+
+    output$cur_recovery_stepdown_3 <- renderText({
+        res <- paste0("txt/", sci_fold(), "/stepdowns/recovery_stepdown_3.md")
+        return(includeMarkdown(res))
+    })
+
+    output$cur_recovery_stepdown_4 <- renderText({
+        res <- paste0("txt/", sci_fold(), "/stepdowns/recovery_stepdown_4.md")
         return(includeMarkdown(res))
     })
 
@@ -171,14 +188,14 @@ shinyServer(function(input, output, session) {
 
     #######################################################################
     # Now to make the map
-    output$sp_map <- renderLeaflet({ 
+    output$sp_map <- renderLeaflet({
         GBdat <- current_gbif()
         if(!is.null(GBdat)) {
             ref <- rep("", length(GBdat$references))
             if(!is.null(GBdat$references)) {
                 ref <- ifelse(!is.na(GBdat$references),
-                              paste0("<a href='", 
-                                     GBdat$references, 
+                              paste0("<a href='",
+                                     GBdat$references,
                                      "' target='_blank'>Specimen record</a>"),
                               paste0("<a href=http://www.gbif.org/occurrence/",
                                      GBdat$key,
@@ -195,8 +212,8 @@ shinyServer(function(input, output, session) {
 
 		cur_map <- leaflet(data = coord_dat) %>%
                    addProviderTiles("Stamen.TonerLite") %>%
-                   setView(lng=-110, 
-                           lat=32, 
+                   setView(lng=-110,
+                           lat=32,
                            zoom = 4) %>%
                    addMarkers(lng=~long, lat=~lat, popup=~popup,
                               clusterOptions=markerClusterOptions()) %>%
@@ -217,8 +234,8 @@ shinyServer(function(input, output, session) {
             ref <- rep("", length(GBdat$references))
             if(!is.null(GBdat$references)) {
                 ref <- ifelse(!is.na(GBdat$references),
-                              paste0("<a href='", 
-                                     GBdat$references, 
+                              paste0("<a href='",
+                                     GBdat$references,
                                      "' target='_blank'>Specimen record</a>"),
                               paste0("<a href=http://www.gbif.org/occurrence/",
                                      GBdat$key,
@@ -242,8 +259,8 @@ shinyServer(function(input, output, session) {
     observe({
         input$map_rezoom
         leafletProxy("sp_map") %>%
-            setView(lng=-110, 
-                    lat=32, 
+            setView(lng=-110,
+                    lat=32,
                     zoom = 4)
     })
 
