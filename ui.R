@@ -32,6 +32,7 @@ sidebar <- dashboardSidebar(disable = TRUE)
 #############################################################################
 # Define the page(s) with dashboardBody
 body <- dashboardBody(
+    includeCSS("www/custom_styles.css"),
     bsModal(id = "instructions",
             title = "How do I use this app?",
             trigger = "get_started",
@@ -102,19 +103,24 @@ body <- dashboardBody(
             fluidRow(
                 br(), br(),
                 column(2,
-                    selectInput(
-                        inputId = "sel_species",
-                        label = h4("Select a species", style = "font-weight:bold"),
-                        choices = avail_spp,
-                        width = "100%"
-                    ),
-                    wellPanel(
-                        p("PROTOTYPE", style="color: red; font-weight: bold")
-                        , helpText("The dynamic recovery plans in this app are based on recovery plans compiled and maintained by the National Marine Fisheries Service and the U.S. Fish and Wildlife Service. The app is only a prototype, and lacks significant functionality that a full demonstration app would have.")
-                        , hr()
-                        , a(href="http://www.defenders.org",
-                            imageOutput("defenders", height=NULL))
-                        , hr()
+                    absolutePanel(id = "help-button-box", class = "panel panel-default", 
+                        fixed = TRUE, draggable = FALSE, top = 75, left = 40, 
+                        right = "auto", bottom = "auto", width = "16%", height = "auto",
+
+                        selectInput(
+                            inputId = "sel_species",
+                            label = h4("Select a species", style = "font-weight:bold"),
+                            choices = avail_spp,
+                            width = "100%"
+                        ),
+                        wellPanel(
+                            p("PROTOTYPE", style="color: red; font-weight: bold"), 
+                            helpText("The dynamic recovery plans in this app are based on recovery plans compiled and maintained by the National Marine Fisheries Service and the U.S. Fish and Wildlife Service. The app is only a prototype, and lacks significant functionality that a full demonstration app would have."),
+                            hr(),
+                            a(href="http://www.defenders.org",
+                                imageOutput("defenders", height=NULL)),
+                            hr()
+                        )
                     )
                 ),
                 column(10,

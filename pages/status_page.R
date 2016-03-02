@@ -115,11 +115,14 @@ status_page <- {
                         )
                     ),
                     column(9,
-                        h3("FWS section 7 consultations through time"),
+                        h3("FWS section 7 consultations through time",
+                           style = "text-align:center"),
                         htmlOutput("consult_by_time"),
-                        h3("FWS section 7 consultations by work type"),
+                        h3("FWS section 7 consultations by work type",
+                           style = "text-align:center"),
                         htmlOutput("consult_by_work"),
-                        h3("FWS section 7 consultations by agency"),
+                        h3("FWS section 7 consultations by agency",
+                           style = "text-align:center"),
                         htmlOutput("consult_by_agency")
                     )
                 )
