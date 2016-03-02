@@ -51,7 +51,7 @@ recovery_page <- {
                     collapsed = TRUE
                 ),
                 box(uiOutput("cur_recovery_stepdown_4"),
-                    title = "4: International cooperaction",
+                    title = "4: International cooperation",
                     width = 12,
                     status = "primary",
                     collapsible = TRUE,
