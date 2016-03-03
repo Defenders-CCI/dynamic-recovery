@@ -24,6 +24,8 @@ source("data_mgmt/get_gbif.R")
 #############################################################################
 shinyServer(function(input, output, session) {
 
+    ######################################################################
+    # Some basic functions
     output$cur_species <- renderText({
         strsplit(input$sel_species, split=" (", fixed=TRUE)[[1]][1]
     })
@@ -33,6 +35,37 @@ shinyServer(function(input, output, session) {
         gsub(")", "", x=tmp, fixed=TRUE)
     })
 
+    output$sci_name <- renderText({
+        get_sci_name()
+    })
+
+    sci_fold <- reactive({
+        gsub(" ", "_", x=get_sci_name(), fixed=TRUE)
+    })
+
+    output$defenders <- renderImage({
+        width <- session$clientData$output_defenders_width
+        if (width > 100) {
+            width <- 100
+        }
+        list(src = "www/01_DOW_LOGO_COLOR_300.png",
+             contentType = "image/png",
+             alt = "Defenders of Wildlife",
+             width=width)
+    }, deleteFile=FALSE)
+
+    edit_text <- function(x) {
+        observe({
+            y <- input$edit_text
+            updateTextInput(session,
+                "mod_text_edit",
+                value = readLines("txt/synopsis.md")
+            )
+        })
+    }
+
+    ######################################################################
+    # Get the section 7 data and make the plots
     cur_s7 <- reactive({
         withProgress(message="Getting species data",
                      detail="Please wait...",
@@ -82,27 +115,8 @@ shinyServer(function(input, output, session) {
         make_agency_figure(cur_s7)
     })
 
-    output$defenders <- renderImage({
-        width <- session$clientData$output_defenders_width
-        if (width > 100) {
-            width <- 100
-        }
-        list(src = "www/01_DOW_LOGO_COLOR_300.png",
-             contentType = "image/png",
-             alt = "Defenders of Wildlife",
-             width=width)
-    }, deleteFile=FALSE)
-
-    edit_text <- function(x) {
-        observe({
-            y <- input$edit_text
-            updateTextInput(session,
-                "mod_text_edit",
-                value = readLines("txt/synopsis.md")
-            )
-        })
-    }
-
+    ######################################################################
+    # A big chunk of markdown rendering functions
     output$get_synopsis_ed <- renderText({
         t <- paste(readLines("txt/Chelonia_mydas/synopsis.md"), collapse="\n")
         paste0("<textarea rows='25' cols='90' style='font-family:monospace'>",
@@ -122,14 +136,6 @@ shinyServer(function(input, output, session) {
                value = paste(readLines("txt/Chelonia_mydas/taxonomy.md"),
                              collapse="\n"),
                "</textarea>")
-    })
-
-    output$sci_name <- renderText({
-        get_sci_name()
-    })
-
-    sci_fold <- reactive({
-        gsub(" ", "_", x=get_sci_name(), fixed=TRUE)
     })
 
     output$cur_synopsis <- renderText({
@@ -178,11 +184,13 @@ shinyServer(function(input, output, session) {
         return(includeMarkdown(res))
     })
 
-    # output$cur_section7 <- renderText({
-    #     res <- paste0("txt/", sci_fold(), "/section10.md")
-    #     return(includeMarkdown(res))
-    # })
+    output$cur_section10 <- renderText({
+        res <- paste0("txt/", sci_fold(), "/section10.md")
+        return(includeMarkdown(res))
+    })
 
+    ######################################################################
+    # Illustrating the five factor importance idea
     output$five_factors_pie <- renderGvis({
         scores <- c(input$factor_A, input$factor_B, input$factor_C,
                     input$factor_D, input$factor_E)
@@ -196,6 +204,8 @@ shinyServer(function(input, output, session) {
         )
     })
 
+    ######################################################################
+    # Illustrating the threats and demography scoring idea
     output$past_status_scores <- renderGvis({
         threats <- c(-1, NA, NA, NA, NA, NA, NA, NA, NA, -0.5, NA, NA, NA, NA,
                      NA, -0.5, NA, NA)
@@ -219,11 +229,6 @@ shinyServer(function(input, output, session) {
             )
     })
     outputOptions(output, "past_status_scores", suspendWhenHidden = TRUE)
-
-    output$cur_section10 <- renderText({
-        res <- paste0("txt/", sci_fold(), "/section10.md")
-        return(includeMarkdown(res))
-    })
 
     ######################################################################
     # Outputs for the stepdown boxes
@@ -253,6 +258,44 @@ shinyServer(function(input, output, session) {
         dat
     })
 
+    cur_sp_str <- function() {
+        gsub(" ", "+", get_sci_name(), fixed=TRUE)
+    }
+
+    goog <- reactive({
+        paste0("https://scholar.google.com/scholar?hl=en&q=", cur_sp_str())
+    })
+
+    pubmed <- reactive({
+        paste0("http://www.ncbi.nlm.nih.gov/pubmed?term=", cur_sp_str())
+    })
+
+    ms <- reactive({
+        paste0("https://academic.microsoft.com/#/search?iq=%40", 
+               cur_sp_str(),
+               "%40&q=",
+               cur_sp_str(),
+               "&from=0&sort=0")
+    })
+
+    output$goog_srch <- renderUI({
+        tags$a(get_sci_name(),
+               href=goog(),
+               target='_blank')
+    })
+
+    output$pubmed_srch <- renderUI({
+        tags$a(get_sci_name(),
+               href=pubmed(),
+               target='_blank')
+    })
+
+    output$ms_srch <- renderUI({
+        tags$a(get_sci_name(),
+               href=ms(),
+               target='_blank')
+    })
+
     output$cur_literature <- renderText({
         res <- paste0("txt/", sci_fold(), "/literature.md")
         return(includeMarkdown(res))
@@ -263,12 +306,28 @@ shinyServer(function(input, output, session) {
         return(includeMarkdown(res))
     })
 
-    #########################################################################
-    #########################################################################
-    # Now all of the code for the map!                                      #
-    #########################################################################
-    #########################################################################
+    output$cur_sci_needs_1 <- renderText({
+        res <- paste0("txt/", sci_fold(), "/sci_needs/sci_needs_1.md")
+        return(includeMarkdown(res))
+    })
 
+    output$cur_sci_needs_2 <- renderText({
+        res <- paste0("txt/", sci_fold(), "/sci_needs/sci_needs_2.md")
+        return(includeMarkdown(res))
+    })
+
+    output$cur_sci_needs_3 <- renderText({
+        res <- paste0("txt/", sci_fold(), "/sci_needs/sci_needs_3.md")
+        return(includeMarkdown(res))
+    })
+
+    output$cur_sci_needs_4 <- renderText({
+        res <- paste0("txt/", sci_fold(), "/sci_needs/sci_needs_4.md")
+        return(includeMarkdown(res))
+    })
+
+    #########################################################################
+    # Now all of the code for the map!                                      
     current_gbif <- reactive({
         withProgress(message="Getting GBIF records",
                      detail="Please wait...",

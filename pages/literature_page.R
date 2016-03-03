@@ -18,10 +18,35 @@ literature_page <- {
     tabPanel(
         title="Literature",
         br(),
-        column(12,
-            uiOutput("cur_literature")
+        fluidRow(
+            column(8,
+                uiOutput("cur_literature")
+            ),
+            column(4,
+                h3("Search for information"),
+                infoBox(
+                    title="Google Scholar",
+                    value=uiOutput('goog_srch'),
+                    icon=icon("search"),
+                    color="blue",
+                    width=NULL
+                ),
+                infoBox(
+                    title="PubMed",
+                    value=uiOutput('pubmed_srch'),
+                    icon=icon("search"),
+                    color="navy",
+                    width=NULL
+                ),
+                infoBox(
+                    title="Microsoft Academic",
+                    value=uiOutput('ms_srch'),
+                    icon=icon("search"),
+                    color="purple",
+                    width=NULL
+                )
+            )
         ),
-        br(),
 
         fluidRow(
             br(),

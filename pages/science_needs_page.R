@@ -14,26 +14,92 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-openSans <- "<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400' 
-            rel='stylesheet' type='text/css'>"
-fontAwesome <- "<link rel='stylesheet' 
-               href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'/>"
 
 science_needs_page <- {
     tabPanel(
         title="Science needs",
         br(),
-        uiOutput("cur_science_needs"),
-        br(),
 
-        hr(),
-        br(),
+        # need / want another way to show science needs than just .md
+        fluidRow(
+            box(uiOutput("cur_sci_needs_1"),
+				bsButton("atag", 
+                         "Take", 
+                         icon = icon("hashtag"),
+                         style = "warning",
+						 size = "small", 
+                         disabled = TRUE,
+                         value = FALSE
+                ),
+                span(bsButton("to_discussion", 
+                              "Discuss", 
+                              icon = icon("comment"),
+                              style = "primary",
+                              size = "small"
+                     ),
+                     style = "float: right"
+                ),
+                solidHeader = TRUE, 
+                status = "success",
+                width = 4),
+            box(uiOutput("cur_sci_needs_2"),
+				bsButton("btag", 
+                         "Ecology", 
+                         icon = icon("hashtag"),
+                         style = "success",
+						 size = "small", 
+                         disabled = TRUE,
+                         value = FALSE),
+                solidHeader = TRUE, 
+                status = "success",
+                width = 4),
+            box(uiOutput("cur_sci_needs_3"),
+				bsButton("ctag", 
+                         "Ecology", 
+                         icon = icon("hashtag"),
+                         style = "success",
+						 size = "small", 
+                         disabled = TRUE,
+                         value = FALSE),
+                solidHeader = TRUE, 
+                status = "success",
+                width = 4)
+        ),
+
+        fluidRow(
+            box(uiOutput("cur_sci_needs_4"),
+				bsButton("dtag", 
+                         "Demograpy", 
+                         icon = icon("hashtag"),
+                         style = "primary",
+						 size = "small", 
+                         disabled = TRUE,
+                         value = FALSE),
+				bsButton("etag", 
+                         "Ecology", 
+                         icon = icon("hashtag"),
+                         style = "success",
+						 size = "small", 
+                         disabled = TRUE,
+                         value = FALSE),
+                solidHeader = TRUE, 
+                status = "success",
+                width = 4)
+        ),
+
+        fluidRow(
+            br(),
+            hr()
+        ),
         fluidRow(
             column(3),
             column(6,
                 div(HTML(defenders_cc()), style=center_text)
             ),
-            column(3),
+            column(3)
+        ),
+        fluidRow(
+            hr(),
             br()
         )
     )
