@@ -72,7 +72,7 @@ shinyServer(function(input, output, session) {
                      value=0.33, {
             incProgress(0.25)
             sp_pattern <- get_sci_name()
-            indices <- grep(sp_pattern, full$spp_ev_ls, value=FALSE, fixed=FALSE)
+            indices <- grep(sp_pattern, full$spp_ev_ls, value=FALSE, fixed=TRUE)
             tmp <- full[indices, ]
         })
 
@@ -326,6 +326,11 @@ shinyServer(function(input, output, session) {
         return(includeMarkdown(res))
     })
 
+    output$cur_changes <- renderText({
+        res <- "txt/changelog.md"
+        return(includeMarkdown(res))
+    })
+
     #########################################################################
     # Now all of the code for the map!                                      
     current_gbif <- reactive({
@@ -423,5 +428,17 @@ shinyServer(function(input, output, session) {
                     lat=32,
                     zoom = 4)
     })
+
+    #######################################################################
+    # Show the recovery plan need tables (screenshots)
+    output$expected_cost <- renderImage({
+        width <- session$clientData$output_expected_cost_width
+        src <- paste0("data/", sci_fold(), "/page1_cost_est.png")
+        list(src = src,
+             contentType = "image/png",
+             alt = "From first page of recovery plan implementation, 1998",
+             width = width)
+    }, deleteFile=FALSE)
+
 
 })

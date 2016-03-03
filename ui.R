@@ -19,6 +19,7 @@ source("pages/biology_page.R")
 source("pages/threats_page.R")
 source("pages/recovery_page.R")
 source("pages/status_page.R")
+source("pages/resources_page.R")
 source("pages/science_needs_page.R")
 source("pages/literature_page.R")
 source("pages/discussion_page.R")
@@ -35,10 +36,18 @@ body <- dashboardBody(
     HTML("<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
          <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'/>"),
     includeCSS("www/custom_styles.css"),
-    bsModal(id = "instructions",
-            title = "How do I use this app?",
-            trigger = "get_started",
-            includeMarkdown("txt/getting_started.md"),
+
+    bsModal(id = "contrib_guide",
+            title = "Contributing to the discussion",
+            trigger = "contrib",
+            includeMarkdown("txt/contributing.md"),
+            size = "large"
+    ),
+
+    bsModal(id = "banning_guide",
+            title = "We reserve the right to ban",
+            trigger = "contrib2",
+            includeMarkdown("txt/banning.md"),
             size = "large"
     ),
 
@@ -136,6 +145,7 @@ body <- dashboardBody(
                         threats_page,
                         recovery_page,
                         status_page,
+                        resources_page,
                         literature_page,
                         science_needs_page,
                         discussion_page,
@@ -146,8 +156,8 @@ body <- dashboardBody(
 		),
         theme = "yeti.css",
         inverse = FALSE,
-        position = "fixed-top",
-        windowTitle = "Dynamic Recovery"
+        position = "fixed-top" #,
+        # windowTitle = "Dynamic Recovery"
     )
 )
 

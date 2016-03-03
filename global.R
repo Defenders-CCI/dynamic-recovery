@@ -60,8 +60,10 @@ avail_spp <- c("Green Sea Turtle (Chelonia mydas)",
                "Leatherback Turtle (Dermochelys coriacea)")
 
 # This should be df 'full':
-load("data/FWS_S7_clean_30Jul2015.RData")
-
+# load("data/FWS_S7_clean_30Jul2015.RData")
+load("data/green_leatherback_section7_03Mar2016.RData")
+full <- turtles
+rm(turtles)
 
 #############################################################################
 # update colors for CSS

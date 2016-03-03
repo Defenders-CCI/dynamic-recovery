@@ -82,7 +82,7 @@ h1, h2, h3, h4 { font-weight: 400; }
 #controls {
   /* Appearance */
   background-color: white;
-  /* padding: 0 0 0 0; */
+  padding: 0 0 0 0;
   cursor: move;
   /* Fade out while not hovering */
   opacity: 0.9;
@@ -100,7 +100,7 @@ h1, h2, h3, h4 { font-weight: 400; }
   background-color: transparent;
   border-color: transparent;
   box-shadow: none;
-  /* padding: 0 0 0 0; */
+  padding: 0 0 0 0;
   /* Fade out while not hovering */
   opacity: 0.85;
   zoom: 0.9;
@@ -137,7 +137,3 @@ h1, h2, h3, h4 { font-weight: 400; }
   background-color: white !important;
 }
 
-/* .bottom-align { */
-/*     position: absolute; */
-/*     bottom: 12px; */
-/* } */

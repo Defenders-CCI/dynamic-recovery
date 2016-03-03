@@ -14,26 +14,30 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-openSans <- "<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400' 
-            rel='stylesheet' type='text/css'>"
-fontAwesome <- "<link rel='stylesheet' 
-               href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'/>"
-
 changes_page <- {
     tabPanel(
         title="Changes",
         br(),
-        uiOutput("cur_changes"),
-        br(),
+        fluidRow(
+            column(12,
+                uiOutput("cur_changes")
+            )
+        ),
 
-        hr(),
-        br(),
+        # and now the ubiquitous footer
+        fluidRow(
+            br(),
+            hr()
+        ),
         fluidRow(
             column(3),
             column(6,
                 div(HTML(defenders_cc()), style=center_text)
             ),
-            column(3),
+            column(3)
+        ),
+        fluidRow(
+            hr(),
             br()
         )
     )
