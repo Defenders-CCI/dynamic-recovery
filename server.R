@@ -65,6 +65,10 @@ shinyServer(function(input, output, session) {
     }
 
     ######################################################################
+    # Make the recovery actions-criteria-threats table and network
+    # output$act_crit_threat <- renderForce
+
+    ######################################################################
     # Get the section 7 data and make the plots
     cur_s7 <- reactive({
         withProgress(message="Getting species data",

@@ -19,14 +19,27 @@ synopsis_page <- {
     tabPanel(
         title="Synopsis",
         br(),
-        fluidRow(
-            column(12,
-                uiOutput("cur_synopsis"),
-                span(actionButton("edit", 
-                                  label = "Edit", 
-                                  icon = icon("pencil-square-o")),
-                     style = "float: right"
+        tabsetPanel(
+            tabPanel(
+                title = "Summary",
+                fluidRow(
+                    column(12,
+                        uiOutput("cur_synopsis"),
+                        span(actionButton("edit", 
+                                          label = "Edit", 
+                                          icon = icon("pencil-square-o")),
+                             style = "float: right"
+                        )
+                    )
                 )
+            ),
+            tabPanel(
+                title = "Table",
+                p("Insert the table")
+            ),
+            tabPanel(
+                title = "Network",
+                forceNetworkOutput("act_crit_threat")
             )
         ),
         fluidRow(

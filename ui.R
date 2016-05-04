@@ -34,7 +34,9 @@ sidebar <- dashboardSidebar(disable = TRUE)
 # Define the page(s) with dashboardBody
 body <- dashboardBody(
     HTML("<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
-         <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'/>"),
+         <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'/>
+        <script async defer src='https://hypothes.is/embed.js'></script>"
+         ),
     includeCSS("www/custom_styles.css"),
 
     bsModal(id = "contrib_guide",

@@ -26,6 +26,7 @@ library(dplyr)
 # library(RCurl)
 # library(jsonlite)
 # library(reldist)
+library(networkD3)
 library(rgbif)
 library(readxl)
 library(shiny)
@@ -51,7 +52,6 @@ source("txt/metadata.R")
 source("txt/notes.R")
 source("txt/text_styles.R")
 # source("txt/synopsis.md")
-
 
 #############################################################################
 # Load the data and basic data prep
