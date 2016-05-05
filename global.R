@@ -14,44 +14,36 @@
 # You should have received a copy of the GNU General Public License
 # along with this program; if not, see <http://www.gnu.org/licenses/>.
 
+
+system("touch restart.txt", intern = FALSE)
+
 #############################################################################
 # Load packages and source files
 #############################################################################
 # library(DBI)
 library(DT)
 library(dplyr)
-# library(httr)
-# library(lattice)
-# library(lubridate)
-# library(RCurl)
-# library(jsonlite)
-# library(reldist)
 library(networkD3)
 library(rgbif)
 library(readxl)
 library(shiny)
 library(shinydashboard)
 library(shinyBS)
-# library(RSQLite)
-# library(xtable)
 
 library(leaflet)
 library(maptools)
 library(sp)
 
-
 library(googleVis)
 library(plyr)
 
 source("data_mgmt/make_dataframes.R")
-# source("data_mgmt/subset_fx.R")
 source("data_mgmt/summary_fx.R")
 source("plot/bargraphs.R")
 source("txt/help.R")
 source("txt/metadata.R")
 source("txt/notes.R")
 source("txt/text_styles.R")
-# source("txt/synopsis.md")
 
 #############################################################################
 # Load the data and basic data prep

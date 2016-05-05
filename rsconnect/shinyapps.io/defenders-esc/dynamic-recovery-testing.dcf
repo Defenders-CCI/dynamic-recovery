@@ -1,0 +1,9 @@
+name: dynamic-recovery-testing
+account: defenders-esc
+server: shinyapps.io
+appId: 90603
+bundleId: 403671
+url: https://defenders-esc.shinyapps.io/dynamic-recovery-testing/
+when: 1458990425.43208
+asMultiple: FALSE
+asStatic: FALSE
