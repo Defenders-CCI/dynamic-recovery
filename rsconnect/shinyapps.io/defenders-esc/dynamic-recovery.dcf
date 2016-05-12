@@ -2,8 +2,8 @@ name: dynamic-recovery
 account: defenders-esc
 server: shinyapps.io
 appId: 85848
-bundleId: 386780
+bundleId: 448958
 url: https://defenders-esc.shinyapps.io/dynamic-recovery/
-when: 1457034894.5628
+when: 1463060337.30562
 asMultiple: FALSE
 asStatic: FALSE
