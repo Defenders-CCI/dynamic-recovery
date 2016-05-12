@@ -1,0 +1,3 @@
+## A prototype app for making dynamic, web-based recovery plans.
+
+Recovery plans for species protected under the U.S. Endangered Species Act have been relatively static documents that are updated, at most, every few decades. This app is a _prototype_ of a dynamic, web-based recovery plan for two sea turtle species, built to highlight some of the ways a new approach to recovery planning can improve the utility and timeliness of recovery information. While this prototype is written in R, using [Shiny](https://shiny.rstudio.com), a full-function demonstration will likely require a different architecture.
