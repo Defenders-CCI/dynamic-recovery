@@ -38,8 +38,8 @@ synopsis_page <- {
                 p("Insert the table")
             ),
             tabPanel(
-                title = "Network",
-                forceNetworkOutput("act_crit_threat")
+                title = "Network" #,
+                # forceNetworkOutput("act_crit_threat")
             )
         ),
         fluidRow(
